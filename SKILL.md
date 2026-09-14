@@ -133,6 +133,7 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 ## Output
 
 - Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
+- Give every section label its own line, followed by a blank line, then the lyrics. This keeps the label visibly separate from the first lyric in rendered Markdown. Apply this spacing to every section, including repeats.
 - Critique: diagnosis first; alts as a short list; no silent full replace.
 - Optional: one-line rhyme-scheme note; a short alt-line list — not a second song.
 - 2–4 questions that would change the next pass.
