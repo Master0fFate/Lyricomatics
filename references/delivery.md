@@ -18,7 +18,19 @@ Standard labels:
 
 Put the title once, above the first label — not as a heading essay.
 
-Lyrics in the section. Blank line between sections. No commentary inside the sheet.
+Give each section label its own line, followed by a blank line, then the lyrics. The blank line keeps the label and first lyric separate when Markdown renders; a single source newline can collapse into a space. Use this layout for every section, including repeated choruses:
+
+```text
+[Verse 1]
+
+I leave your cup beside the sink.
+
+[Chorus]
+
+The kettle clicks for one.
+```
+
+Keep a blank line between sections, too. Keep commentary outside the sheet.
 
 ## Optional note
 
