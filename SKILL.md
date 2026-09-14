@@ -103,7 +103,7 @@ Knife: `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
 
 ### OFFER
 
-Draft/rewrite: labeled lyric sheet, optional alts, 2–4 sharp questions. `references/delivery.md`.
+Draft/rewrite: labeled lyric sheet, optional alts, 2–4 sharp questions. Obey Output sheet layout. `references/delivery.md` if the form is weird.
 Critique: notes and optional alts. No surprise full song.
 Do not dump and vanish. Do not wrap the song in an essay.
 
@@ -133,7 +133,14 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 ## Output
 
 - Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
-- Give every section label its own line, followed by a blank line, then the lyrics. This keeps the label visibly separate from the first lyric in rendered Markdown. Apply this spacing to every section, including repeats.
+- Sheet layout is law. Plain label on its own line, blank line, then lyrics. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings — `**[Verse 1]**` collapses the same way. One source newline after the label still renders as `[Verse 1] Same slow circle` and is a miss. Copy this:
+
+```text
+[Verse 1]
+
+Same slow circle, same assigned height
+```
+
 - Critique: diagnosis first; alts as a short list; no silent full replace.
 - Optional: one-line rhyme-scheme note; a short alt-line list — not a second song.
 - 2–4 questions that would change the next pass.

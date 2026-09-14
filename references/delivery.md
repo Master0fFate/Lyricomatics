@@ -18,7 +18,7 @@ Standard labels:
 
 Put the title once, above the first label — not as a heading essay.
 
-Give each section label its own line, followed by a blank line, then the lyrics. The blank line keeps the label and first lyric separate when Markdown renders; a single source newline can collapse into a space. Use this layout for every section, including repeated choruses:
+Give each section label its own line, followed by a blank line, then the lyrics. The blank line keeps the label and first lyric separate when Markdown renders; a single source newline can collapse into a space. Never wrap labels in bold, italics, or headings. Use this layout for every section, including repeated choruses:
 
 ```text
 [Verse 1]
@@ -28,6 +28,15 @@ I leave your cup beside the sink.
 [Chorus]
 
 The kettle clicks for one.
+```
+
+Wrong — these render as one mashed line:
+
+```text
+[Verse 1] Same slow circle, same assigned height
+
+**[Verse 1]**
+Same slow circle, same assigned height
 ```
 
 Keep a blank line between sections, too. Keep commentary outside the sheet.
@@ -64,6 +73,7 @@ Then stop. No closing paragraph about themes.
 ## Do not
 
 - Wrap the song in a synopsis.
+- Glue the first lyric onto the section label, or bold/heading-wrap the label.
 - Number the sections unless the user writes that way.
 - Paste a brief recap above the lyric on just-write-it jobs (silent CAST stays silent).
 - Offer mixing notes, playlist energy, or generator keywords.
