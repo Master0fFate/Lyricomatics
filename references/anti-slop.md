@@ -210,6 +210,30 @@ Whole map on my wrist, Tokyo to the block
 
 ---
 
+## Machine husk (notes and lyrics)
+
+BLEED is the scan. Do not load a second humanizer skill. These tells hit **offered notes and CAST** as hard as the lyric sheet. If the wrap around the song sounds like a model, the room already failed.
+
+### Em dash as gravitas
+
+**Signal:** Stacked em dashes (—) as fake sophistication in lyrics, CAST, or OFFER. One pause in a theatre line can be a breath. Three in a verse is a blog.
+
+**Move:** Period, comma, line break, or nothing. In notes to the user, write like a person in a room. Do not ban a single dash the writer planted on purpose.
+
+### Essay husks in the mouth
+
+**Signal:** *delve, tapestry, moreover, furthermore, amidst, utilize, it is important to note.* "It is not X. It is Y." on every other line. Semicolon essays. Bold or italic inside a lyric line as if markdown were a singer.
+
+**Move:** Cut the husk. Speech order. If the pocket is oral, fragments beat thesis couplets.
+
+### Caption parallelism
+
+**Signal:** Every line the same syntactic stencil. Anaphora that never breaks. A chorus that could be a product landing page.
+
+**Move:** Break one line on purpose. Keep the hook catchable, not identical.
+
+---
+
 ## Moves that pay rent
 
 Keep these on the bench. They are how most of the cuts above actually happen.
@@ -243,5 +267,6 @@ If a tired person cannot catch the hook, it is not a hook.
 If the last line is a lesson they did not ask for, throw the lesson, keep the image.
 If you would be embarrassed to defend this against the pocket’s never-do list, you already know.
 Do not inject grief to pass this hallway.
+If CAST or OFFER is full of em dashes and "it is not X, it is Y," rewrite the wrap before you defend the song.
 
 Do not announce this pass. Do it. Then OFFER.

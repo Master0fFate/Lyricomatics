@@ -80,9 +80,13 @@ Never average the two rhyme pressures. Never write a “both” voice. If the br
 
 ## If nothing matches
 
-Stay here. Do not invent `references/genres/other.md`. Brief with three questions from `references/briefing.md`, then pick the closest slug and say the stretch in CAST.
+Do not invent `references/genres/other.md`.
 
-Closest-slug heuristics:
+They named a **niche, scene, or aesthetic** (angelcore, phonk, corridos tumbados, UK drill as its own mouth): leave this index. Read [../niche-research.md](../niche-research.md). Map a nearest slug if you can. Browse only as that file allows. Family kill list still wins.
+
+They said a mood with no name ("sad song", "something dark"): brief first. Do not browse.
+
+Closest-slug heuristics when you must approximate without a niche name:
 
 - Story with a zip code and a job → `country.md` or `folk.md` (job/economy vs diary shame).
 - Slogan and an enemy → `punk.md`.

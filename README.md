@@ -66,15 +66,15 @@ LISTEN → CAST → CUT → SING → BLEED → OFFER
 | **BLEED** | Anti-slop pass. No invented grief to “humanize” a celebration. |
 | **OFFER** | Labeled lyric sheet, optional alts, 2–4 questions. Notes only if you asked for notes. |
 
-The agent loads two reference files before ink — a genre pocket and the anti-slop knife — not the whole tree.
+The agent loads two reference files before ink: a family pocket and the anti-slop knife, not the whole tree.
 
 ## Genre pockets
 
-Lyric craft only. No production recipes.
-
-Hip-hop · pop · R&B · country · rock · metal · folk · blues · jazz · theatre · gospel · Caribbean · Afro · Latin · East Asian pop · electronic · punk
+Lyric craft only. No production recipes. Seventeen family files are the law: hip-hop, pop, R&B, country, rock, metal, folk, blues, jazz, theatre, gospel, Caribbean, Afro, Latin, East Asian pop, electronic, punk.
 
 Hybrids pick a **primary** pocket. The secondary file donates its kill list, not a second personality.
+
+If they name a niche those files cannot cover (angelcore, phonk, corridos tumbados, a regional split), the agent maps the nearest family, then does a **bounded** lyric-only lookup. The web does not replace the folder. No network: it says so and approximates. Vague "sad song" still gets questions, not a search.
 
 ## Layout
 
@@ -89,7 +89,7 @@ lyricomatics/
 └── assets/               # blank brief + lyric sheet
 ```
 
-Markdown only. No runtime, no network, no plugins.
+Markdown only. No runtime, no plugins. Network is optional, and only when they name a niche the family files cannot cover.
 
 ## What it will not do
 

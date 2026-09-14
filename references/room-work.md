@@ -22,11 +22,13 @@ Name, in 5–10 lines if anything was inferred:
 
 - narrator and addressee
 - POV and tense
-- genre pocket and form
+- genre pocket and form (family slug, plus niche card if [niche-research.md](niche-research.md) fired)
 - **one** governing image system
 - title candidates
 
-**Good:** A committed camera. One metaphor domain. Titles that could be said out loud. Form that matches the pocket (mantra stays mantra; want-song wants).
+**Good:** A committed camera. One metaphor domain. Titles that could be said out loud. Form that matches the pocket (mantra stays mantra; want-song wants). Niche named: you learned the mouth before you faked it.
+
+**Fail (niche):** Browsing a known family to look busy. Quoting a hot song as research. Skipping the family kill list because a blog had a vibe.
 
 **Fail:** Discovering POV in verse 3. Genre soup. Three image systems. A two-page treatment. Asking permission to have taste.
 
@@ -35,6 +37,7 @@ Name, in 5–10 lines if anything was inferred:
 User **explicitly** says **just write it** or **no questions**:
 
 - Ask nothing.
+- If they already named a niche the router cannot cover, [niche-research.md](niche-research.md) may still run. That is not an interview.
 - Still decide every CAST item. Do it on your side of the glass.
 - Do not print a 10-line cast unless a single inferred choice is load-bearing (wrong pocket would wreck the song). Then: three lines, max, and the draft immediately.
 - Still OFFER when you hand it over.

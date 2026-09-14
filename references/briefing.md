@@ -12,7 +12,7 @@ A title and a mood is **not** a complete brief and **not** just-write-it. Interv
 
 ## How to pick
 
-Missing pocket → genre / form first.
+Missing pocket → genre / form first. If they already named a microgenre the router cannot cover, do not keep interviewing about "what genre." Finish stakes/voice, then [niche-research.md](niche-research.md).
 Missing blood → event and chorus job.
 Missing mouth → who sings, who hears, banned words.
 Missing texture → one proper noun or one unfair image.

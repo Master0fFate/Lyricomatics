@@ -8,8 +8,8 @@ description: >-
   production, mixing, mastering, music-generator prompting, or casual music chat.
 license: MIT
 compatibility: >-
-  Any Agent Skills-compatible harness. Markdown-only; no network, no runtime
-  dependencies, no vendor plugins.
+  Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
+  plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
   version: "1.0.0"
   standard: agentskills
@@ -53,7 +53,7 @@ If they only dumped a title and a mood, that is an incomplete **draft**, not a s
 
 Progressive disclosure. Never bulk-read `references/`.
 
-**Intake reads** (do not count against the draft cap): `references/briefing.md` when the brief is incomplete; `references/ethics.md` on homage/copy; `references/genres/index.md` only if the pocket is ambiguous.
+**Intake reads** (do not count against the draft cap): `references/briefing.md` when the brief is incomplete; `references/ethics.md` on homage/copy; `references/genres/index.md` only if the pocket is ambiguous; `references/niche-research.md` when they named a microgenre, scene, or aesthetic the router cannot cover.
 
 **Draft reads** — at most **two** full files before ink (three only for a named hybrid):
 
@@ -61,10 +61,11 @@ Progressive disclosure. Never bulk-read `references/`.
 2. Explicit **just write it** / **no questions** → skip the interview; CAST silently; default job is draft.
 3. Complete brief (pocket + stakes + voice + forbidden) → CAST. No interview.
 4. **Critique** → `references/critique.md`. Skip CUT. Do not invent a song to have notes.
-5. Known pocket on draft/rewrite → `references/genres/<slug>.md` + `references/anti-slop.md`.
+5. Known family pocket on draft/rewrite → `references/genres/<slug>.md` + `references/anti-slop.md`.
 6. Named hybrid → primary genre file + `references/anti-slop.md`, plus **only** the Kill list and AI failure modes of the secondary file.
-7. Genre-less **rewrite/critique** of lyrics they already pasted → `references/craft.md` + (`anti-slop.md` or `critique.md`). Do not invent a pocket.
-8. Genre unknown on a **new draft** → brief first. Do not invent a pocket and dump a song.
+7. Named niche the router cannot cover (angelcore, phonk, corridos tumbados, UK drill as its own mouth, etc.) → `references/niche-research.md` **before CAST**. Then nearest family file (if any) + `anti-slop.md`. Web notes cannot override the family kill list. No network: say so and approximate.
+8. Genre-less **rewrite/critique** of lyrics they already pasted → `references/craft.md` + (`anti-slop.md` or `critique.md`). Do not invent a pocket.
+9. Vague genre on a **new draft** ("sad song", no name) → brief first. Do not invent a pocket and do not browse.
 
 Need form, rhyme, or voice mid-write? Open **one** of `references/form.md`, `references/rhyme-prosody.md`, `references/voice.md`.
 
@@ -81,7 +82,8 @@ Title + mood is not a complete brief. Read `references/briefing.md` only when in
 
 Narrator, addressee, POV, tense, genre pocket, form, **one** governing image system, title candidates.
 If anything was inferred on a draft/rewrite, state the cast in 5–10 lines **before** the ink.
-Just-write-it jobs: CAST in silence.
+Niche jobs: include nearest family + the niche card in that CAST.
+Just-write-it jobs: CAST in silence. Do not browse unless they already named a niche.
 
 ### CUT
 
@@ -121,8 +123,10 @@ Open on demand. Never as a stack.
 - How to present the sheet — [references/delivery.md](references/delivery.md)
 - Before/after craft — [references/examples.md](references/examples.md)
 - Genre index → slug — [references/genres/index.md](references/genres/index.md)
+- Niche the router cannot cover — [references/niche-research.md](references/niche-research.md)
 
-Genre known → `references/genres/<slug>.md` + `references/anti-slop.md`.
+Family known → `references/genres/<slug>.md` + `references/anti-slop.md`.
+Niche the router cannot cover → niche-research, then family + anti-slop.
 Catalog: [references/index.md](references/index.md).
 Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](assets/lyric-sheet.md).
 
@@ -139,5 +143,5 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 
 - Original work. Homage is attitude, not theft. Read [references/ethics.md](references/ethics.md) before any “in the style of,” interpolation, or close-copy request.
 - Lyrics only. No production recipes. No generator-keyword packs. No vendor lock-in.
-- Markdown-only. No network, no plugins, no runtime.
+- Markdown-only. No plugins, no runtime. Do not browse except as [references/niche-research.md](references/niche-research.md) allows.
 - Tiny original illustrations only. Never paste copyrighted lyrics.
