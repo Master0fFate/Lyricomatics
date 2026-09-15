@@ -20,15 +20,15 @@ Put the title once, above the first label — not as a heading essay.
 
 A section is a comma-run stanza, not a list of rows. SKILL.md Output is the copy-this shape. Obey it.
 
-Offer the labeled sheet inside one ` ```text ` fence. Unfenced markdown eats the newlines and the verse becomes one line. That is a miss. `[Verse 1]`, new line, first lyric line, new line.
+Offer the labeled sheet inside one markdown code block (` ```text `). Always. A code block keeps the newlines and lets them copy the whole sheet in one click. Unfenced chat eats the returns, the verse becomes one line, and they cannot copy it clean. `[Verse 1]`, new line, first lyric line, new line.
 
 Label on its own line. Lyrics start the next line. No blank line under the label. Never wrap labels in bold, italics, or headings. Never glue the first lyric onto the label.
 
-Break a row on a comma. Continuations may start lowercase. A capital starting a new thought is a new line — never glue `stare Nobody` or `don't Silver` onto one row. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
+Break a row on a comma. Continuations may start lowercase. A capital starting a new thought is a new line — never glue `stare Nobody` or `don't Silver` onto one row. Never glue because it looks denser, cooler, or cute. Cute is a miss. Before you send, scan every line for a capital after a letter with only a space between them and no comma before it. Split that. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
 
 Blank line only between sections.
 
-Use this layout for every section, including repeated choruses — fence included:
+Use this layout for every section, including repeated choruses — code block included:
 
 ```text
 [Verse 1]
@@ -102,8 +102,9 @@ Then stop. No closing paragraph about themes.
 - Wrap the song in a synopsis.
 - Glue the first lyric onto the section label, bold/heading-wrap the label, or drop a blank paragraph under it.
 - Stack each clause or sung line on its own row. That is a grocery list, not a sheet.
-- Offer the sheet unfenced. Markdown will mash the verse into one line.
+- Offer the sheet unfenced. Markdown will mash the verse into one line and kill one-click copy.
 - Glue two sentences on one row because a capital looked optional. `don't Silver` is two lines.
+- Glue because it looked cute, dense, smashed, or more like a stanza. Cute is a miss.
 - Number the sections unless the user writes that way.
 - Paste a brief recap above the lyric on just-write-it jobs (silent CAST stays silent).
 - Offer mixing notes, playlist energy, or generator keywords.

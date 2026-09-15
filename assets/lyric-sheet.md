@@ -11,7 +11,8 @@ paper round the handle,
 I wait
 
 [Pre]
-get down here, hands on the glass smash the lift,
+get down here, hands on the glass,
+fit a mouth I can stand,
 now, I won't
 
 [Chorus]
@@ -21,7 +22,7 @@ I'm not getting up
 
 [Verse 2]
 phrase,
-continuation smash the next thought,
+continuation of the same thought,
 short tail,
 longer row still one thought,
 short,

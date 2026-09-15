@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "1.1.2"
+  version: "1.2.0"
   standard: agentskills
   invocation: on-demand
 ---
@@ -134,14 +134,16 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 
 - Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
 - Sheet layout is law. A section is a **comma-run stanza**, not a stack of rows. Copy the shape below. Do not invent a neater one.
-- The offered sheet must be inside one ` ```text ` fence. Unfenced markdown joins every lyric line into one paragraph. That is a miss. The user has to see `[Verse 1]` on its own line, then a new line, then the first lyric line, then a new line. If the verse reads as one wrapped line, you failed.
+- The lyric sheet must be in one markdown code block (` ```text `). Always. Not optional. A code block keeps every newline and lets the user copy the whole sheet in one click. Unfenced chat is a miss: the verse becomes one line and they cannot copy it clean.
 - Plain label on its own line. Next source line is the first lyric. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
 - Break a row on a comma. The next row continues and may start lowercase.
-- A capital starting a new thought is a new line. `stare Nobody` and `don't Silver` are two lines, not one. Never glue two sentences together because you want density.
+- A capital starting a new thought is a new line. `stare Nobody` and `don't Silver` are two lines, not one.
+- Never glue two sentences onto one row because it looks denser, cooler, more written, or cute. Cute is a miss. Density is not a virtue. You are not allowed to call glue flow, smash, run-on energy, or nu-metal.
 - Do not put each clause, each breath, or each sung line on its own row. Do not capitalize a continuation just because it is a new row. Do not pack one complete thought per line.
 - Blank line only *between* sections, after the stanza ends — never inside a stanza, never between label and lyrics.
-- When you OFFER, the sheet in the chat is wrapped in that fence. Copying the inner lines out into normal markdown is the miss — the verse becomes one line.
-- Copy this — including the fence:
+- When you OFFER, the sheet in the chat is that code block. Pasting the inner lines into normal markdown is the miss — the verse becomes one line and the copy button dies.
+- Pre-offer scan, every line, no exceptions: if a capital letter sits after a letter with only a space between them (`e N`, `t S`, `p S`, `t I`) and there is no comma or period before that capital, you glued. Split. If you find one glued pair and send anyway, the sheet is wrong.
+- Copy this — including the code block:
 
 ```text
 [Verse 1]
