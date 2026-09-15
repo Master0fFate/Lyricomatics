@@ -1,24 +1,36 @@
 # Title
 
-Scheme (optional):
-
 [Verse 1]
-
+I leave your cup beside the sink,
+kettle still clicking I don't pour,
+thumb on the chip,
+I don't look Nobody called so I don't steam on the glass,
+paper round the handle,
+I wait
 
 [Pre]
-
+get down here, hands on the glass smash the lift,
+now, I won't
 
 [Chorus]
-
+The kettle clicks for one, I left it there,
+I left it there come down or don't,
+I'm not getting up
 
 [Verse 2]
-
+phrase,
+continuation smash the next thought,
+short tail,
+smash three smash four longer row,
+short,
+end
 
 [Bridge]
-
+you get it flush, I look smash the face,
+I put my palm back, start the wait again
 
 [Outro]
-
+hall light on the pile, nobody moved I left it there
 
 Alts
 -

@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   standard: agentskills
   invocation: on-demand
 ---
@@ -133,12 +133,54 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 ## Output
 
 - Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
-- Sheet layout is law. Plain label on its own line, blank line, then lyrics. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings — `**[Verse 1]**` collapses the same way. One source newline after the label still renders as `[Verse 1] Same slow circle` and is a miss. Copy this:
+- Sheet layout is law. A section is a **comma-run stanza**, not a stack of rows. Copy the shape below. Do not invent a neater one.
+- Plain label on its own line. Lyrics start the next line. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
+- Break a row on a comma. The next row continues and may start lowercase. Smash adjacent thoughts onto one row with no period and no tidy couplet wrap. Mix short comma-tails with longer run-on rows.
+- Do not put each clause, each breath, or each sung line on its own row. Do not capitalize every row just because it is a new row. Do not pack one complete thought per line.
+- Blank line only *between* sections, after the stanza ends — never inside a stanza, never between label and lyrics.
+- If the host collapses the label into the first lyric, two trailing spaces on the label line (markdown hard break). Do not “fix” it with a blank paragraph.
+- Copy this:
 
 ```text
 [Verse 1]
+I leave your cup beside the sink,
+kettle still clicking I don't pour,
+thumb on the chip,
+I don't look Nobody called so I don't steam on the glass,
+paper round the handle,
+I wait
 
-Same slow circle, same assigned height
+[Chorus]
+The kettle clicks for one, I left it there,
+I left it there come down or don't,
+I'm not getting up
+```
+
+Wrong — grocery list, one thought per row:
+
+```text
+[Verse 1]
+I leave your cup beside the sink
+Kettle still clicking
+I don't pour
+```
+
+Wrong — neat sung-line couplets, still a stack:
+
+```text
+[Verse 1]
+I leave your cup beside the sink, kettle still clicking I don't pour
+Thumb on the chip, I don't look
+```
+
+Wrong — label glued or a blank paragraph under it:
+
+```text
+[Verse 1] I leave your cup beside the sink,
+
+[Verse 1]
+
+I leave your cup beside the sink,
 ```
 
 - Critique: diagnosis first; alts as a short list; no silent full replace.

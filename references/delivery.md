@@ -18,28 +18,51 @@ Standard labels:
 
 Put the title once, above the first label — not as a heading essay.
 
-Give each section label its own line, followed by a blank line, then the lyrics. The blank line keeps the label and first lyric separate when Markdown renders; a single source newline can collapse into a space. Never wrap labels in bold, italics, or headings. Use this layout for every section, including repeated choruses:
+A section is a comma-run stanza, not a list of rows. SKILL.md Output is the copy-this shape. Obey it.
+
+Label on its own line. Lyrics start the next line. No blank line under the label. Never wrap labels in bold, italics, or headings. Never glue the first lyric onto the label.
+
+Break a row on a comma. Continuations may start lowercase. Smash adjacent thoughts onto one row. Mix short comma-tails with longer run-on rows. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
+
+Blank line only between sections. If the host mashes the label into the first lyric, two trailing spaces on the label line — not a blank paragraph.
+
+Use this layout for every section, including repeated choruses:
 
 ```text
 [Verse 1]
-
-I leave your cup beside the sink.
+I leave your cup beside the sink,
+kettle still clicking I don't pour,
+thumb on the chip,
+I don't look Nobody called so I don't steam on the glass,
+paper round the handle,
+I wait
 
 [Chorus]
-
-The kettle clicks for one.
+The kettle clicks for one, I left it there,
+I left it there come down or don't,
+I'm not getting up
 ```
 
-Wrong — these render as one mashed line:
+Wrong — grocery list, couplet stack, glued label, or a gap under the label:
 
 ```text
-[Verse 1] Same slow circle, same assigned height
+[Verse 1]
+I leave your cup beside the sink
+Kettle still clicking
+I don't pour
 
-**[Verse 1]**
-Same slow circle, same assigned height
+[Verse 1]
+I leave your cup beside the sink, kettle still clicking I don't pour
+Thumb on the chip, I don't look
+
+[Verse 1] I leave your cup beside the sink,
+
+[Verse 1]
+
+I leave your cup beside the sink,
 ```
 
-Keep a blank line between sections, too. Keep commentary outside the sheet.
+Keep commentary outside the sheet.
 
 ## Optional note
 
@@ -73,7 +96,8 @@ Then stop. No closing paragraph about themes.
 ## Do not
 
 - Wrap the song in a synopsis.
-- Glue the first lyric onto the section label, or bold/heading-wrap the label.
+- Glue the first lyric onto the section label, bold/heading-wrap the label, or drop a blank paragraph under it.
+- Stack each clause or sung line on its own row. That is a grocery list, not a sheet.
 - Number the sections unless the user writes that way.
 - Paste a brief recap above the lyric on just-write-it jobs (silent CAST stays silent).
 - Offer mixing notes, playlist energy, or generator keywords.

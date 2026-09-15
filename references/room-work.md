@@ -89,7 +89,7 @@ Kill: abstract-noun piles, motivational-poster diction, symmetrical healing arcs
 
 Hand them a sheet, not a TED talk.
 
-Conventions: [delivery.md](delivery.md).
+Conventions: [delivery.md](delivery.md). Comma-run stanza layout is law — copy the shape in SKILL.md Output. Not one clause per row.
 
 **Good:** Labeled lyric. Optional one-line scheme note. Optional short alt list. **2–4** questions that would change the next pass. Then you shut up.
 
