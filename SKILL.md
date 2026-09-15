@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "1.1.0"
+  version: "1.1.1"
   standard: agentskills
   invocation: on-demand
 ---
@@ -134,12 +134,13 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 
 - Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
 - Sheet layout is law. A section is a **comma-run stanza**, not a stack of rows. Copy the shape below. Do not invent a neater one.
-- Plain label on its own line. Lyrics start the next line. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
+- The offered sheet must be inside one ` ```text ` fence. Unfenced markdown joins every lyric line into one paragraph. That is a miss. The user has to see `[Verse 1]` on its own line, then a new line, then the first lyric line, then a new line. If the verse reads as one wrapped line, you failed.
+- Plain label on its own line. Next source line is the first lyric. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
 - Break a row on a comma. The next row continues and may start lowercase. Smash adjacent thoughts onto one row with no period and no tidy couplet wrap. Mix short comma-tails with longer run-on rows.
 - Do not put each clause, each breath, or each sung line on its own row. Do not capitalize every row just because it is a new row. Do not pack one complete thought per line.
 - Blank line only *between* sections, after the stanza ends — never inside a stanza, never between label and lyrics.
-- If the host collapses the label into the first lyric, two trailing spaces on the label line (markdown hard break). Do not “fix” it with a blank paragraph.
-- Copy this:
+- When you OFFER, the sheet in the chat is wrapped in that fence. Copying the inner lines out into normal markdown is the miss — the verse becomes one line.
+- Copy this — including the fence:
 
 ```text
 [Verse 1]
