@@ -24,7 +24,7 @@ Offer the labeled sheet inside one ` ```text ` fence. Unfenced markdown eats the
 
 Label on its own line. Lyrics start the next line. No blank line under the label. Never wrap labels in bold, italics, or headings. Never glue the first lyric onto the label.
 
-Break a row on a comma. Continuations may start lowercase. Smash adjacent thoughts onto one row. Mix short comma-tails with longer run-on rows. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
+Break a row on a comma. Continuations may start lowercase. A capital starting a new thought is a new line — never glue `stare Nobody` or `don't Silver` onto one row. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
 
 Blank line only between sections.
 
@@ -35,7 +35,9 @@ Use this layout for every section, including repeated choruses — fence include
 I leave your cup beside the sink,
 kettle still clicking I don't pour,
 thumb on the chip,
-I don't look Nobody called so I don't steam on the glass,
+I don't look
+Nobody called so I don't
+Silver coming off the mug,
 paper round the handle,
 I wait
 
@@ -101,6 +103,7 @@ Then stop. No closing paragraph about themes.
 - Glue the first lyric onto the section label, bold/heading-wrap the label, or drop a blank paragraph under it.
 - Stack each clause or sung line on its own row. That is a grocery list, not a sheet.
 - Offer the sheet unfenced. Markdown will mash the verse into one line.
+- Glue two sentences on one row because a capital looked optional. `don't Silver` is two lines.
 - Number the sections unless the user writes that way.
 - Paste a brief recap above the lyric on just-write-it jobs (silent CAST stays silent).
 - Offer mixing notes, playlist energy, or generator keywords.

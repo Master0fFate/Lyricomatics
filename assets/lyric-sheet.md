@@ -4,7 +4,9 @@
 I leave your cup beside the sink,
 kettle still clicking I don't pour,
 thumb on the chip,
-I don't look Nobody called so I don't steam on the glass,
+I don't look
+Nobody called so I don't
+Silver coming off the mug,
 paper round the handle,
 I wait
 
@@ -21,16 +23,18 @@ I'm not getting up
 phrase,
 continuation smash the next thought,
 short tail,
-smash three smash four longer row,
+longer row still one thought,
 short,
 end
 
 [Bridge]
-you get it flush, I look smash the face,
+you get it flush, I look
+I don't know that man,
 I put my palm back, start the wait again
 
 [Outro]
-hall light on the pile, nobody moved I left it there
+hall light on the pile, nobody moved
+I left it there
 
 Alts
 -

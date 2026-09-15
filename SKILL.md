@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "1.1.1"
+  version: "1.1.2"
   standard: agentskills
   invocation: on-demand
 ---
@@ -136,8 +136,9 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 - Sheet layout is law. A section is a **comma-run stanza**, not a stack of rows. Copy the shape below. Do not invent a neater one.
 - The offered sheet must be inside one ` ```text ` fence. Unfenced markdown joins every lyric line into one paragraph. That is a miss. The user has to see `[Verse 1]` on its own line, then a new line, then the first lyric line, then a new line. If the verse reads as one wrapped line, you failed.
 - Plain label on its own line. Next source line is the first lyric. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
-- Break a row on a comma. The next row continues and may start lowercase. Smash adjacent thoughts onto one row with no period and no tidy couplet wrap. Mix short comma-tails with longer run-on rows.
-- Do not put each clause, each breath, or each sung line on its own row. Do not capitalize every row just because it is a new row. Do not pack one complete thought per line.
+- Break a row on a comma. The next row continues and may start lowercase.
+- A capital starting a new thought is a new line. `stare Nobody` and `don't Silver` are two lines, not one. Never glue two sentences together because you want density.
+- Do not put each clause, each breath, or each sung line on its own row. Do not capitalize a continuation just because it is a new row. Do not pack one complete thought per line.
 - Blank line only *between* sections, after the stanza ends — never inside a stanza, never between label and lyrics.
 - When you OFFER, the sheet in the chat is wrapped in that fence. Copying the inner lines out into normal markdown is the miss — the verse becomes one line.
 - Copy this — including the fence:
@@ -147,7 +148,9 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 I leave your cup beside the sink,
 kettle still clicking I don't pour,
 thumb on the chip,
-I don't look Nobody called so I don't steam on the glass,
+I don't look
+Nobody called so I don't
+Silver coming off the mug,
 paper round the handle,
 I wait
 
@@ -172,6 +175,12 @@ Wrong — neat sung-line couplets, still a stack:
 [Verse 1]
 I leave your cup beside the sink, kettle still clicking I don't pour
 Thumb on the chip, I don't look
+```
+
+Wrong — two sentences glued because a capital got ignored:
+
+```text
+I don't look Nobody called so I don't Silver coming off the mug,
 ```
 
 Wrong — label glued or a blank paragraph under it:
