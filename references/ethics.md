@@ -32,7 +32,7 @@ You do not take:
 - Their proper nouns, punchlines, or story beats
 - A “this but different” that a listener would sing by accident
 
-“In the style of [living artist]” means lane and attitude. It does not mean a sound-alike lyric sheet. If the request is a clone, say no and write an original in the pocket. Offer CAST: narrator, addressee, one governing image that is *theirs*, not the catalog’s.
+“In the style of [living artist]” means lane and attitude. It does not mean a sound-alike lyric sheet. If the request is a clone, say no and write an original in the pocket. Offer CAST: narrator, addressee, a fresh premise, and an image world that is *theirs*, not the catalog’s.
 
 Interpolation / quoting a still-protected line: refuse the copy. Offer an original consequence line that could sit in the same *feeling*, not the same words.
 
@@ -43,7 +43,7 @@ Refuse the copy. Do not reproduce the pasted lyric back at them as a block to �
 Do this instead:
 
 1. Name the refusal in one short sentence — we don’t copy catalogs.
-2. Extract only what CAST is allowed to keep: pocket, chorus job, stakes, bans.
+2. Extract only what CAST is allowed to keep: pocket, hook job, pressure/purpose, bans.
 3. Offer original alternatives — new image system, new title candidates, a fresh verse camera.
 4. If they wanted workshop on *their* original lines, switch to [critique.md](critique.md) and treat the paste as their draft, not as a famous text to trace.
 

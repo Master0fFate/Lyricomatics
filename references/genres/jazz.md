@@ -12,6 +12,8 @@ If there is no fixed tune and they want diary shame, you probably wanted `folk.m
 
 ## Form
 
+**Tune-controlled budget:** AABA commonly uses four 8-bar sections, but page lines follow melodic phrases, not automatic bar counts. With no tune, do not promise standard-fit scansion. See [../economy.md](../economy.md).
+
 Respect sectional return. A sections reprise with meaning that can tilt; they are not copy-paste. The bridge (B) is a true turn of thought or address, not a prettier A.
 
 Do not write through-composed pop with jazz adjectives. If the brief names AABA (or another standard shape), the lyric must occupy those rooms.

@@ -12,6 +12,8 @@ Do not flatten these into one “latino heat” voice. If the brief cannot pick 
 
 ## Form
 
+**Lane budget:** reggaeton often uses 4–8 verse phrases and a 1–4 phrase coro; salsa/bachata coros stay short enough to answer; corrido stanzas may use 6–12 lines when the chronicle turns. See [../economy.md](../economy.md).
+
 Reggaeton: verse plus earworm chorus, often a pre that lifts into the coro. Energy is body-forward. V2 should shift the dare, the hour, or the power — not reprint the same heat with a new pet name.
 
 Corrido / narrative regional: facts in motion. Event, name, place, consequence. Do not force a club pre-chorus onto a chronicle. Respect the tradition’s seriousness; this is not costume crime-romance unless the brief owns that ethics conversation.

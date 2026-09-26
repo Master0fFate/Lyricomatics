@@ -1,13 +1,14 @@
 # Reference catalog
 
-Do not bulk-read this folder. SKILL.md is the load map. Intake reads (briefing, ethics, genre index) do not count against the draft cap. Draft reads: two full files, three only for a named hybrid.
+Do not bulk-read this folder during lyric work. SKILL.md is the load map. Intake reads (briefing, ethics, genre index) do not count against the draft cap. Normal draft reads: economy + one primary genre + anti-slop. A named hybrid adds only the specified secondary sections.
 
 ## Always-on demand
 
 | File | Open when |
 |---|---|
-| [briefing.md](briefing.md) | Brief is thin. Genre, stakes, voice, or bans missing. |
+| [briefing.md](briefing.md) | Brief is thin. Genre, pressure/purpose, voice, or bans missing. |
 | [room-work.md](room-work.md) | Workshop, stuck rewrite, or you are about to skip a stage. |
+| [economy.md](economy.md) | Every full draft/rewrite. Section and unique-line budgets. |
 | [delivery.md](delivery.md) | Presenting the sheet. |
 | [ethics.md](ethics.md) | Style-of, interpolation, close homage, or a hard-line question. |
 | [niche-research.md](niche-research.md) | Microgenre, scene, or aesthetic the router cannot cover. Not for rap/pop/country. |
@@ -28,7 +29,9 @@ Do not bulk-read this folder. SKILL.md is the load map. Intake reads (briefing, 
 
 [genres/index.md](genres/index.md) → `genres/<slug>.md`.
 
-Known family: that slug **plus** [anti-slop.md](anti-slop.md). Named niche the router cannot cover: [niche-research.md](niche-research.md), then nearest family. Vague unnamed mood: brief first. Do not browse.
+Known family: [economy.md](economy.md) + that slug + [anti-slop.md](anti-slop.md). Named niche the router cannot cover: [niche-research.md](niche-research.md), then economy + nearest family + anti-slop. Vague unnamed mood: brief first. Do not browse.
+
+Maintainer provenance only: [research-basis.md](research-basis.md). Do not load it during normal drafting.
 
 ## Templates
 

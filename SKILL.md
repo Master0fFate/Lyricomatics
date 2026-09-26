@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "1.2.0"
+  version: "2.0.0"
   standard: agentskills
   invocation: on-demand
 ---
@@ -41,7 +41,7 @@ If they want a beat, a mix, or a prompt pack, refuse the lane. Words only.
 
 ## Job first
 
-Name the job in one word before ROOM WORK:
+Set the job before ROOM WORK. Keep it internal unless naming it resolves ambiguity:
 
 - **draft** — new lyrics
 - **rewrite** — existing lyrics, they want ink
@@ -51,23 +51,24 @@ If they only dumped a title and a mood, that is an incomplete **draft**, not a s
 
 ## Operating protocol
 
-Progressive disclosure. Never bulk-read `references/`.
+Progressive disclosure. Never bulk-read `references/` during a lyric job.
 
 **Intake reads** (do not count against the draft cap): `references/briefing.md` when the brief is incomplete; `references/ethics.md` on homage/copy; `references/genres/index.md` only if the pocket is ambiguous; `references/niche-research.md` when they named a microgenre, scene, or aesthetic the router cannot cover.
 
-**Draft reads** — at most **two** full files before ink (three only for a named hybrid):
+**Draft reads** — normally **three** full files before ink: song economy, one primary pocket, and the anti-slop pass. A named hybrid may add only the secondary file sections named below.
 
 1. Incomplete brief, and they did **not** say just-write-it → `references/briefing.md`. Ask 3–6 questions. Stop. Do not draft.
 2. Explicit **just write it** / **no questions** → skip the interview; CAST silently; default job is draft.
-3. Complete brief (pocket + stakes + voice + forbidden) → CAST. No interview.
-4. **Critique** → `references/critique.md`. Skip CUT. Do not invent a song to have notes.
-5. Known family pocket on draft/rewrite → `references/genres/<slug>.md` + `references/anti-slop.md`.
-6. Named hybrid → primary genre file + `references/anti-slop.md`, plus **only** the Kill list and AI failure modes of the secondary file.
-7. Named niche the router cannot cover (angelcore, phonk, corridos tumbados, UK drill as its own mouth, etc.) → `references/niche-research.md` **before CAST**. Then nearest family file (if any) + `anti-slop.md`. Web notes cannot override the family kill list. No network: say so and approximate.
-8. Genre-less **rewrite/critique** of lyrics they already pasted → `references/craft.md` + (`anti-slop.md` or `critique.md`). Do not invent a pocket.
-9. Vague genre on a **new draft** ("sad song", no name) → brief first. Do not invent a pocket and do not browse.
+3. Complete brief (pocket + pressure/purpose + voice + forbidden, where “none” is valid; era and melody status when relevant) → CAST. No interview.
+4. **Critique** → `references/critique.md`. Skip HOOK/CUT. Do not invent a song to have notes.
+5. Every full draft/rewrite → `references/economy.md`.
+6. Known family pocket → `references/genres/<slug>.md` + `references/anti-slop.md`.
+7. Named hybrid → primary genre file + economy + anti-slop, plus **only** the `Kill list` and `AI failure modes` of the secondary file.
+8. Named niche the router cannot cover (angelcore, phonk, corridos tumbados, UK drill as its own mouth, etc.) → `references/niche-research.md` **before CAST**. Then economy + nearest family file (if any) + anti-slop. Web notes cannot override ethics or the family kill list. No network: say so and approximate.
+9. Genre-less **rewrite/critique** of lyrics they already pasted → `references/economy.md` + `references/craft.md` + (`anti-slop.md` or `critique.md`). Do not invent a pocket.
+10. Vague genre on a **new draft** ("sad song", no name) → brief first. Do not invent a pocket and do not browse.
 
-Need form, rhyme, or voice mid-write? Open **one** of `references/form.md`, `references/rhyme-prosody.md`, `references/voice.md`.
+Need form, rhyme, or voice mid-write? Open **one** of `references/form.md`, `references/rhyme-prosody.md`, `references/voice.md`. `references/research-basis.md` is maintainer provenance, not a drafting dependency.
 
 ## ROOM WORK
 
@@ -75,36 +76,51 @@ Not a numbered QC gate. A recording room. Detail: `references/room-work.md`.
 
 ### LISTEN
 
-Brief before drafting unless they already gave **pocket + stakes + voice + forbidden**, or they explicitly said just-write-it.
+Brief before drafting unless they already gave **pocket + pressure/purpose + voice + forbidden** (including no special bans), or they explicitly said just-write-it.
 Title + mood is not a complete brief. Read `references/briefing.md` only when interviewing. Ask 3–6 questions. Never a twelve-item dump.
 
 ### CAST
 
-Narrator, addressee, POV, tense, genre pocket, form, **one** governing image system, title candidates.
-If anything was inferred on a draft/rewrite, state the cast in 5–10 lines **before** the ink.
+Narrator, addressee, POV, tense, genre pocket, **era target**, melody status, form, section budgets, dominant image world, central tension, and title/hook candidates.
+If anything load-bearing was inferred, state the cast in 5–10 lines **before** the ink. Do not expose a routine internal plan just to look industrious.
 Niche jobs: include nearest family + the niche card in that CAST.
 Just-write-it jobs: CAST in silence. Do not browse unless they already named a niche.
+
+### HOOK
+
+Write the song’s memory spine before filling the rooms: chorus, refrain, title line, A-section return, or mantra. Story and through-composed forms may map the refrain or final turn instead.
+
+The hook gets one primary action: plead, claim, command, question, confess, celebrate, accuse, pray, or judge. Make it fluent enough to retain and distinct enough to belong only to this song. A familiar form with default-language content is paste.
 
 ### CUT
 
 Draft and rewrite jobs only. Skip on critique.
-Write as if tracking tomorrow. Genre-true. Specific.
+Write as if tracking tomorrow. Genre-true. Era-true. Specific without turning the lyric into a prop inventory.
+Start lean. Obey the section card and line budgets in `references/economy.md`. Add past the budget only for a named new beat. Let the music have oxygen.
 Do not invent grief, absence, or a bill to make a celebration, praise, joke, or lament “feel real.”
 
 ### SING
 
-Speak it if you can. If you cannot, scan stresses and breath groups on the page (`references/rhyme-prosody.md`).
-Open that file only if the mouth fails. Singability without a supplied melody is provisional.
+Speak it if you can. Check each displayed line as one provisional sung phrase. If you cannot, scan stresses and breath groups on the page (`references/rhyme-prosody.md`).
+With supplied music, match its phrase slots and stresses. Without music, never claim exact bar fit or definitive singability.
+Open rhyme-prosody only if the mouth fails.
 
 ### BLEED
 
-Forensic pass. Kill abstract stacks, therapy arcs, inverted syntax, missing idiosyncrasy — unless the brief *asked* for mantra, praise, or a tidy ending.
-Knife: `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
+Run three silent cuts:
+
+1. **Economy** — remove explanation, duplicate proof, and the line after the payoff.
+2. **Identity** — remove genre-default filler; preserve the user’s strange, defensible grain.
+3. **Prosody** — restore speech stress, meaning end-words, breath, and stable hook phrasing.
+
+Then use `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
+
+A premium draft must have: a retrievable hook; section motion; a voice-specific detail or behavior; repetition with consequence; no unearned bridge; and no section longer than its job.
 
 ### OFFER
 
-Draft/rewrite: labeled lyric sheet, optional alts, 2–4 sharp questions. Obey Output sheet layout. `references/delivery.md` if the form is weird.
-Critique: notes and optional alts. No surprise full song.
+Draft/rewrite: labeled lyric sheet, optional short alt list, 2–4 sharp questions. Obey Output sheet layout. `references/delivery.md` if the form is unusual.
+Critique: diagnosis, section-level priorities, and optional alts. No surprise full song.
 Do not dump and vanish. Do not wrap the song in an essay.
 
 ## Load map
@@ -113,6 +129,7 @@ Open on demand. Never as a stack.
 
 - Intake — [references/briefing.md](references/briefing.md)
 - Stage discipline — [references/room-work.md](references/room-work.md)
+- Song economy / section budgets — [references/economy.md](references/economy.md)
 - Universal craft — [references/craft.md](references/craft.md)
 - Slop forensics — [references/anti-slop.md](references/anti-slop.md)
 - Notes / rewrite diagnosis — [references/critique.md](references/critique.md)
@@ -124,82 +141,43 @@ Open on demand. Never as a stack.
 - Before/after craft — [references/examples.md](references/examples.md)
 - Genre index → slug — [references/genres/index.md](references/genres/index.md)
 - Niche the router cannot cover — [references/niche-research.md](references/niche-research.md)
+- Evidence and limits (maintainers only) — [references/research-basis.md](references/research-basis.md)
 
-Family known → `references/genres/<slug>.md` + `references/anti-slop.md`.
-Niche the router cannot cover → niche-research, then family + anti-slop.
+Family known → economy + `references/genres/<slug>.md` + anti-slop.
+Niche the router cannot cover → niche-research, then economy + family + anti-slop.
 Catalog: [references/index.md](references/index.md).
 Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](assets/lyric-sheet.md).
 
 ## Output
 
-- Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` as the form actually uses.
-- Sheet layout is law. A section is a **comma-run stanza**, not a stack of rows. Copy the shape below. Do not invent a neater one.
-- The lyric sheet must be in one markdown code block (` ```text `). Always. Not optional. A code block keeps every newline and lets the user copy the whole sheet in one click. Unfenced chat is a miss: the verse becomes one line and they cannot copy it clean.
-- Plain label on its own line. Next source line is the first lyric. No blank line under the label. Never glue the first lyric onto the label. Never wrap labels in bold, italics, or headings.
-- Break a row on a comma. The next row continues and may start lowercase.
-- A capital starting a new thought is a new line. `stare Nobody` and `don't Silver` are two lines, not one.
-- Never glue two sentences onto one row because it looks denser, cooler, more written, or cute. Cute is a miss. Density is not a virtue. You are not allowed to call glue flow, smash, run-on energy, or nu-metal.
-- Do not put each clause, each breath, or each sung line on its own row. Do not capitalize a continuation just because it is a new row. Do not pack one complete thought per line.
-- Blank line only *between* sections, after the stanza ends — never inside a stanza, never between label and lyrics.
-- When you OFFER, the sheet in the chat is that code block. Pasting the inner lines into normal markdown is the miss — the verse becomes one line and the copy button dies.
-- Pre-offer scan, every line, no exceptions: if a capital letter sits after a letter with only a space between them (`e N`, `t S`, `p S`, `t I`) and there is no comma or period before that capital, you glued. Split. If you find one glued pair and send anyway, the sheet is wrong.
-- Copy this — including the code block:
+- Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` only as the form actually uses.
+- Put the lyric sheet in one markdown code block (` ```text `) so line breaks survive and the sheet copies cleanly.
+- Plain label on its own line. The first lyric starts on the next line. No blank line under a label. Blank lines go only between sections.
+- **One displayed line = one provisional sung phrase**, not one comma and not a paragraph disguised as a line. A line may contain internal punctuation. Break where the musical thought, breath, rhyme position, or intentional suspension breaks.
+- Keep repeated-section lineation stable. If chorus 2 is unchanged, either print it unchanged or mark `[Chorus]` only if the user asked for a compact lead sheet. Default: print the full lyric so it is usable.
+- Do not split a sentence into random fragments to make the page look “lyrical.” Do not glue several sung phrases together to make the section look short. Economy is measured in musical ideas, not typography fraud.
+- Copy this shape:
 
 ```text
 [Verse 1]
-I leave your cup beside the sink,
-kettle still clicking I don't pour,
-thumb on the chip,
-I don't look
-Nobody called so I don't
-Silver coming off the mug,
-paper round the handle,
-I wait
+Your cup is cold beside the sink
+The kettle quits before I move
+I turn the chipped side to the wall
+Like that could keep it here for you
 
 [Chorus]
-The kettle clicks for one, I left it there,
-I left it there come down or don't,
-I'm not getting up
+The kettle clicks for one
+Come down or don’t
+I’m not pouring out your cup
+Till the morning proves me wrong
 ```
 
-Wrong — grocery list, one thought per row:
-
-```text
-[Verse 1]
-I leave your cup beside the sink
-Kettle still clicking
-I don't pour
-```
-
-Wrong — neat sung-line couplets, still a stack:
-
-```text
-[Verse 1]
-I leave your cup beside the sink, kettle still clicking I don't pour
-Thumb on the chip, I don't look
-```
-
-Wrong — two sentences glued because a capital got ignored:
-
-```text
-I don't look Nobody called so I don't Silver coming off the mug,
-```
-
-Wrong — label glued or a blank paragraph under it:
-
-```text
-[Verse 1] I leave your cup beside the sink,
-
-[Verse 1]
-
-I leave your cup beside the sink,
-```
-
+- If the user supplies a melody or scansion, preserve its line/phrase map unless the rewrite explicitly changes it.
 - Critique: diagnosis first; alts as a short list; no silent full replace.
-- Optional: one-line rhyme-scheme note; a short alt-line list — not a second song.
-- 2–4 questions that would change the next pass.
+- Optional: one-line rhyme or form note; a short alt-line list — not a second song.
+- Ask 2–4 questions only when their answers can materially change the next pass. On a just-write-it delivery, omit questions if they would only delay closure.
 - Preserve user voice. Do not “upgrade” diction into essay English.
-- No preamble. No closing pep talk.
+- No essay preamble. No closing pep talk.
 
 ## Constraints
 

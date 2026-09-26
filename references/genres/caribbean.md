@@ -12,6 +12,8 @@ Singing vs deejay is a first-order choice. Wrong mouth ruins a correct theme.
 
 ## Form
 
+**Budget default:** sung reggae/lover’s rock often uses 4–8 verse phrases and a 1–4 phrase hook; dancehall toast may run longer but must leave riddim breath and turn every few bars. See [../economy.md](../economy.md).
+
 Reggae: verse–chorus, room to reason. Do not pack a rap novel into a spacey sung brief. The hook is a mantra, slogan, or tender claim the crowd can return.
 
 Dancehall: often a hard repetitive hook plus toasting verses. Breath on the riddim is form. Call-outs and catch phrases are structural, not clutter, when they are in-lane.

@@ -6,6 +6,8 @@ Not a scorecard. Not a gate you announce. A forensic pass: name the residue, cut
 
 Each pattern below is **signal → move**. Tiny original lines only. If you need a full before/after, [examples.md](examples.md). If they asked for notes instead of ink, [critique.md](critique.md).
 
+Run [economy.md](economy.md) before this knife. A short generic song is still generic; a long excellent story is not automatically bloated.
+
 Insult the lazy line. Keep the user’s diction. Polish that “upgrades” them into essay English is also slop.
 
 ---
@@ -93,11 +95,17 @@ I was lost, then I healed, now I’m whole
 → I sleep. I still check the chain on the door.
 ```
 
+### Acreage without motion
+
+**Signal:** A verse exceeds the lane’s normal patience, but every extra line supplies another example of the same fact. The writer mistakes more proof for more feeling.
+
+**Move:** Name the beat in each line. Keep the strongest proof, then move time, place, evidence, knowledge, power, or consequence. Cut the line after the payoff. See [economy.md](economy.md).
+
 ### Verse isomorphism
 
-**Signal:** V2 is V1 with the nouns swapped. Same camera, same clock, same power, same rhyme map.
+**Signal:** V2 is V1 with the nouns swapped. Same time, evidence, knowledge, power, and rhyme map.
 
-**Move:** Change camera, time of day, or who holds the keys. Keep only refrain DNA.
+**Move:** Change at least one axis and let the same hook acquire a new meaning.
 
 If you can describe V2 as “the other color dress,” you did not write V2.
 
@@ -179,11 +187,11 @@ You’re a storm, because my heart is weather I can’t trust
 → You left the windows open. The floor’s still wet.
 ```
 
-### Missing idiosyncrasy / proper nouns
+### Missing idiosyncrasy
 
-**Signal:** No names, no job, no street, no app, no stain, no unfair detail only this narrator would notice. Anyone could have written it.
+**Signal:** No behavior, verbal habit, charged object, relationship dynamic, unusual comparison, local pressure, or unfair detail only this narrator would notice. Anyone could have written it.
 
-**Move:** Insert two or three dirty specifics from the brief’s world. Kill two generic adjectives to pay for them. Idiosyncrasy is not a brand-name dump (next).
+**Move:** Add one or two specifics from the brief’s world and cut generic adjectives to pay for them. A proper noun is one option, not a tax. Idiosyncrasy can live in syntax, humor, omission, or what the narrator refuses to do.
 
 ### Unexplained proper-noun dumps
 
@@ -209,6 +217,18 @@ Whole map on my wrist, Tokyo to the block
 **Move:** Name the rule, the boss, the app, the board. Punk still needs an indictment with a target. Drill still needs a room.
 
 ---
+
+### Fluent but ownerless hook
+
+**Signal:** The chorus is concise, repetitive, and perfectly in-genre, but could be transferred to ten neighboring songs without changing a word.
+
+**Move:** Keep the fluent frame. Replace one central noun, verb, premise, or turn with the song’s unfair advantage. Familiar form, distinctive content. Do not make the whole hook strange to prove you are original.
+
+### Prop-inventory realism
+
+**Signal:** Receipts, keys, apps, street names, stains, and timestamps appear because the writer learned “be concrete,” not because any item changes the pressure.
+
+**Move:** Keep the object that acts, changes state, or reveals character. Cut the auditioning furniture. Concrete clutter is abstract writing with better lighting.
 
 ## Machine husk (notes and lyrics)
 
@@ -242,12 +262,12 @@ Keep these on the bench. They are how most of the cuts above actually happen.
 - Cost in the win — only if the toast was selling invulnerability; never a tax on joy they asked for
 - Leftover speck — one image you refuse to interpret
 - Register match — vocabulary = class, region, era, pocket
-- One-object motif — keys, jacket, voicemail, bus transfer, changing state
+- Dominant image world — related objects or one motif changing state; a counter-image only for a deliberate turn
 - Verse-as-camera / chorus-as-claim
 - Time crumb — Tuesday, after the funeral, payday, 3 a.m.
 - Body logistics — throat, shoes, sweat, not “soul”
 - Power flip between verses
-- Cut 20% of the syllables, especially on the hook
+- Cut 15–25% of an overfull first draft; protect the narrative turn and human grain
 - Say it wrong once — an intentional fragment for grain
 - Latinate → small verb in oral pockets
 - Title delay — withhold until the ear needs the brand
@@ -255,15 +275,34 @@ Keep these on the bench. They are how most of the cuts above actually happen.
 
 ---
 
+## Record bar
+
+Silent internal pass. Do not print the score unless the user asks for an evaluation.
+
+Score each 0–2:
+
+1. **Brief fit** — correct job, pocket, era, voice, bans, and emotional purpose.
+2. **Memory** — the title/hook/refrain is retrievable after one pass and has an owner.
+3. **Economy** — every section earns its length; no duplicate proof or fake bridge.
+4. **Motion** — sections change pressure, knowledge, power, participation, or meaning.
+5. **Voice** — diction, behavior, humor, and omission belong to this narrator.
+6. **Prosody** — natural speech stress, useful end-words, breathable phrases; exact musical fit only when music exists.
+7. **Originality** — no lifted skeleton, default premise, mixed-image accident, or prop cosplay.
+8. **Aftereffect** — at least one line, turn, or recurrence leaves emotional residue appropriate to the brief. Clean joy may leave lift; comedy may leave the laugh; not every song needs a wound.
+
+A 0 in brief fit, memory spine, originality/ethics, or supplied-melody prosody is fatal. Revise it; do not average it away. Otherwise target 13/16 or better. A number cannot bless a dead hook, and a dense rap verse is not penalized merely for being dense when its turns pay rent.
+
 ## Hallway skeptic
 
 Read it cold, out loud, as if you did not write it.
 
 If a line could caption a stock photo, it dies — unless the pocket is a chant and the caption *is* the hook.
-If abstracts outnumber objects in a story song, cut until they don’t.
-If there is no name, no time crumb, no stain in a verse that needed a room — you wrote a mood. Mantra, praise, and house loops are allowed to be spare.
-If V2 could be V1 with the nouns swapped — you did not write V2.
+If abstracts do all the work in a scene-based story, replace some with behavior or evidence.
+If a verse that needs proof has no charged behavior, object, place, or relation — you wrote a mood. Mantra, praise, and house loops are allowed to be spare.
+If a verse exceeds budget and you cannot name the new beat in each extra line — cut.
+If V2 does not change time, place, evidence, knowledge, power, or consequence — you did not write V2.
 If a tired person cannot catch the hook, it is not a hook.
+If the hook could be moved intact to ten songs in the lane, it has fluency but no owner.
 If the last line is a lesson they did not ask for, throw the lesson, keep the image.
 If you would be embarrassed to defend this against the pocket’s never-do list, you already know.
 Do not inject grief to pass this hallway.

@@ -11,6 +11,8 @@ Full-native drafts are out of scope unless a competent speaker is on the brief. 
 
 ## Form
 
+**Sectional budget:** most lyric rooms stay 2–8 sung phrases; posts and dance-break chops may be 1–4. High section count requires low unique-text density. See [../economy.md](../economy.md).
+
 Sectional contrast is the craft. Soft verse / hard chorus is a classic; not the only one. Post-chorus may be a title stump, a chant, a fragment. Rap section is a color if the brief assigns it — write that lane in a different density, not as a second chorus.
 
 Do not collapse into a three-part American radio shape if the brief wants the full obstacle course. Also do not write unique dense lyrics for every section; some sections are stamps.

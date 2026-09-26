@@ -11,6 +11,8 @@ If the town’s economy and a bar-top proverb are the engine, `country.md` is th
 
 ## Form
 
+**Budget default:** 4–8 sung phrases per stanza. Longer stanzas need an internal turn every 2–4 lines. A refrain can be only 1–4 phrases. See [../economy.md](../economy.md).
+
 Flexible: verse–chorus, verse–verse–bridge, folk strophic, monologue with a refrain. Do not force a radio pre because the user said “song.”
 
 Time can skip. Information cannot stall. Each verse needs a reason — new hour, new object state, new power — or it is a reprint.

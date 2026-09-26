@@ -2,26 +2,26 @@
 
 Open for a genre-less rewrite, or when the pocket is known and the lyric still has no spine.
 
-A genre file wins on density, hook job, and never-do. This file still wins on stakes, camera, cost, and image discipline.
+A genre file wins on density, hook job, and never-do. This file still wins on pressure, evidence, consequence, and image discipline.
 
-CAST already named the camera. CUT has to keep it. If you are about to skip a stage, read [room-work.md](room-work.md) instead of this lecture.
+CAST already named the perspective and form. CUT has to keep them. If you are about to skip a stage, read [room-work.md](room-work.md) instead of this lecture.
 
-## Theme is a pressure, not a noun
+## Theme is a pressure, not a filing label
 
-“Heartbreak,” “freedom,” “empowerment” are filing cabinets. The song is a person under a clock: they want a thing they might not get, or already lost, and they are making a case about it *now*.
+“Heartbreak,” “freedom,” and “empowerment” are categories. Find the active pressure: a want against a refusal, a belief against evidence, a public pose against private behavior, a celebration against the moment ending.
 
-Stakes = what changes if the ask fails. No consequence, no song. You have a mood board with line breaks.
+Narrative and dramatic songs need stakes: what changes if the ask fails. Mantras, praise, dance, novelty, and pure atmosphere may need a compelling state or ritual instead of plot. Do not invent a crisis because a form does not require one.
 
-Ask once, on your side of the glass: what stays true if the narrator is wrong? That leftover is often the real record.
+Ask once, on your side of the glass: what two truths cannot sit comfortably together? That tension often makes the record.
 
 **Good:** The chorus is a verb they might regret — stay, pay, leave, lie, call, lock it.
 **Fail:** The chorus is climate. Feelings as weather. No bill, no room, no time of day.
 
-## Verse is a camera. Chorus is a claim.
+## Verse spends evidence. The hook spends memory.
 
-Verses put a body in a place. The chorus says what that place costs.
+In scene-based verse–chorus songs, verses often put a body in a place and the chorus says what that place means or demands. In other forms, verse may argue, testify, flex, list, narrate, or accumulate. The recurring section still needs the clearest memory spine.
 
-Do not flip this unless the pocket is mantra — dance-floor loops, gospel vamp, some drill — where the claim *is* the architecture and any verse is color, not plot.
+Do not force this split onto mantra, AABA, strophic blues/folk, rap monologue, gospel vamp, or through-composed theatre. Route the form before issuing laws.
 
 Wrong: verse files the moral; chorus paints the sink.
 Right: verse is the sink at 1:14; chorus is the sentence they will not take back.
@@ -47,9 +47,9 @@ A verse that hosts the title every eight bars is a refrain form, or it is nervou
 
 Title-stuffing is a BLEED kill. See [anti-slop.md](anti-slop.md).
 
-## Information budget
+## Information and line budget
 
-Each section spends new information or it does not earn tape.
+Read [economy.md](economy.md). Each section spends new information, increases pressure, or deepens participation. Otherwise it does not earn tape.
 
 New time. New object-state. New power. New fact. Restatement is dead weight. Cut it or change the camera.
 
@@ -85,17 +85,15 @@ I got the house. I still eat over the sink.
 
 Only if the house-flex was the lie. If they wanted the toast with no hangover, write the toast.
 
-## One governing image system
+## Coherent image logic
 
-CAST named one. Keep it.
+CAST names a dominant image world, not a prison.
 
-Keys, or the car, or weather-as-work — not keys and ocean and angels.
+Let related objects or metaphors reinforce the same pressure. Let an object change state: jacket on the chair → jacket in a box by the door. A deliberate counter-image may create the bridge or turn. An accidental parade of keys, oceans, angels, fire, and satellites is still a junk drawer.
 
-The object may change state: jacket on the chair → jacket in a box by the door. That is development. A new metaphor domain mid-song is infidelity.
+Mixed metaphors fail when their actions contradict. If the image is unclear, sharpen the vehicle. Do not annotate it. Do not write the picture and then explain what it “means.”
 
-One mixed metaphor will poison a whole chorus. If the image is unclear, sharpen the vehicle. Do not annotate it. Do not write the picture and then explain what it “means.”
-
-Leave one speck uninterpreted. Mystery is a sharp object you refuse to caption. It is not a fog of abstracts.
+Leave one speck uninterpreted when the pocket can hold mystery. Mystery is a sharp omission, not a fog of abstracts.
 
 ## When to tell, when to show
 
@@ -117,10 +115,10 @@ Diction, POV, persona: [voice.md](voice.md). Mouth: [rhyme-prosody.md](rhyme-pro
 
 ## Before you call CUT done
 
-- Can you point at the stakes in one spoken sentence?
+- Can you name the pressure, purpose, or ritual in one spoken sentence?
 - Does V2 change camera, clock, or power?
 - Is there a price inside any win?
-- Still one image system?
+- Is the image logic coherent, and is any counter-image deliberate?
 - Would a tired person catch the claim on first listen?
 
 Residue that smells like a caption → [anti-slop.md](anti-slop.md).

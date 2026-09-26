@@ -13,6 +13,8 @@ Name the sub-lane in CAST. Do not blend all four into a tour of “rap.”
 
 ## Form
 
+**Grid default:** 8, 12, or 16 bars when the brief calls for a counted verse; hook often 2–8 bars. A page line is not automatically a bar. Internal turns should pay rent every 4 bars. See [../economy.md](../economy.md).
+
 Default muscle: verse bodies that feel like sixteen, hook that feels like eight. Counts are felt, not worshipped. Abandon the grid only if the monologue pays rent every four bars.
 
 Boom-bap wants a closed argument with turns. Trap can run a leaner verse if identity lives in pocket and hook. Drill prefers mantra chorus plus couplets over a chapter. Conscious work may stretch; stretching is not rambling.

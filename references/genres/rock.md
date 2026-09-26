@@ -11,6 +11,8 @@ Garage that wants slogans and spit belongs in `punk.md`. Arena feelings with no 
 
 ## Form
 
+**Lean default:** 4–8 sung phrases per verse, 2–6 in the chorus. Indie anti-chorus can be shorter; extended forms must create internal turns. See [../economy.md](../economy.md).
+
 Rock: verse–chorus, title hook that can be yelled without a lyric sheet. Pre if it lifts; skip if it only stalls. Bridge as invert or reveal, not a louder restatement.
 
 Indie: form may refuse the handshake. Cold open on an image. Chorus that is one stubborn line. Through-build without a traditional hook — allowed if the residue image does the branding. Do not use “indie” as permission to wander without a spine.

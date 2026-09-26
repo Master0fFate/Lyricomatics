@@ -12,6 +12,8 @@ If the brief is pit-shout hardcore with a living political enemy, check `punk.md
 
 ## Form
 
+**Budget default:** 4–8 sung or barked phrases per verse, 2–6 in a clean chorus, and 1–4 blows in a breakdown. Concept metal may exceed this only with real narrative escalation. See [../economy.md](../economy.md).
+
 Verse / optional pre / chorus. Breakdown lines chunked for rhythmic hits — write them as blows, not sentences that happen to be loud. Extended narrative sections are legal in concept work; they still need a refrain the crowd can occupy.
 
 Escalate image, not synonym density. V2 should worsen the situation, flip victim/vector, or move the war to a new room of the same metaphor house.

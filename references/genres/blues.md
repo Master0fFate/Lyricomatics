@@ -12,6 +12,8 @@ Juke shout vs solo confession is a delivery choice. Ask. It changes how much air
 
 ## Form
 
+**Native budget:** one A statement, its repeat or lean variation, then one B payoff across a 12-bar stanza. Count the three lyric statements, not decorative page wraps. Narrative couplets may differ. See [../economy.md](../economy.md).
+
 AAB is the default spine. A states the trouble. A-repeat insists. B pays off, twists, jokes, or deepens. If B only paraphrases A with a synonym for sorrow, you did not write a B.
 
 Repetition is not a first-draft leftover. If you are embarrassed to repeat, you are in the wrong pocket or your A line is weak.

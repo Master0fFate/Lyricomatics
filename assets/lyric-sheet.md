@@ -1,41 +1,34 @@
 # Title
 
 [Verse 1]
-I leave your cup beside the sink,
-kettle still clicking I don't pour,
-thumb on the chip,
-I don't look
-Nobody called so I don't
-Silver coming off the mug,
-paper round the handle,
-I wait
+One provisional sung phrase
+One phrase that advances the section
+One phrase with the strongest proof
+One phrase that ramps into the hook
 
 [Pre]
-get down here, hands on the glass,
-fit a mouth I can stand,
-now, I won't
+Short lift or compression
+Withhold the hook’s payoff
 
 [Chorus]
-The kettle clicks for one, I left it there,
-I left it there come down or don't,
-I'm not getting up
+The memory spine
+The central action
+The title in a strong position
+One consequence or turn
 
 [Verse 2]
-phrase,
-continuation of the same thought,
-short tail,
-longer row still one thought,
-short,
-end
+Change time, place, evidence, knowledge, power, or consequence
+Do not re-prove Verse 1
+Keep only what changes the hook’s meaning
+Stop when the hook is earned again
 
 [Bridge]
-you get it flush, I look
-I don't know that man,
-I put my palm back, start the wait again
+Only the turn the other sections cannot do
+No adjective-only restatement
 
-[Outro]
-hall light on the pile, nobody moved
-I left it there
+[Final Chorus]
+Repeat substantially unchanged
+Vary one line only if it pays off
 
 Alts
 -

@@ -11,6 +11,8 @@ Rock with a leather jacket is `rock.md`. Diary shame with a sneer but no enemy i
 
 ## Form
 
+**Patience default:** 2–6 sung/shouted phrases per verse and 1–4 in the slogan hook. Hardcore leans shorter. See [../economy.md](../economy.md).
+
 Short. Repeatable. Verse–chorus if you even bother. Anti-chorus and one-line mantras are native. A second verse must add a charge, a name, or a worse example — not a photocopy with new adjectives.
 
 Bridges are optional. A break that repeats the slogan harder is more in-lane than a middle eight of analysis.

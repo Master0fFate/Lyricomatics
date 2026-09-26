@@ -54,19 +54,20 @@ It will not wake up for playlists, mixing, mastering, or music-generator prompts
 **ROOM WORK** — a session, not a numbered QC gate.
 
 ```text
-LISTEN → CAST → CUT → SING → BLEED → OFFER
+LISTEN → CAST → HOOK → CUT → SING → BLEED → OFFER
 ```
 
 | Stage | What happens |
 | --- | --- |
-| **LISTEN** | 3–6 questions if the brief is thin. Pocket, stakes, voice, bans. |
-| **CAST** | Narrator, addressee, form, one image system, title candidates. |
-| **CUT** | Draft or rewrite. Skip this on critique-only jobs. |
-| **SING** | Speak-test, or scansion on the page if you cannot speak it. |
-| **BLEED** | Anti-slop pass. No invented grief to “humanize” a celebration. |
+| **LISTEN** | 3–6 questions if the brief is thin. Pocket, pressure/purpose, voice, bans. |
+| **CAST** | Voice, era, melody status, form, section budgets, tension, image logic, title. |
+| **HOOK** | Build the memory spine before filling the rooms. |
+| **CUT** | Draft lean. Every extra line needs a named new beat. Skip on critique-only jobs. |
+| **SING** | Phrase-map and stress test; exact fit only when music is supplied. |
+| **BLEED** | Economy, identity, prosody, and anti-slop passes. No invented grief to “humanize” joy. |
 | **OFFER** | Labeled lyric sheet, optional alts, 2–4 questions. Notes only if you asked for notes. |
 
-The agent loads two reference files before ink: a family pocket and the anti-slop knife, not the whole tree.
+The agent loads three focused references before ink: song economy, one family pocket, and the anti-slop knife. It does not drag the whole library into the room like a consultant billing by the page.
 
 ## Genre pockets
 
@@ -83,13 +84,18 @@ lyricomatics/
 ├── SKILL.md              # contract the agent loads first
 ├── references/           # on-demand craft, never a bulk read
 │   ├── briefing.md
+│   ├── economy.md        # section and unique-line budgets
 │   ├── room-work.md
 │   ├── anti-slop.md
+│   ├── research-basis.md # maintainer evidence + limits
 │   └── genres/           # one file per family
-└── assets/               # blank brief + lyric sheet
+├── assets/               # blank brief + lyric sheet
+└── EVALS.md              # maintainer regression suite
 ```
 
 Markdown only. No runtime, no plugins. Network is optional, and only when they name a niche the family files cannot cover.
+
+The maintainer-only research basis separates chart evidence from craft consensus. Chart correlation is not a magic hit button. If it were, labels would have automated taste decades ago and saved everyone several yachts.
 
 ## What it will not do
 

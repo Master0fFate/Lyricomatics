@@ -2,19 +2,19 @@
 
 Open when a section does not know its job, when you are about to bolt on a bridge from habit, or when title placement is turning into confetti.
 
-Form is architecture, not a skeleton you photocopy onto every brief. Label only the rooms the song actually uses. Sheet conventions: [delivery.md](delivery.md).
+Form is architecture, not a skeleton you photocopy onto every brief. Label only the rooms the song actually uses. Section budgets: [economy.md](economy.md). Sheet conventions: [delivery.md](delivery.md).
 
-If the pocket is known, that genre file wins on typical shape. This file still wins on *why a section exists*.
+If the pocket is known, that genre file wins on typical shape. Era modifies the pocket. This file still wins on *why a section exists* and whether adjacent sections contrast.
 
 ## Section jobs
 
 ### Verse
 
-Camera. Proof. New information.
+Setup, evidence, motion.
 
-Puts a body in a place with a clock. Does not unemployed the chorus by claiming the whole case in line two.
+In scene-based forms, it puts a body in a place and supplies what the hook needs. In argument, testimony, flex, list, or story forms, it may reason, accumulate, narrate, or perform instead. Do not force every genre into a kitchen camera.
 
-V2 is not V1 in a different shirt. Camera, time, or power must move. [craft.md](craft.md).
+V1 stops when the hook is earned. V2 changes time, place, evidence, knowledge, power, or consequence. It does not owe a third example of the same fact. [craft.md](craft.md).
 
 ### Pre
 
@@ -26,11 +26,11 @@ If the pre is a smaller chorus, you have two choruses and no lift. Cut or rewrit
 
 ### Chorus
 
-Claim. The case the verses earned.
+Memory spine. Emotional center or public face of the song.
 
-Stable enough to recognize. Syllable count tighter than the verses. Title lives here unless the form is refrain-verse or mantra-as-vamp.
+Stable enough to recognize. Phrase count and stress shape tighter than the verses. Title usually lives here in verse-chorus forms, but refrain-verse, AABA, mantra, and through-composed forms place it differently.
 
-May tell. Must not inventory feelings. One job: plead, flex, confess, command, mourn, seduce, indict — pick.
+One primary action: plead, claim, ask, flex, confess, command, mourn, seduce, indict, celebrate, or pray. A chorus can hold contradiction, but not a shopping list of feelings.
 
 ### Post
 
@@ -42,11 +42,11 @@ Do not write a second thesis in the post. It is a stump, not a paragraph.
 
 ### Bridge
 
-Inform or invert. New information, time jump, opposite POV, or one secret.
+Turn the lens, argument, harmony of thought, or meaning of the title. New information, time jump, opposite POV, counterclaim, confession, or one secret.
 
 Not bigger adjectives on the chorus. Not a moral. Not mandatory (see below).
 
-If you have nothing the other sections didn’t spend, you do not have a bridge. You have nerves.
+If you have nothing the other sections did not spend, you do not have a bridge. You have nerves.
 
 ### Outro
 
@@ -64,7 +64,33 @@ Gospel, some R&B, house, praise-and-worship: the lead phrase is the form. New ad
 
 Use the noun the pocket uses. Drill and rap often want `[Hook]` not a Broadway `[Chorus]`. Punk may be all refrain. Jazz and theatre may not want any of these labels. Don’t invent a pop skeleton for a two-line mantra.
 
-## Four shapes (pick one, don’t soup them)
+## Form families
+
+### Refrain-verse / strophic
+
+The same musical stanza returns with new text; a title or refrain line may recur inside it. Common across folk, early country, blues-adjacent song, hymn, and older popular traditions.
+
+The new verse carries the motion. Do not bolt on a separate chorus because modern labels make you anxious.
+
+### AABA / sectional return
+
+An A section establishes and returns to the title or central idea; B creates contrast; the final A returns with changed meaning. Common in standards and many later songs that inherit the form.
+
+A is not “verse plus chorus hiding in one room.” Its title/refrain placement is part of the section. B must travel far enough that the return matters.
+
+### Verse–chorus
+
+Verses supply changing setup or evidence; the chorus supplies the recurring memory spine. Pre, post, and bridge are optional functions, not furniture.
+
+### Call-and-response / vamp
+
+A lead line invites an answer; recurrence and performance escalation are the architecture. Gospel, blues, work-song descendants, funk, dance, and crowd forms use this differently. Write the spine and leave room for the answer.
+
+### Through-composed / scene
+
+New text and sometimes new music carry a developing scene or argument. Theatre, art song, some folk, jazz, and progressive forms use it. A recurring motif may do the memory work without a chorus.
+
+## Four operating shapes (pick one, don’t soup them)
 
 ### Radio
 
@@ -80,7 +106,7 @@ Verse-heavy. Chorus as verdict, proverb, or place-name. Folk, country, some rap,
 
 The verses carry the film. A final-verse twist often beats a rented bridge. Strophic forms may repeat music under new text — that is still story, not mantra.
 
-Do not starve a story song of proper nouns and then call it “universal.”
+Do not starve a story song of character-specific evidence and then call it “universal.” A proper noun is optional; owned behavior is not.
 
 ### Mantra
 
@@ -90,9 +116,9 @@ Dance-floor, gospel vamp, drill chant, some punk slogans, some indie one-liners.
 
 ### Through-composed
 
-New text throughout. Theatre scenes, art-song, some folk and jazz.
+New text throughout. Theatre scenes, art song, some folk and jazz.
 
-“Chorus” may be the wrong noun. You still need a governing image and an information budget. Through-composed is not a license to ramble.
+“Chorus” may be the wrong noun. You still need coherent image logic, recurring identity, and an information budget. Through-composed is not a license to ramble.
 
 Hybrids: primary shape + secondary pocket. Country-trap is story or radio with rap density, not both novels at once.
 
@@ -112,6 +138,14 @@ Write a bridge when something actually turns: the other person’s mouth, a time
 
 A sentiment-only bridge is a BLEED kill. [anti-slop.md](anti-slop.md).
 
+## Contrast makes form audible
+
+Adjacent sections should differ in at least two useful ways: information density, sentence shape, pronoun focus, rhyme stability, line length, repetition rate, image distance, or emotional action.
+
+Do not simulate contrast with typography. The lyric itself must change behavior.
+
+A common mainstream motion is detailed verse → compressed pre → plain, repeatable chorus. It is common, not universal. Blues may repeat to intensify. AABA leaves and returns. Rap may contrast a dense verse with a chant hook. Theatre follows objective and obstacle.
+
 ## Repetition is architecture
 
 Dance, gospel vamp, drill, house, some pop posts: repeating is the job, not a failure of imagination.
@@ -120,7 +154,7 @@ Do not “fix” a mantra by adding unique verses until it resembles a singer-so
 
 Rules for repeats that don’t rot:
 
-- One image that can take the loop (CAST named it)
+- One phrase or image strong enough to take the loop (CAST named it)
 - Tiny state-change if anything changes — the jacket moves, the lights stay, the name gets said harder
 - Stable chorus syllable count so the body can land
 - No gloss. The tenth pass should not explain the first

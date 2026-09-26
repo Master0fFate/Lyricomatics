@@ -11,6 +11,8 @@ Folk diary without the town economy belongs in `folk.md`. If the throat is a pit
 
 ## Form
 
+**Budget default:** radio verses often need 4–8 sung phrases; story stanzas may run longer only when facts turn. Chorus/refrain usually 4–6 phrases. A final verse often replaces a bridge. See [../economy.md](../economy.md).
+
 Verses carry narrative freight. Chorus repeats a ruling, a place, or a twisted proverb — not a therapy slogan. Strophic shapes can work; do not force a pop pre-chorus unless the brief is radio-country and the pre has a lift job.
 
 Bridge is optional. A final verse that changes what we know is worth more than a middle-eight of wisdom.

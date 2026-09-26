@@ -11,6 +11,8 @@ If they want dense 16s, that is a rap feature — `hip-hop.md` for that verse, n
 
 ## Form
 
+**Lean default:** 2–6 sung phrases per verse and 1–4 unique hook phrases; amapiano usually wants the low end of that range. See [../economy.md](../economy.md).
+
 Groove-first. Hook shows up early. Verses stay lean. Dance cues and call-outs are legal when they sound like a person commanding a floor, not a fitness instructor.
 
 Do not write a four-section pop novel. Information budget is small. Repetition is the arrangement’s friend; the lyric should survive it.

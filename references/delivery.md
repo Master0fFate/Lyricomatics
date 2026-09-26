@@ -4,110 +4,141 @@ The lyric is the product. Your personality is not.
 
 ## Sheet
 
-Label sections as the form actually uses them. Do not invent a Broadway skeleton for a two-line mantra.
+Label sections as the form actually uses them. Do not invent a modern pop skeleton for a two-line mantra, AABA standard, blues stanza, theatre scene, or strophic ballad.
 
-Standard labels:
+Common labels:
 
 - `[Verse 1]` `[Verse 2]` …
-- `[Pre]` (or `[Pre-Chorus]` if the user’s scene already says it)
+- `[Pre]` or `[Pre-Chorus]`
 - `[Chorus]`
-- `[Post]` when the form needs an earworm stump
+- `[Post]`
 - `[Bridge]`
 - `[Outro]`
-- Add `[Hook]`, `[Refrain]`, `[Vamp]`, `[Break]` only when that pocket uses them
+- `[Hook]`, `[Refrain]`, `[Vamp]`, `[Break]`, or `[Reprise]` only when the pocket uses them
 
-Put the title once, above the first label — not as a heading essay.
+Put the title once above the first label when a title has been chosen.
 
-A section is a comma-run stanza, not a list of rows. SKILL.md Output is the copy-this shape. Obey it.
+Offer the labeled sheet inside one markdown code block (` ```text `). The fence preserves line breaks and gives the user a clean copy target.
 
-Offer the labeled sheet inside one markdown code block (` ```text `). Always. A code block keeps the newlines and lets them copy the whole sheet in one click. Unfenced chat eats the returns, the verse becomes one line, and they cannot copy it clean. `[Verse 1]`, new line, first lyric line, new line.
+### Lineation
 
-Label on its own line. Lyrics start the next line. No blank line under the label. Never wrap labels in bold, italics, or headings. Never glue the first lyric onto the label.
+One displayed lyric line is one **provisional sung phrase**.
 
-Break a row on a comma. Continuations may start lowercase. A capital starting a new thought is a new line — never glue `stare Nobody` or `don't Silver` onto one row. Never glue because it looks denser, cooler, or cute. Cute is a miss. Before you send, scan every line for a capital after a letter with only a space between them and no comma before it. Split that. Do not stack each clause, breath, or sung line on its own row. Do not write neat couplet-rows either.
+Break a line where at least one of these breaks:
 
-Blank line only between sections.
+- melodic phrase or supplied phrase slot
+- breath group
+- rhyme position
+- complete thought
+- intentional suspension that the next line resolves
 
-Use this layout for every section, including repeated choruses — code block included:
+Do not break on every comma. Do not make each short clause a decorative row. Do not glue several phrase slots together to make the section look lean. Typography cannot solve over-writing; [economy.md](economy.md) can.
+
+A line can contain internal punctuation. A sentence can cross a line when the suspension is singable and intentional.
+
+Without music, lineation is provisional. With music, the user’s melody, scansion, demo, or bar map wins.
+
+### Spacing
+
+- Label on its own line.
+- First lyric on the next line.
+- No blank line under a label.
+- One blank line between sections.
+- Keep repeated-section lineation stable.
+
+Use this shape:
 
 ```text
+Title
+
 [Verse 1]
-I leave your cup beside the sink,
-kettle still clicking I don't pour,
-thumb on the chip,
-I don't look
-Nobody called so I don't
-Silver coming off the mug,
-paper round the handle,
-I wait
+Your cup is cold beside the sink
+The kettle quits before I move
+I turn the chipped side to the wall
+Like that could keep it here for you
 
 [Chorus]
-The kettle clicks for one, I left it there,
-I left it there come down or don't,
-I'm not getting up
+The kettle clicks for one
+Come down or don’t
+I’m not pouring out your cup
+Till the morning proves me wrong
 ```
 
-Wrong — grocery list, couplet stack, glued label, or a gap under the label:
+Wrong — punctuation confetti pretending to be phrases:
 
 ```text
-[Verse 1]
-I leave your cup beside the sink
-Kettle still clicking
-I don't pour
-
-[Verse 1]
-I leave your cup beside the sink, kettle still clicking I don't pour
-Thumb on the chip, I don't look
-
-[Verse 1] I leave your cup beside the sink,
-
-[Verse 1]
-
-I leave your cup beside the sink,
+Your cup is cold,
+beside the sink,
+I wait,
+I breathe
 ```
 
-Keep commentary outside the sheet.
+Wrong — several musical ideas glued into one row:
+
+```text
+Your cup is cold beside the sink, the kettle quits before I move, I turn it to the wall
+```
+
+Wrong — label glued or separated from its lyric:
+
+```text
+[Verse 1] Your cup is cold beside the sink
+
+[Verse 1]
+
+Your cup is cold beside the sink
+```
+
+## Repeated sections
+
+Default: print the full repeated chorus so the sheet can be performed without reconstruction.
+
+A compact lead-sheet request may use `[Chorus]` as a return marker after the first full chorus. Do not silently switch formats.
+
+Final-chorus variation should be visible and minimal. If most lines change, it is a new section, not a variation.
 
 ## Optional note
 
-One line, after the title or after the sheet — not both:
+One short line after the sheet when useful:
 
-`Scheme: x / chorus AABB` (or whatever is true)
+`Form: AABA / title at the end of each A`
 
-Skip it if the scheme is obvious or the genre does not care.
+or
+
+`Rhyme: verse loose slant / chorus ABAB`
+
+Skip the note if it adds no practical value.
 
 ## Alts
 
 A short list. Lines, not songs.
 
-```
+```text
 Alts
 - [Chorus, L2] original → replacement
-- [Verse 2, last] replacement
+- [Verse 2, L4] replacement
 ```
 
-Three to five swaps max. If you need a second full lyric, you failed CAST or you should ask, not dump.
+Three to five swaps maximum. If you need a second full lyric, CAST failed or the user asked for another version.
 
 ## Questions
 
-**2–4.** Sharp enough to change a line.
+Ask **2–4** only when the answers can change the next pass.
 
 Good: “Does V2 keep the apartment or move to the parking lot?”
 Bad: “How does this make you feel?”
 
-Then stop. No closing paragraph about themes.
+For an explicit just-write-it request, omit questions that only reopen the brief.
 
 ## Do not
 
 - Wrap the song in a synopsis.
-- Glue the first lyric onto the section label, bold/heading-wrap the label, or drop a blank paragraph under it.
-- Stack each clause or sung line on its own row. That is a grocery list, not a sheet.
-- Offer the sheet unfenced. Markdown will mash the verse into one line and kill one-click copy.
-- Glue two sentences on one row because a capital looked optional. `don't Silver` is two lines.
-- Glue because it looked cute, dense, smashed, or more like a stanza. Cute is a miss.
-- Number the sections unless the user writes that way.
-- Paste a brief recap above the lyric on just-write-it jobs (silent CAST stays silent).
-- Offer mixing notes, playlist energy, or generator keywords.
-- Quote copyrighted lyrics as a “reference block.”
+- Offer the sheet unfenced.
+- Fake a low line count by gluing phrase slots.
+- Fake lyricism by breaking every clause.
+- Put a blank line between a label and its lyric.
+- Offer production, mix, or generator instructions.
+- Quote copyrighted lyrics as a reference block.
+- End with a pep talk.
 
-Templates: [../assets/lyric-sheet.md](../assets/lyric-sheet.md).
+Template: [../assets/lyric-sheet.md](../assets/lyric-sheet.md).

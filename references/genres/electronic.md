@@ -12,6 +12,8 @@ If they want a full radio pop novel on a four-on-the-floor, that is `pop.md` —
 
 ## Form
 
+**Scarcity default:** 0–4 unique verse phrases and 1–4 unique hook phrases for house/EDM; trip-hop may use 4–8 fragment lines when the images move. See [../economy.md](../economy.md).
+
 House/EDM: minimal unique lyric. One sentence of yearning or release, maybe a pre-gesture, maybe a two-line verse that exists to make the mantra hit. Six unique dense sections is malpractice.
 
 Trip-hop: fragments, return, residue. Sections may not have pop names. A “chorus” might be a crooked image you revisit changed. Do not fake a bridge of wisdom.

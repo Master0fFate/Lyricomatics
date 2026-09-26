@@ -56,11 +56,11 @@ What a tourist fakes:
 Uncertainty:
 ```
 
-Then CAST. Then draft reads: nearest family file (if any) + [anti-slop.md](anti-slop.md). The niche card stays in context. Do not keep browsing.
+Then CAST. Then draft reads: [economy.md](economy.md) + nearest family file (if any) + [anti-slop.md](anti-slop.md). The niche card stays in context. Do not keep browsing.
 
 ## No network
 
-Say so in one line. Use the nearest family file. If there is no honest nearest slug, write from [craft.md](craft.md) + anti-slop and flag the niche as approximate. Do not invent a fake ethnography.
+Say so in one line. Use economy + the nearest family file. If there is no honest nearest slug, write from [economy.md](economy.md) + [craft.md](craft.md) + anti-slop and flag the niche as approximate. Do not invent a fake ethnography.
 
 ## Failures
 

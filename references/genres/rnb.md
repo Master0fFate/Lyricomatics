@@ -12,6 +12,8 @@ Rap-sung lanes: if bars are the product, `hip-hop.md` is primary. If the run and
 
 ## Form
 
+**Lean default:** 4–6 sung phrases per verse and 2–6 in the hook, with fewer words than pop in each phrase. Space for runs and answers is part of the budget. See [../economy.md](../economy.md).
+
 Verse–chorus with long pockets. Bridge as confession or flip — a fact that recasts the hook — not a bigger adjective.
 
 Neo-soul may wander the verse and live on a vamp. Wandering is not a paragraph of advice. Circular does not mean static: the object in the room should change state.

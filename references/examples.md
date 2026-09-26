@@ -64,6 +64,20 @@ Cut the gloss. The floor is the vehicle. Bedroom voice does not file a simile.
 
 End on the object. Let them keep the moral if they need one.
 
+### Acreage without motion
+
+**Before:** Six verse lines each say the other person never called.
+**After:** Keep the line with the sharpest behavior, then use the next line to move the clock or power.
+
+Do not polish duplicate proof. Remove it. The music would like to enter the premises.
+
+### Fluent but ownerless hook
+
+**Before:** I can’t let you go, I need you tonight.
+**After:** Keep the simple sentence shape, but replace its central action with the brief’s unique contradiction or behavior.
+
+Do not make every word strange. One owned turn inside a fluent frame is usually stronger than a chorus made entirely of novelty.
+
 ---
 
 ## How to use

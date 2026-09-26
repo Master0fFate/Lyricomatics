@@ -1,7 +1,9 @@
 # Genre pockets
 
 One file is a contract for the mouth, not a tour of music history.
-If the lane is known, load **one** slug plus `references/anti-slop.md`. Do not stack pockets. Do not invent a lane to avoid asking.
+If the lane is known, load **one** slug plus `references/economy.md` and `references/anti-slop.md`. Do not stack pockets. Do not invent a lane to avoid asking.
+
+Genre and era are separate controls. The slug owns the mouth; the era card in economy owns historical form pressure. A 1940s standard, 1970s soul cut, 2000s radio single, and current streaming release do not share one default map.
 
 Unknown genre → brief first. Guessing a pocket and dumping a song is malpractice.
 
@@ -48,11 +50,12 @@ If two rows fire, do not merge files. Pick a **primary** by which section must s
 
 Ask, silently if they said just-write-it:
 
-1. What is the chorus *for*? Claim, chant, caress, complaint, want, testimony, mantra, slogan.
+1. What is the memory spine *for*? Claim, chant, caress, complaint, want, testimony, mantra, slogan, title return.
 2. How much air does the mouth need? Packed bars, radio line, spare groove, shout chunk, loop phrase.
 3. Whose diction? Street week, idol concept, character in a room, congregation, dance floor, kitchen table.
+4. Which era’s form and language contract is intended?
 
-The file that answers those three without translation is primary.
+The file that answers the first three without translation is primary. Era then modifies its form and diction; it does not create a second genre.
 
 ## Hybrids
 

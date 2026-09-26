@@ -10,12 +10,14 @@ Preserve the voice on the page. You were not hired to promote the lyric into ess
 
 Read it cold. Speak it. Then say what is broken in one sentence a skeptical A&R would buy.
 
-- Situation missing, or situation buried
-- Mouth that isn’t this person
-- Image system cheating on itself
+- Memory spine missing or generic
+- Situation/purpose missing, or buried under too many lines
+- Section doing two jobs or duplicating another section
+- Mouth that is not this person
+- Image logic cheating on itself
 - Stress and rhyme fighting the beat
 - Caption residue
-- Wrong pocket
+- Wrong pocket or era
 
 If you cannot name the failure, you are about to rewrite from vibe. Don’t.
 
@@ -30,7 +32,7 @@ Keep:
 - Their contractions, fragments, bans
 - Their addressee and POV, even if you hate the choice
 - Proper nouns they already planted
-- The governing image if it is working anywhere
+- The dominant image logic if it is working anywhere
 
 Change:
 
@@ -46,7 +48,8 @@ Do not bulk-read `references/`. Name the loudest break. Open **one** file. Mark 
 
 | Loudest break | Open |
 |---|---|
-| No situation / no stakes / V2 is V1 | [craft.md](craft.md) |
+| Overlong section / duplicate proof / weak hook | [economy.md](economy.md) |
+| No situation / no pressure / V2 is V1 | [craft.md](craft.md) |
 | Diction, POV, persona, fake slang | [voice.md](voice.md) |
 | Section job, fake bridge, mantra vs story | [form.md](form.md) |
 | Mouth, stress, scheme | [rhyme-prosody.md](rhyme-prosody.md) |
@@ -59,37 +62,41 @@ Two files in a sitting is plenty. Three is a pile-up. The load map in SKILL.md s
 
 Work in this order even if you only run the first loud failure. Later passes lie if earlier ones are nonsense.
 
-### 1. Sense
+### 1. Promise and sense
 
-Can each line mean something in time? Is there an event, not a climate?
-
-Paraphrase the song as one text message. If you cannot, stop. Do not pretty nonsense. Do not rhyme a hole.
+What must the listener remember: title, refrain, question, slogan, character want, or final turn? Can you state the song’s central tension or purpose in one sentence? If not, stop. Do not pretty nonsense. Do not rhyme a hole.
 
 Mark contradictions. Character may be wrong; the *writer* should not be accidentally wrong.
 
-### 2. Voice
+### 2. Form and economy
+
+Name each section’s job. Count provisional sung phrases, not punctuation rows. Mark duplicate proof, explanation after image, throat-clearing, the line after the payoff, an unearned bridge, and any over-budget section whose extra lines add no named beat. See [economy.md](economy.md).
+
+Check V2 for a change in time, place, evidence, knowledge, power, or consequence.
+
+### 3. Voice
 
 Would this narrator say this word at this hour to this addressee?
 
 POV drift, tense drift, register drift, persona leaking into author diary. See [voice.md](voice.md).
 
-### 3. Image
+### 4. Image
 
-One system or a junk drawer? Picture then caption? Graveyard nouns doing the work?
+Coherent image logic or a junk drawer? Is any counter-image a deliberate turn? Picture then caption? Graveyard nouns doing the work?
 
 Sharpen the vehicle. Do not add a second metaphor to “clarify.” [craft.md](craft.md).
 
-### 4. Rhyme / prosody
+### 5. Rhyme / prosody
 
 Speak it. Stress on the beat? End-word carrying meaning? Inverted syntax for a perfect rhyme? Clusters on a held title?
 
 If it only works on the page, it does not work. [rhyme-prosody.md](rhyme-prosody.md).
 
-### 5. Slop
+### 6. Slop
 
 Forensic pass. Abstract stacks, poster diction, therapy graduation, missing idiosyncrasy, title-stuffing, moral sticker. [anti-slop.md](anti-slop.md).
 
-### 6. Genre pocket
+### 7. Genre and era pocket
 
 Only after the lyric is a situation with a mouth. Then: does this hook *do* what the pocket pays for? Never-do list. Density. Chant vs novella.
 
@@ -100,9 +107,9 @@ Unknown pocket: do not invent one in the notes. Send them back to LISTEN. [brief
 Line-level. Section labels as they used them.
 
 ```
-[Verse 1, L3] caption — “my truth in the darkness” is a poster. Need a room.
-[Chorus] unemployed — verse already claimed this. Chorus should be the ask.
-[Verse 2] isomorphism — same camera as V1, blue dress instead of red.
+[Verse 1, L3–L6] over budget — four examples prove the same absence. Keep the strongest one.
+[Chorus] no memory spine — three claims compete; choose the ask and land the title.
+[Verse 2] isomorphism — same time, evidence, and power as V1.
 ```
 
 Be short. Insult the line. Do not narrate your process.
@@ -128,10 +135,10 @@ Questions: **2–4**, sharp enough to change a line. Same bar as [delivery.md](d
 
 ## Do not
 
-- Announce a six-point rubric to the user. The order is for you.
+- Announce the internal seven-part pass to the user. The order is for you.
 - “Upgrade” diction.
 - Quote copyrighted lyrics as a teaching block. [ethics.md](ethics.md).
 - Fix production, BPM, or mix. Words only.
 - Close with a pep talk.
 
-If they read the notes and say write it — CAST (silent if they want speed), CUT, SING, BLEED, OFFER. Critique was the diagnosis. The room still has to track.
+If they read the notes and say write it — CAST (silent if they want speed), HOOK, CUT, SING, BLEED, OFFER. Critique was the diagnosis. The room still has to track.

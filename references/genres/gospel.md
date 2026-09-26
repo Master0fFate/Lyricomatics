@@ -12,6 +12,8 @@ Christian radio love-song with Jesus swapped for baby is pop ethics failure, not
 
 ## Form
 
+**Budget default:** testimony verse 4–8 sung phrases; communal refrain/vamp 1–4 unique phrases. Write the call and leave room for the answer. See [../economy.md](../economy.md).
+
 Call-and-response. Verse–chorus–vamp. Testimony verse plus communal refrain.
 
 Vamp: short, repeatable, intensifying lines. If the vamp cannot be layered, you overwrote it. Do not dump original paragraphs into the vamp because you still had theology to cover.

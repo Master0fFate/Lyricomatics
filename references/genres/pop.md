@@ -11,6 +11,8 @@ If they want club mantra with almost no verse, that is `electronic.md`. If they 
 
 ## Form
 
+**Lean default:** 4–6 sung phrases per verse, 2–4 in a pre, 2–6 in a chorus, 1–2 in a post. V2 is usually no longer than V1. See [../economy.md](../economy.md); melody and era may override.
+
 Verse → pre → chorus. Optional post-chorus as brand stamp. Bridge as a tilt — new info, time jump, opposite power — not a fancier chorus.
 
 Radio instinct: land the title early enough to own the song, not in every line like a nervous tic. Pre-chorus lifts by *withholding* the title one bar longer, not by leaking the whole claim.

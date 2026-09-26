@@ -12,6 +12,8 @@ Pop ballad feelings with a “musical” label still fail here. If there is no o
 
 ## Form
 
+**Scene-controlled budget:** melody and dramatic beats outrank a generic line range. Even so, require a new tactic, obstacle, reveal, or status change every 2–4 sung phrases. See [../economy.md](../economy.md).
+
 Verse as scene. Chorus as need. The song must advance plot or deepen character — preferably both. Information that the scene already stated does not need to be sung unless singing changes it.
 
 Reprise changes meaning. If the reprise is identical in implication, you wasted the device.

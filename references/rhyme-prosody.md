@@ -1,8 +1,10 @@
 # Rhyme and prosody
 
-Open when the mouth fails. SING is the stage. If it only works on the page, it does not work.
+Open when the mouth fails. SING is the stage. If it only works on the page, it does not work as a finished lyric.
 
-Do not load this file to admire schemes. Load it because a line tripped, a title cannot be belted, or the rhyme bent the syntax into a pretzel.
+Without melody, the result is a **provisional mouth map**, not proof of singability. With melody, phrase slots, stress, pickups, holds, and rests are law unless the user authorizes a melodic change.
+
+Do not load this file to admire schemes. Load it because a line tripped, a title cannot be sung in its intended delivery, or the rhyme bent syntax into a pretzel.
 
 Density, pocket, and never-do live in `genres/<slug>.md`. This file is the mouth. See genres/ before you decide how much rhyme the pocket will pay for.
 
@@ -61,9 +63,15 @@ Write the meaning word first. Rhyme backward from it. Speech order stays speech 
 
 Lazy in a story verse. Architecture in a mantra: house, gospel vamp, drill chant, a post that stamps. If the repeat *is* the form, identical is a choice. If you landed there because you ran out of partners, you shrugged.
 
+## Prosody is the whole agreement
+
+Prosody is not syllable counting alone. Meaning, natural speech stress, melodic stress, rhyme type, line length, section shape, and emotional stability should point in the same direction.
+
+A resolved thought may use balanced phrases and stronger rhyme. An unstable thought may use asymmetry, enjambment, delay, or looser rhyme. These are choices, not laws; the emotional job decides.
+
 ## Stress to the beat
 
-Default: stressed speech syllables want strong musical beats. Accidental mis-stress of a meaning word sounds amateur.
+Default: stressed speech syllables want strong musical positions. Accidental mis-stress of a meaning word sounds amateur.
 
 Intentional displacement is legal — behind the beat, ahead, jazz lag, trap lean, neo-soul drag. The crime is *accidental* Yoda-stress, not pocket.
 
@@ -73,18 +81,22 @@ Chorus syllable count should be stabler than verse. Verses can limp and recover.
 
 Cut 20% of the syllables on a hook that cannot be caught. Clever is not catchable.
 
-## Speak-test (and page-test)
+## Phrase-map test
 
-If you cannot say it in character in one breath chunk, do not rhyme it prettier. Rewrite.
+One displayed line should map to one provisional sung phrase. A phrase may contain one or two breath groups; it should not contain three unrelated musical ideas.
 
-SING prefers out loud, under your breath, tired. If you cannot speak it, do this on the page:
+If you cannot say it in character, do not rhyme it prettier. Rewrite.
 
-1. Mark the stressed syllables of the meaning words.
+SING prefers out loud, under your breath, tired. On the page:
+
+1. Mark stressed syllables of meaning words.
 2. Split breath groups with `/`.
-3. Check that each group is one breath in the pocket.
-4. Flag clustered consonants on a title that would be held or shouted.
+3. Mark intentional pickup words in parentheses if a melody was supplied.
+4. Check that repeated sections keep comparable phrase and stress shapes.
+5. Flag clustered consonants on a word intended for a hold or shout.
+6. Check that the grammatical roadmap agrees with the phrase roadmap; do not strand a weak function word at the climax.
 
-Without a supplied melody, singability is provisional. Do not reject a line solely because you cannot hear a band.
+Without a supplied melody, bar count and singability are provisional. Do not reject a line solely because you cannot hear a band, and do not advertise “perfect meter” you could not test.
 
 Mark failures:
 
