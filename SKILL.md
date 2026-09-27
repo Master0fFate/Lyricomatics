@@ -115,7 +115,9 @@ Run three silent cuts:
 
 Then use `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
 
-A premium draft must have: a retrievable hook; section motion; a voice-specific detail or behavior; repetition with consequence; no unearned bridge; and no section longer than its job.
+Before OFFER, count provisional sung phrases in **each** section against the primary genre range in `references/economy.md`. If any section exceeds its range, silently name the indispensable new beat supplied by each extra line; if you cannot, revise it before delivery. In mainstream rock, a 7–8-line chorus usually contains a second thesis or a line after the payoff: test a 4–6-line cut. In sparse dance, count **unique** lines, not repeats. Do not game the count by gluing phrases together.
+
+A premium draft must have: a retrievable **and specific** hook; section motion; a voice-specific detail or behavior; repetition with consequence; no unearned bridge; and no section longer than its job. If the short version has become generic, replace its weakest line with a distinct action or turn rather than adding more lines.
 
 ### OFFER
 

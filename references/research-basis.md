@@ -69,7 +69,7 @@ Work in music cognition by Elizabeth Hellmuth Margulis and David Huron shows tha
 Sources:
 
 - Elizabeth Hellmuth Margulis, *On Repeat: How Music Plays the Mind* (Oxford University Press, 2014). https://doi.org/10.1093/acprof:oso/9780199990825.001.0001
-- David Huron, “A Psychological Approach to Musical Form: The Habituation-Fluency Theory of Repetition,” *Current Musicology* 96 (2013), 7–35. https://doi.org/10.7916/D8KP81FG
+- David Huron, “A Psychological Approach to Musical Form: The Habituation-Fluency Theory of Repetition,” *Current Musicology* 96 (2013), 7–35. https://academiccommons.columbia.edu/doi/10.7916/D8KP81FG
 
 ### Concrete language is a tool, not a religion
 

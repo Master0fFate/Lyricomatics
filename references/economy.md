@@ -47,7 +47,7 @@ Count **unique** lyric lines, not repeated choruses.
 - Sparse groove, chant, punk, dance, or vamp: often 4–16.
 - Story, theatre, conscious rap, corrido, folk ballad: may need 20–40 or more.
 
-These are diagnostic ranges. A long song must earn duration through event, turn, character, or verbal performance. A short song must still feel complete in its chosen form.
+These are diagnostic ranges. A long song must earn duration through event, turn, character, or verbal performance. A short song must still feel complete in its chosen form. **For the chosen lane, count every section before delivery.** A verse within range does not excuse an oversized chorus. Repetition does not excuse a generic hook.
 
 ## The section card
 
@@ -126,7 +126,7 @@ Check:
 - Is there one line too many after the payoff?
 - Does the lyric leave room for the title to be held, repeated, answered, or interrupted?
 
-If the chorus needs a paragraph to be understood, the verse failed to set it up or the chorus is doing the verse’s job.
+If the chorus needs a paragraph to be understood, the verse failed to set it up or the chorus is doing the verse’s job. First try deleting the second explanation and the line after the title lands. If the result becomes empty, strengthen one distinct verb or contradiction; do not restore four more lines.
 
 ## Era changes the budget
 

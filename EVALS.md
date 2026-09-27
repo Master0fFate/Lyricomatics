@@ -104,6 +104,10 @@ Also record:
 
 **Pass:** Longer stanzas are allowed; each 2–4 lines advances fact, pressure, or consequence; refrain is short; chronology and names stay coherent; the evaluator does not punish length when motion pays rent.
 
+## Observed regression (live two-brief check)
+
+A before/after run on the same alternative-rock and sparse-house briefs found leaner verses in the new version. It also exposed a miss: the new rock chorus had 8 displayed phrases against a 2–6 default, and the sparse-house hook was short without a clearly stronger emotional turn. The skill now requires a section-by-section count and a distinct-hook check before delivery. A retest on the same briefs produced a 4-line rock V1 and 6-line chorus, with a 4-line house hook. The rock chorus now meets its range; the house lyric remains sparse. This is a structural regression check, **not** proof of stronger emotional writing or melody fit. Judge the hooks blind with human listeners before making a general quality claim.
+
 ## Regression targets
 
 After any change to SKILL.md, economy, form, delivery, anti-slop, rhyme-prosody, or a genre file, rerun at least cases 1, 2, 3, 4, 8, 9, and 10.
