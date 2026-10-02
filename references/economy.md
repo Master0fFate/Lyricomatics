@@ -17,9 +17,42 @@ Without a supplied melody:
 
 With a supplied melody, demo, scansion, or bar map: that source wins. Match its phrase slots, stresses, pickups, holds, and rests.
 
+## Words per phrase: choose the vocal space
+
+Section length and phrase density are separate choices. A four-line hook can still be four crowded sentences.
+
+Before ink, choose a **sparse, balanced, or dense** vocal delivery for each section. Use genre, section job, the user's preference, and supplied music. Words per displayed line are a rough editing aid, not a meter. Syllables, stress, consonants, held notes, rests, and phrase duration decide what the mouth can fit.
+
+For English-language lyrics without a melody, these are **craft starting points**, not measured genre averages or hard limits:
+
+| Delivery / likely use | Verse words per phrase | Hook words per phrase |
+|---|---:|---:|
+| Sparse: airy trap, dance mantra, clipped punk chant | 3–7 | 2–6 |
+| Balanced: conversational pop, country, rock, melodic rap | 5–10 | 3–8 |
+| Dense: boom-bap, narrative rap, patter | 8–14, sometimes more | 3–8 unless the hook itself is dense |
+
+These lanes are not genre laws. R&B may use very few words across long held notes; a folk story may need longer phrases. Other languages need their own syllable and phrase judgment, not English word quotas. Count contractions as one word for this rough pass. Do not pad a good short line to reach a minimum or cut a necessary thought only to meet a maximum.
+
+### Tempo is context, not a formula
+
+- Honor supplied melody, phrase map, breath points, and explicit density requests before a default range.
+- At faster **performed phrase rates**, start with fewer syllables and often fewer words if the aim is more instrumental space. Leave actual gaps; do not replace one long line with twice as many short ones.
+- A slower tempo can allow more words, but does not demand them. Long vowels, rests, and emotional weight also use time.
+- Check half-time and double-time delivery. A beat labeled 140 BPM can support a spacious vocal felt at 70; a 70 BPM beat can carry rapid subdivisions. BPM alone cannot set words per line.
+- A deliberate fast, dense verse remains valid. Do not turn a requested double-time rap into a chant to obey a speed rule.
+- If BPM or music is absent, choose from the pocket and desired space. Do not invent a tempo, seconds of silence, or a guaranteed bar fit. Ask about delivery only if it would materially change the draft.
+
+Use a lighter hook than verse when that contrast serves recall. Short words can still make a crowded line, and long words can hide many syllables. Check the mouth as well as the count.
+
+### Density pass
+
+Check **each section**, not just a song-wide average. Flag phrases outside its chosen range, then cut needless clauses, replace tongue-heavy wording, or retain a phrase for a clear delivery reason. Preserve complete musical thoughts. Never split or glue lines merely to pass the count.
+
+With music, test whether rests and held notes still fit after the words. Without music, leave verbal space and call the fit provisional. Do not fill every gap with ad-libs. A sparse verse and a dense verse should not have the same verbal load wearing different labels.
+
 ## Start lean
 
-Use these as **first-draft budgets**, not laws. Genre, era, tempo, melody, and form can override them. Exceed a range only when every extra line supplies a new beat that the section needs.
+Use these as **first-draft budgets**, not laws. Genre, era, tempo, melody, and form can override them. Exceed a range only when each extra line earns its place through a necessary new beat, purposeful recurrence, or an explicit user/music constraint. A supplied eight-phrase chorus stays eight phrases; do not cut its slots to meet a default. Recognition can earn a hook repeat without new information.
 
 | Lane / form | Verse | Pre | Chorus / refrain | Bridge / turn |
 |---|---:|---:|---:|---:|
@@ -59,6 +92,10 @@ Era target:
 V1 job / budget:
 Pre job / budget:
 Hook job / budget:
+Vocal density / rough words per phrase, by section:
+Tempo / felt pulse / phrase map, if supplied:
+Space for holds, breath, and instrumental gaps:
+Hook anchor / repeat placement / optional response:
 V2 move / budget:
 Turn, if any / budget:
 Title landing:
@@ -76,19 +113,26 @@ Draft the section. Then compress it in this order:
 4. Merge setup with action when the mouth stays natural.
 5. Keep the best line, not the line required to rescue a weak rhyme.
 6. Move context the chorus does not need into a verse.
-7. If a verse exceeds its budget, name the new beat in every extra line. No named beat means no line.
+7. If a verse exceeds its budget, name the necessary new beat, deliberate refrain, or explicit user/music constraint behind each extra line. No purpose means no line.
 
 Target: remove roughly 15–25% from an overfull first draft. Do not cut a narrative turn, necessary setup, or character-specific grain merely to satisfy a number.
 
 ## Repetition with consequence
 
-Chart history supports repetition, but repetition is not cloning filler.
+Repetition is a primary tool for recall and participation, not something to remove simply because the words already appeared. It supports a catchy vocal phrase; it cannot guarantee a catchy melody without music.
 
-- Repeat the chorus or refrain substantially unchanged so the listener can learn it.
-- Let the new verse change what the same chorus means.
-- Vary the final chorus only when one changed word or line pays off the song.
-- Repeat a title because it gains force, creates rhythm, or invites participation.
-- Do not repeat because the section ran out of thought.
+Plan the recurrence before filling the verses:
+
+- Pick one **anchor phrase** that carries the hook's main action. Keep its words, stress shape, and displayed lineation stable on return.
+- For a short mainstream or trap hook, try the anchor at the opening and return/payoff, with a short answer or consequence between them. This is one useful pattern, not a mandatory repeat count. Chant, AAB, AABA, narrative, and through-composed forms keep their own logic.
+- Repeat the chorus or refrain substantially unchanged so the listener can learn it. Do not paraphrase each return to prove you own a thesaurus.
+- Use call-and-response, a short echoed word, or rhythmic parallelism when the pocket wants it. Choose the useful device; do not stack all three by habit.
+- Let the new verse change what the same chorus means. Recognition itself earns an unchanged hook's return; each repetition need not add a new fact.
+- Vary the final chorus only when one changed word or line pays off the song. Preserve the recognizable anchor unless changing it is the deliberate payoff.
+- Keep the verse free to move. Repeating the anchor in every section can flatten the hook's arrival.
+- Leave space around the repeat. A post-hook or ad-lib is optional, not another place to stuff the title.
+
+During the cut, protect intentional recurrence. Remove a repeat when it crowds the phrase, dulls the payoff, or supplies neither recall, rhythm, participation, nor emotional pressure. Mere duplication is not the failure; purposeless duplication is.
 
 The useful tension is **familiar frame + distinctive content**. A hook should be fluent enough to retain and particular enough to belong only to this song.
 
@@ -116,7 +160,11 @@ A verse may run long when the form is built for verbal or narrative accumulation
 
 ## Hook economy
 
-A hook needs less information than a verse and more identity.
+A hook needs less information than a verse and more identity. For a hook-led song, it is the main writing priority, not a summary attached after the verses.
+
+Before the verse draft, privately try **three short hook cores** with genuinely different wording, rhythm, or turns. If the user locks an exact line, keep it and try different responses or placements around it. If the user supplies only a theme or says “like,” preserve the intent without treating every word as fixed. On a narrow rewrite, do not replace an approved hook outside the requested scope.
+
+Choose one core for immediate recall, natural mouth-feel, emotional force, and a detail or contradiction that belongs to this song. Reject a fluent but interchangeable slogan. Build one hook around the winner, then test its return before investing in the verses. Keep the candidates internal unless the user asks for options. Story and through-composed forms may develop a refrain or final turn instead of adding a chorus.
 
 Check:
 
@@ -125,6 +173,11 @@ Check:
 - Does the hook make one primary move: plea, claim, command, question, verdict, celebration, accusation, prayer?
 - Is there one line too many after the payoff?
 - Does the lyric leave room for the title to be held, repeated, answered, or interrupted?
+- Can you identify the anchor without rereading the verse? Is the return recognizable rather than rewritten every time?
+- Does a short answer or contrast make the repeat hit harder, rather than explain it?
+- Is the hook easier to retain than the surrounding material, unless the chosen form deliberately works otherwise?
+
+A text-only recall and stress scan is provisional. Do not claim a listener-tested earworm or an amazing melody from words alone. If the hook fails the scan, repair it before polishing the verse.
 
 If the chorus needs a paragraph to be understood, the verse failed to set it up or the chorus is doing the verse’s job. First try deleting the second explanation and the line after the title lands. If the result becomes empty, strengthen one distinct verb or contradiction; do not restore four more lines.
 

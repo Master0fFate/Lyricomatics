@@ -22,6 +22,16 @@ Form:
 
 Section card / budgets:
 
+Vocal density by section (sparse / balanced / dense; rough words per phrase):
+
+Tempo / felt vocal pulse (if known; BPM is not a word quota):
+
+Space for holds, breath, and instrumental gaps:
+
+Hook anchor / return placement / optional response:
+
+User hook wording (locked line / theme only / open):
+
 Voice + banned words:
 
 Dominant image world:

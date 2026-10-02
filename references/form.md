@@ -170,7 +170,7 @@ If a repeat *does* rot, the line was never strong. Rewrite the spine. Don’t de
 - **Bridge:** twist it or refuse it
 - **Vamp:** *be* it
 
-Early enough to brand. Not so constant it numbs. Punch titles can delay. Mantra titles can occupy the whole hook — still surround them with a consequence line at least once.
+Early enough to brand. Not so constant it numbs. Punch titles can delay. Mantra titles can occupy the whole hook. Add a consequence or response only when it strengthens the return; a one-phrase mantra does not owe the page another line.
 
 ## Tiny tests
 

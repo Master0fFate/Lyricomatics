@@ -39,6 +39,10 @@ Write to a grid the jaw can keep without a metronome speech.
 
 Boom-bap: traffic in the middle of the bar. Do not starve the pocket and call it taste. Trap: leave air toward the backbeat; filling every sixteenth is panic. Drill: staccato, few open vowels hanging past the kick. Conscious: still oral. Subordinate-clause essays die on the tongue.
 
+Use the phrase-density lanes in [../economy.md](../economy.md). For airy contemporary trap, start sparse: roughly 3–7 words per verse phrase and 2–6 per hook phrase, with exceptions for a natural anchor or deliberate run. These are English drafting aids, not genre limits. Melodic rap can be balanced; dense bars belong when requested. Count syllables and stress as well as words.
+
+Do not shorten solely because the beat has a high BPM label. Trap often uses a half-time vocal feel. When instrumental space is the aim, reduce the verbal load and leave gaps instead of adding more short lines or automatic ad-libs. Without audio or a phrase map, the fit remains provisional.
+
 A line that needs a gloss after the bar already failed.
 
 Read it at performance speed. If you gasp mid-thought in trap, you overwrote. If boom-bap feels like a caption, you underwrote.
@@ -56,9 +60,11 @@ Words this person would never say are a hard ban. Fake slang salad is a costume 
 One sticky claim or image. Chant beats clever. If the room cannot yell it, it is a stanza pretending.
 
 - Drill — threat-mantra. Short. Repeatable without rotting in eight cycles.
-- Trap — temperature plus one noun you can shout.
+- Trap — a compact desire, accusation, image, or contradiction you can chant or sing back. A shout noun is one option, not a requirement.
 - Boom-bap — the turn you wait for, said plain enough to stamp.
 - Conscious — thesis a person could argue at a table, not a conference.
+
+For hook-led trap, choose the hook before the verses. Try a stable anchor, a short response or contrast, then an anchor return. Keep the core recognizable across hooks; let the verse move the relationship, power, or stakes around it. Use `[Hook]` if that is the requested label. A user theme is not necessarily locked wording; an explicitly fixed line is.
 
 Do not explain the metaphor in the next bar. Do not TED-talk a chorus over street diction.
 

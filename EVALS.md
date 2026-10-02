@@ -14,7 +14,7 @@ Any one fails the case:
 - Uses page formatting to fake economy: comma fragments as lines or several phrase slots glued into a row.
 - Forces verse–pre–chorus–bridge onto a form that explicitly rejects it.
 - Omits a usable memory spine when the form requires one.
-- Adds an unearned bridge or over-budget section whose extra lines add no new beat.
+- Adds an unearned bridge or over-budget section whose extra lines serve no necessary beat, purposeful recurrence, or explicit user/music constraint.
 - Uses a fake dialect or invented non-English garnish.
 
 ## Scoring
@@ -25,8 +25,11 @@ Also record:
 
 - provisional sung-phrase count per section
 - unique lyric-line count for the whole song
+- chosen vocal density and rough word-count range per section; reasons for retained outliers
+- syllable/stress or breath concerns that word counts miss
+- supplied BPM versus felt vocal pulse, if relevant; no invented tempo
 - exact V2 move
-- hook/title position
+- hook/title position, stable anchor, and repeat placement
 - one cut that improved economy
 - whether melody-fit claims were properly limited
 
@@ -104,12 +107,90 @@ Also record:
 
 **Pass:** Longer stanzas are allowed; each 2–4 lines advances fact, pressure, or consequence; refrain is short; chronology and names stay coherent; the evaluator does not punish length when motion pays rent.
 
+### 13. Fast pulse, instrumental space
+
+**Prompt:** Write a short current pop-punk lyric at 180 BPM with fast vocal phrases, lots of instrumental space, and no double-time delivery. The singer ducks a call from a boss on a day off. Plain speech, no revolution slogans. Just write it.
+
+**Pass:** Starts with sparse phrases rather than long explanatory sentences; chosen density is visible in the writing; hook anchor returns; no extra lines or ad-lib flood to cancel the space. Does not claim exact timing from BPM alone or split sentences at random to fake short lines.
+
+### 14. Trap half-time equivalence
+
+**Prompt A:** Write contemporary melodic trap about wanting someone who only calls for favors. Beat is 140 BPM, vocals felt half-time at 70. Airy delivery, no bridge, no luxury-brand list. Hook-led; just write it.
+
+**Prompt B:** Same brief, but describe the beat as 70 BPM with double-time hats and the same spacious vocal feel.
+
+**Pass:** Run A and B separately. Both choose comparable sparse/balanced vocal density and leave space. Neither mechanically halves or doubles the word target from the BPM label. Hook is simpler than verse, with a stable returning anchor and concrete relationship behavior. Judge comparable density, not identical lyrics.
+
+### 15. Slow does not mean wordy
+
+**Prompt:** Write a slow 60 BPM R&B hook about refusing to delete a voice message. Long held vowels and lots of silence, very few words. Direct address, no healing language. Just write it.
+
+**Pass:** Honors sparse phrasing and holds rather than filling slow time with more words. Repetition supports recall; no forced verse, no padded minimum, no exact melody-fit claim.
+
+### 16. Deliberately dense fast rap
+
+**Prompt:** Write a dense double-time rap verse and a short chant hook at 150 BPM about a cook trying to leave a shift on time. Busy internals, natural speech, no grind/crown/throne. No exact bar count required. Just write it.
+
+**Pass:** Dense verse remains possible despite high BPM; internal motion and concrete behavior earn the load. Hook has fewer words and a recognizable anchor. Does not advertise guaranteed performance fit or reduce every verse line to a chant.
+
+### 17. Locked hook and useful repetition
+
+**Prompt:** Write contemporary rap/trap about wanting someone who uses your affection for favors. Keep the exact line “I want you but you just use me” in each [Hook]. Repeat that anchor twice within each hook, with a short response between returns. Two lean verses; V2 must change what the narrator does. No bridge, no therapy ending, no brand names. Just write it.
+
+**Pass:** Exact anchor survives, even though its eight words exceed the sparse starting range. Internal hook repetition and full hook returns remain stable; response adds relationship-specific pressure, not explanation. V2 changes behavior without a tidy cure. No title-stuffing correction destroys requested repetition. No claim the text alone guarantees a catchy melody.
+
+### 18. Words are not syllables
+
+**Prompt:** Critique only: why might “Irreplaceable incompatibility” be harder to sing in a short held-note phrase than “You still leave your coat here”? Do not rewrite or invent a melody.
+
+**Pass:** Explains that two long words can carry more syllables and consonant load than six short words; considers stress and the held note. Does not call the two-word phrase automatically sparser or claim exact fit without a map.
+
+### 19. Scoped rewrite preserves an approved hook
+
+**Prompt:** Rewrite only this Verse 1 to make the narrator's behavior more specific. Keep the approved hook exactly as written, including line breaks. Contemporary melodic rap, no new sections, no questions.
+
+```text
+[Verse 1]
+I wait until you call
+I give you all my time
+You never stay at all
+I tell myself you're mine
+
+[Hook]
+You call, I leave the plate
+One kiss, another wait
+You call, I leave the plate
+```
+
+**Pass:** Revises only the verse. Approved hook text and lineation remain unchanged if reprinted. Does not expose or substitute alternate hook cores, add a bridge, or broaden the rewrite.
+
+### 20. Supplied phrase map beats the default budget
+
+**Prompt:** Draft only an eight-phrase pop chorus about waiting for a partner to finish a shift. Keep all eight phrase slots. Slots 1, 3, 5, and 7 must be exactly “I leave the hall light on.” Slots 2, 4, 6, and 8 each get one short response of 3–5 words. No other sections. This is a phrase map, not a supplied melody. Just write it.
+
+**Pass:** Keeps eight phrases despite the normal 2–6-line pop chorus budget; four exact anchor returns survive. Does not demand a new plot fact from every recurrence. Response lengths follow the user map. No claim of exact melody fit from phrase lengths alone.
+
 ## Observed regression (live two-brief check)
 
 A before/after run on the same alternative-rock and sparse-house briefs found leaner verses in the new version. It also exposed a miss: the new rock chorus had 8 displayed phrases against a 2–6 default, and the sparse-house hook was short without a clearly stronger emotional turn. The skill now requires a section-by-section count and a distinct-hook check before delivery. A retest on the same briefs produced a 4-line rock V1 and 6-line chorus, with a 4-line house hook. The rock chorus now meets its range; the house lyric remains sparse. This is a structural regression check, **not** proof of stronger emotional writing or melody fit. Judge the hooks blind with human listeners before making a general quality claim.
 
+## Observed v2.1 phrase-density smoke check
+
+Four fresh-session generations used the repository skill and its drafting references. Parent review and a separate word-count check found:
+
+| Case | Observed result |
+|---|---|
+| 14A: 140 BPM, felt 70 | Verse phrases 5–6 words; hook phrases 4–6; stable full hook returns. |
+| 14B: 70 BPM, double-time hats | Verse phrases 4–7 words; hook phrases 5–6; comparable sparse vocal load, not a BPM-driven doubling. |
+| 16: dense fast rap | Verse phrases 11–14 words; hook phrases 4–5; dense delivery preserved with concrete internal motion. |
+| 17: locked repeated hook | Exact eight-word anchor appeared twice per hook; three-phrase hooks returned unchanged; V2 changed behavior without a tidy cure. |
+
+These four outputs met their structural checks and limited fit claims to the available text. Independent source review also found conflicting excess-line and mandatory-consequence rules; those were clarified to protect purposeful recurrence and supplied structure. Cases 19–20 were added for remaining boundaries.
+
+This was **not the full regression suite**, a before/after quality comparison, an audio performance test, or listener evidence of catchiness. Cases 1–13, 15, and 18–20 were not freshly generated in this smoke run. Markdown link and whitespace checks are separate source checks, not generation results.
+
 ## Regression targets
 
-After any change to SKILL.md, economy, form, delivery, anti-slop, rhyme-prosody, or a genre file, rerun at least cases 1, 2, 3, 4, 8, 9, and 10.
+After any change to SKILL.md, economy, form, delivery, anti-slop, rhyme-prosody, or a genre file, rerun at least cases 1, 2, 3, 4, 8, 9, and 10. For phrase-density, hook, or repetition changes, also run cases 13–20 (both versions of 14). Record which checks actually ran; a source review is not a fresh-session generation run, and structural compliance is not listener-tested catchiness.
 
 The suite passes only if sparse forms stay sparse **and** long forms remain possible. A system that solves over-writing by making every song four lines has merely discovered a cheaper failure.

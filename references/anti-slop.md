@@ -111,9 +111,9 @@ If you can describe V2 as “the other color dress,” you did not write V2.
 
 ### Title-stuffing
 
-**Signal:** Title in every line of chorus, plus pre, plus post. The ear goes numb.
+**Signal:** Title fills chorus, pre, verse, and post without contrast or space. Each arrival loses force. A planned anchor repeated inside the hook is not itself a failure.
 
-**Move:** Land the title on the payoff bar. Surround it with consequence. Vary once with a twist line. Mantra pockets may repeat — still do not clone the title into the verse as filler.
+**Move:** Keep repeats that create recognition, rhythm, participation, or emotional pressure. Cut the ones that crowd the phrase or flatten the payoff. Surround the anchor with a short response or consequence where useful. A final twist is optional, not a demand to rewrite a learned hook. Mantra pockets may repeat extensively; do not clone the title into the verse as filler.
 
 ### Sentiment-only bridge
 
@@ -250,7 +250,7 @@ BLEED is the scan. Do not load a second humanizer skill. These tells hit **offer
 
 **Signal:** Every line the same syntactic stencil. Anaphora that never breaks. A chorus that could be a product landing page.
 
-**Move:** Break one line on purpose. Keep the hook catchable, not identical.
+**Move:** Break a purposeless stencil, not a learned hook. Preserve deliberate anchor repeats and stable hook returns. Add contrast in the response or moving verse when it helps; do not paraphrase every repeat to prove variety.
 
 ---
 
@@ -283,7 +283,7 @@ Score each 0–2:
 
 1. **Brief fit** — correct job, pocket, era, voice, bans, and emotional purpose.
 2. **Memory** — the title/hook/refrain is retrievable after one pass and has an owner.
-3. **Economy** — every section earns its length; no duplicate proof or fake bridge.
+3. **Economy** — every section earns its length and phrase density; space fits the intended delivery; no duplicate proof or fake bridge. Purposeful hook repeats are not duplicate proof.
 4. **Motion** — sections change pressure, knowledge, power, participation, or meaning.
 5. **Voice** — diction, behavior, humor, and omission belong to this narrator.
 6. **Prosody** — natural speech stress, useful end-words, breathable phrases; exact musical fit only when music exists.
@@ -299,7 +299,7 @@ Read it cold, out loud, as if you did not write it.
 If a line could caption a stock photo, it dies — unless the pocket is a chant and the caption *is* the hook.
 If abstracts do all the work in a scene-based story, replace some with behavior or evidence.
 If a verse that needs proof has no charged behavior, object, place, or relation — you wrote a mood. Mantra, praise, and house loops are allowed to be spare.
-If a verse exceeds budget and you cannot name the new beat in each extra line — cut.
+If a verse exceeds budget and you cannot justify each extra line by a necessary beat, deliberate refrain, or explicit user/music constraint — cut.
 If V2 does not change time, place, evidence, knowledge, power, or consequence — you did not write V2.
 If a tired person cannot catch the hook, it is not a hook.
 If the hook could be moved intact to ten songs in the lane, it has fluency but no owner.

@@ -23,7 +23,8 @@ Name, in 5–10 lines if anything load-bearing was inferred:
 - narrator and addressee
 - POV and tense
 - genre pocket, era target, and melody status
-- form plus the section card from [economy.md](economy.md)
+- form plus the section card from [economy.md](economy.md), including vocal density and rough words per phrase by section
+- supplied tempo versus felt vocal pulse, if known; planned space for breath, holds, and instrumental gaps
 - central tension: two truths that cannot both stay comfortable
 - dominant image world, with a deliberate counter-image only if it creates the turn
 - title and hook candidates
@@ -54,6 +55,8 @@ Draft and rewrite jobs only. Critique jobs diagnose the existing memory spine.
 
 Write the part the listener must retain before filling the rest: chorus, refrain, title line, A-section return, slogan, vamp, or mantra. For story and through-composed forms, map the refrain or final turn instead of stapling on a chorus.
 
+Use the hook-first selection and recurrence plan in [economy.md](economy.md): privately compare three cores (or responses/placements around locked wording), choose one, and plan a stable anchor with useful returns. Do not replace an approved hook on a scoped rewrite. Catchiness is a writing aim, not a guaranteed melody result from text.
+
 **Good:** One primary action. Title in a strong position. Familiar enough to learn, particular enough to identify. Stable phrase shape. A line that can survive recurrence because each verse can change its meaning.
 
 **Fail:** A paragraph chorus. Three emotional jobs in a list. A hook that could belong to any neighboring song. Cleverness that needs a footnote. Rewriting every chorus so the listener never gets to learn it.
@@ -79,7 +82,7 @@ Speak it if you can. If you cannot, mark stresses and breath groups on the page.
 
 Mouth-feel. Hook a tired human can catch on pass one. Each displayed line is one provisional sung phrase. Singability without a supplied melody is provisional; never invent exact bars or declare a definitive fit.
 
-When music is supplied, match phrase slots, natural word stress, pickups, holds, and rests. Open rhyme-prosody only if the mouth fails.
+When music is supplied, match phrase slots, natural word stress, pickups, holds, and rests. Check phrase word counts as a rough warning, then syllable load and breath. BPM is not a word quota: half-time can leave space on a fast beat, and slow beats can carry dense delivery. Open rhyme-prosody only if the mouth fails.
 
 **Good:** Chorus syllables stable enough to recognize (mantra pockets may loop). Speech order, then rhyme — not rhyme, then Yoda. Hook is shoutable or croonable in the actual pocket.
 
@@ -91,7 +94,7 @@ Forensic pass. You are looking for residue that smells like a caption.
 
 Knife: [anti-slop.md](anti-slop.md). If they asked for notes, not a rewrite: [critique.md](critique.md).
 
-First compress: cut explanation, duplicate evidence, throat-clearing, and the line after the payoff. Then kill abstract-noun piles, motivational-poster diction, symmetrical healing arcs, missing idiosyncrasy, inverted syntax, title-stuffing, and sermon endings.
+First compress: cut explanation, duplicate evidence, throat-clearing, and the line after the payoff. Check density in each section independently of line count. Protect intentional hook recurrence; do not treat recognition as duplicate evidence. Then kill abstract-noun piles, motivational-poster diction, symmetrical healing arcs, missing idiosyncrasy, inverted syntax, purposeless title-stuffing, and sermon endings.
 
 **Good:** A retrievable hook. Fewer unique lines where repetition does the job. Section contrast. One unresolved speck left on purpose. User’s diction intact — you did not “upgrade” them into essay English.
 

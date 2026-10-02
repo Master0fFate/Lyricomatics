@@ -60,14 +60,22 @@ LISTEN → CAST → HOOK → CUT → SING → BLEED → OFFER
 | Stage | What happens |
 | --- | --- |
 | **LISTEN** | 3–6 questions if the brief is thin. Pocket, pressure/purpose, voice, bans. |
-| **CAST** | Voice, era, melody status, form, section budgets, tension, image logic, title. |
-| **HOOK** | Build the memory spine before filling the rooms. |
-| **CUT** | Draft lean. Every extra line needs a named new beat. Skip on critique-only jobs. |
+| **CAST** | Voice, era, melody status, form, section budgets, phrase density, tension, title. |
+| **HOOK** | Compare short hook cores, choose an anchor, and plan memorable returns before the verses. |
+| **CUT** | Draft lean. Extra lines need a new beat, useful recurrence, or a user/music constraint. Skip on critique-only jobs. |
 | **SING** | Phrase-map and stress test; exact fit only when music is supplied. |
 | **BLEED** | Economy, identity, prosody, and anti-slop passes. No invented grief to “humanize” joy. |
 | **OFFER** | Labeled lyric sheet, optional alts, 2–4 questions. Notes only if you asked for notes. |
 
 The agent loads three focused references before ink: song economy, one family pocket, and the anti-slop knife. It does not drag the whole library into the room like a consultant billing by the page.
+
+## Line length, hooks, and repetition
+
+Section size and words per line are separate checks. Each section gets a sparse, balanced, or dense delivery target, with flexible English word ranges in `references/economy.md`. Syllables, stress, breath, and supplied melody take priority over the rough count.
+
+Faster vocal phrasing often calls for fewer words when the goal is more room for the instrumental. But BPM alone cannot decide: half-time trap can stay spacious on a fast beat, and a slow beat can carry rapid rap. No fixed BPM-to-word formula, no mandatory padding on slow songs, and no ban on deliberate density.
+
+Hook-led songs get a hook-first selection pass. One anchor returns recognizably, with an answer, contrast, or echo where useful. The edit pass protects repetition that builds recall instead of deleting it as duplicate text. These are craft rules, not a promise of a hit or a substitute for testing with music.
 
 ## Genre pockets
 
@@ -84,7 +92,7 @@ lyricomatics/
 ├── SKILL.md              # contract the agent loads first
 ├── references/           # on-demand craft, never a bulk read
 │   ├── briefing.md
-│   ├── economy.md        # section and unique-line budgets
+│   ├── economy.md        # section budgets, phrase density, hooks, recurrence
 │   ├── room-work.md
 │   ├── anti-slop.md
 │   ├── research-basis.md # maintainer evidence + limits

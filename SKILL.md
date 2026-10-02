@@ -11,7 +11,7 @@ compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
   standard: agentskills
   invocation: on-demand
 ---
@@ -81,7 +81,7 @@ Title + mood is not a complete brief. Read `references/briefing.md` only when in
 
 ### CAST
 
-Narrator, addressee, POV, tense, genre pocket, **era target**, melody status, form, section budgets, dominant image world, central tension, and title/hook candidates.
+Narrator, addressee, POV, tense, genre pocket, **era target**, melody status, form, section budgets, **vocal density and rough words per phrase by section**, dominant image world, central tension, and title/hook candidates. If tempo is supplied, distinguish beat BPM from the felt vocal pulse; never infer a word quota from BPM alone.
 If anything load-bearing was inferred, state the cast in 5–10 lines **before** the ink. Do not expose a routine internal plan just to look industrious.
 Niche jobs: include nearest family + the niche card in that CAST.
 Just-write-it jobs: CAST in silence. Do not browse unless they already named a niche.
@@ -90,13 +90,15 @@ Just-write-it jobs: CAST in silence. Do not browse unless they already named a n
 
 Write the song’s memory spine before filling the rooms: chorus, refrain, title line, A-section return, or mantra. Story and through-composed forms may map the refrain or final turn instead.
 
-The hook gets one primary action: plead, claim, command, question, confess, celebrate, accuse, pray, or judge. Make it fluent enough to retain and distinct enough to belong only to this song. A familiar form with default-language content is paste.
+The hook gets one primary action: plead, claim, command, question, confess, celebrate, accuse, pray, or judge. It is a main priority in a hook-led song, not the leftover summary. Privately try three short cores or, for a user-locked line, three responses/placements; choose for recall, mouth-feel, emotional force, and identity. Preserve approved hooks on scoped rewrites. Details: `references/economy.md`.
+
+Lock one anchor phrase and plan its returns. Use a short answer, contrast, or echo where useful; keep the anchor and repeated-hook lineation stable. Repetition earns its place through recall, rhythm, participation, or changed emotional context, not only new information. A familiar form with default-language content is paste. Words can support catchiness; without music, do not promise a catchy melody.
 
 ### CUT
 
 Draft and rewrite jobs only. Skip on critique.
 Write as if tracking tomorrow. Genre-true. Era-true. Specific without turning the lyric into a prop inventory.
-Start lean. Obey the section card and line budgets in `references/economy.md`. Add past the budget only for a named new beat. Let the music have oxygen.
+Start lean. Obey the section card, phrase-density guidance, and line budgets in `references/economy.md`. Exceed a section budget only for a necessary new beat, purposeful recurrence, or an explicit user/music constraint. Check words **and** syllable/stress load; let the music have oxygen. Faster vocal phrasing often needs fewer words when space is the goal, but half-time, holds, deliberate dense rap, and supplied melody override any simple tempo rule.
 Do not invent grief, absence, or a bill to make a celebration, praise, joke, or lament “feel real.”
 
 ### SING
@@ -109,15 +111,17 @@ Open rhyme-prosody only if the mouth fails.
 
 Run three silent cuts:
 
-1. **Economy** — remove explanation, duplicate proof, and the line after the payoff.
+1. **Economy** — remove explanation, duplicate proof, and the line after the payoff. Protect planned hook repeats; check phrase density separately from section length.
 2. **Identity** — remove genre-default filler; preserve the user’s strange, defensible grain.
 3. **Prosody** — restore speech stress, meaning end-words, breath, and stable hook phrasing.
 
 Then use `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
 
-Before OFFER, count provisional sung phrases in **each** section against the primary genre range in `references/economy.md`. If any section exceeds its range, silently name the indispensable new beat supplied by each extra line; if you cannot, revise it before delivery. In mainstream rock, a 7–8-line chorus usually contains a second thesis or a line after the payoff: test a 4–6-line cut. In sparse dance, count **unique** lines, not repeats. Do not game the count by gluing phrases together.
+Before OFFER, count provisional sung phrases in **each** section against the primary genre range in `references/economy.md`. If any section exceeds its range, silently justify each extra line by a necessary new beat, purposeful recurrence, or the user's supplied form/phrase map; if you cannot, revise it before delivery. Recognition can justify a planned hook repeat without new information. In mainstream rock, a 7–8-line chorus usually contains a second thesis or a line after the payoff: test a 4–6-line cut. In sparse dance, count **unique** lines, not repeats. Do not game the count by gluing phrases together.
 
-A premium draft must have: a retrievable **and specific** hook; section motion; a voice-specific detail or behavior; repetition with consequence; no unearned bridge; and no section longer than its job. If the short version has become generic, replace its weakest line with a distinct action or turn rather than adding more lines.
+Also check rough words per phrase **in each section**, mouth load, and intended space against its chosen delivery in `references/economy.md`. Revise crowding, not typography. Verify that the hook anchor returns recognizably and the repetition has a job. Repair a weak hook before polishing verse details.
+
+A premium draft must have: a retrievable **and specific** hook; section motion; a voice-specific detail or behavior; purposeful repetition; no unearned bridge; and no section longer or denser than its job. If the short version has become generic, replace its weakest line with a distinct action or turn rather than adding more lines.
 
 ### OFFER
 
@@ -152,7 +156,7 @@ Blanks: [assets/brief-sheet.md](assets/brief-sheet.md), [assets/lyric-sheet.md](
 
 ## Output
 
-- Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Chorus]`, `[Bridge]`, `[Outro]` only as the form actually uses.
+- Draft/rewrite: labeled lyric sheet — `[Verse 1]`, `[Pre]`, `[Hook]` or `[Chorus]`, `[Bridge]`, `[Outro]` only as the form actually uses. Use one consistent label for the same returning hook.
 - Put the lyric sheet in one markdown code block (` ```text `) so line breaks survive and the sheet copies cleanly.
 - Plain label on its own line. The first lyric starts on the next line. No blank line under a label. Blank lines go only between sections.
 - **One displayed line = one provisional sung phrase**, not one comma and not a paragraph disguised as a line. A line may contain internal punctuation. Break where the musical thought, breath, rhyme position, or intentional suspension breaks.

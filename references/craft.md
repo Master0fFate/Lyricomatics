@@ -41,7 +41,7 @@ Land the title where the ear needs a tattoo.
 
 Early enough to remember. Not in every line of pre, chorus, and post.
 
-If the title is a punch, delay it — last line of chorus 1, or the bar after the pre lifts. If the title is a mantra, repeat it, but surround it with consequence, not clones of the same noun.
+If the title is a punch, delay it — last line of chorus 1, or the bar after the pre lifts. If the title is a mantra, repeat it. A consequence or response can sharpen the return, but is optional; do not add words when the loop already carries recall, rhythm, or emotional pressure.
 
 A verse that hosts the title every eight bars is a refrain form, or it is nervous. Pick one.
 
