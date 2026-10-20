@@ -120,6 +120,7 @@ Diction, POV, persona: [voice.md](voice.md). Mouth: [rhyme-prosody.md](rhyme-pro
 - Is there a price inside any win?
 - Is the image logic coherent, and is any counter-image deliberate?
 - Would a tired person catch the claim on first listen?
+- Can V2 sing V1's tune line for line without cramming or stretching?
 
 Residue that smells like a caption → [anti-slop.md](anti-slop.md).
 Need a before/after, not a sermon → [examples.md](examples.md).

@@ -7,7 +7,7 @@ A chorus a band could print on a shirt. Verses like rooms and arguments. Not a p
 - **Rock** — verse/chorus, downbeat stress, chantable claim, fist-sized title. Enemy optional but if rebellion is claimed, name the rule.
 - **Indie** — elliptical okay, cold open okay, anti-chorus okay, one-line mantra okay. Strange concrete image over scheme. Do not explain the symbol.
 
-Garage that wants slogans and spit belongs in `punk.md`. Arena feelings with no object still fail here.
+Garage that wants slogans and spit belongs in `punk.md`. Buried vowel-led vocals and texture-first fragments: `dream-pop.md`. Declamatory baritone, slogan and dread: `post-punk-goth.md`. Arena feelings with no object still fail here.
 
 ## Form
 
@@ -38,6 +38,12 @@ Indie can talk-sing. Ugly stresses that sound like a person in a kitchen beat pr
 Consonant sludge on a belted chorus will fail in the room. Save clusters for talky verse asides.
 
 If the chorus needs more than one breath for a single slogan-line, it is probably two lines pretending to be one.
+
+## Flow parity
+
+Verses **tight**; indie talk-sing may go **loose** in the verse with the stress count held. Chorus **strict**: the shout lands on the same downbeats with the same open vowel every return. A gang vocal cannot learn a line that changes shape.
+
+Trap: a slogan that is two lines pretending to be one on the second chorus. Same split, same breath, every time.
 
 ## POV & voice
 

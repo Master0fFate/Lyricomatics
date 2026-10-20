@@ -8,7 +8,7 @@ Heat with logistics. Desire that has a toothbrush in the sink. The hook is a car
 - **Soul** — testimony of the body and the bill; plain speech that can be wrung; gospel cousin without stealing church form unless briefed.
 - **Neo-soul** — conversational enjambment, circular vamps, spoken asides, through-composed verses that still close a feeling.
 
-Rap-sung lanes: if bars are the product, `hip-hop.md` is primary. If the run and the ache are the product, stay here.
+Rap-sung lanes: if bars are the product, `hip-hop.md` is primary. If the run and the ache are the product, stay here. Party chant, call-and-response, and vamp for a floor: `funk-disco.md`.
 
 ## Form
 
@@ -39,6 +39,14 @@ Neo-soul loves speech that breaks across the bar. Let the sentence lean. Do not 
 Hook vowels should be harmony-friendly — ah, oh, ee that can be stacked without chewing.
 
 Read it slow, as if the track already exists and you are late into the pocket. If you are panting, cut.
+
+## Flow parity
+
+Verses **loose**: stress count matches line for line; unstressed syllables may float by up to two, because the singer will talk behind the beat and bend what is there. Endings still match. Hook anchor **strict**, and the vowel on the longest note stays in its family on every return so the stack can sit on it.
+
+Neo-soul enjambment is legal; it must enjamb in the same place on the twin line.
+
+Trap: writing a run into the words. Melisma is the singer's; the page carries one syllable per note.
 
 ## POV & voice
 

@@ -71,6 +71,13 @@ End on the object. Let them keep the moral if they need one.
 
 Do not polish duplicate proof. Remove it. The music would like to enter the premises.
 
+### Parity drift (verse pair)
+
+**Before:** V1: *I turn the chipped side to the wall* (8). V2: *I told my sister you were only travelling for work* (13).
+**After:** V2: *I tell my sister you're at work* (8).
+
+Same tune, same count, same stress slots, both end on the beat. The sister and the lie survived. The four syllables the singer would have crammed did not.
+
 ### Fluent but ownerless hook
 
 **Before:** I can’t let you go, I need you tonight.

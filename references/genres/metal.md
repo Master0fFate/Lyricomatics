@@ -42,6 +42,12 @@ Clean: open vowels, held title words, chorus you can bellow without chewing clus
 
 Mixed: do not write the harsh verse in essay English and the clean chorus in poster English. One diction world, two deliveries.
 
+## Flow parity
+
+Clean chorus **strict**, held title vowel matched on every return. Harsh verses **loose** on syllables but **strict** on blows: the same count of hits in the same chunks, line for line. Breakdown blows exact. Concept sections that never repeat music are **off**; their refrain is not.
+
+Trap: a bark that gains a syllable because the lore needed a name. Shorten the name or move it to a slot that has room.
+
 ## POV & voice
 
 Epic first or third. Accusatory second. Horror-witness. Unreliable prophet when earned.

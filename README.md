@@ -63,7 +63,7 @@ LISTEN → CAST → HOOK → CUT → SING → BLEED → OFFER
 | **CAST** | Voice, era, melody status, form, section budgets, phrase density, tension, title. |
 | **HOOK** | Compare short hook cores, choose an anchor, and plan memorable returns before the verses. |
 | **CUT** | Draft lean. Extra lines need a new beat, useful recurrence, or a user/music constraint. Skip on critique-only jobs. |
-| **SING** | Phrase-map and stress test; exact fit only when music is supplied. |
+| **SING** | Phrase-map and stress test; pair every repeated section line for line; exact fit only when music is supplied. |
 | **BLEED** | Economy, identity, prosody, and anti-slop passes. No invented grief to “humanize” joy. |
 | **OFFER** | Labeled lyric sheet, optional alts, 2–4 questions. Notes only if you asked for notes. |
 
@@ -77,13 +77,27 @@ Faster vocal phrasing often calls for fewer words when the goal is more room for
 
 Hook-led songs get a hook-first selection pass. One anchor returns recognizably, with an answer, contrast, or echo where useful. The edit pass protects repetition that builds recall instead of deleting it as duplicate text. These are craft rules, not a promise of a hit or a substitute for testing with music.
 
+## Flow parity
+
+A melody is a grid. Verse 2 sings verse 1's tune, every chorus sings the chorus tune. If line 3 of verse 2 carries two more syllables than line 3 of verse 1, the singer crams or stretches, and the vocal lurches. Do that across a verse and it sounds like the singer keeps changing tempo.
+
+So the skill pairs lines: V1 line n with V2 line n, each chorus return with the first, A with A, stanza with stanza. Paired lines carry the same sung-syllable count, the same stress slots, and the same ending. Verse pairs get one syllable of play at a pickup or tail. Hook returns match exactly. On a sung hook the held vowel keeps its family every time.
+
+Each genre file sets the dial for its lane (**strict**, **tight**, **loose**, **off**). A file that says nothing inherits the default: tight verses, strict hooks. Rap verses turn the syllable dial off and keep bar parity instead: steady syllables per bar and the rhyme on the same beat until a deliberate switch. Counting method, vowel families, and the fix list are in `references/flow.md`.
+
 ## Genre pockets
 
-Lyric craft only. No production recipes. Seventeen family files are the law: hip-hop, pop, R&B, country, rock, metal, folk, blues, jazz, theatre, gospel, Caribbean, Afro, Latin, East Asian pop, electronic, punk.
+Lyric craft only. No production recipes. Thirty family files are the law:
+
+- **English-language core:** hip-hop, pop, R&B, country, rock, metal, folk, blues, jazz, theatre, gospel, electronic, punk
+- **Scenes with their own mouth:** emo, dream pop, post-punk and goth, UK rap, funk and disco, worship, children's, comedy
+- **Language and region:** Caribbean, Afro, Latin, regional Mexican, Brazil, East Asia, South Asia, Middle East, Europop
+
+Each file carries form, rhyme pressure, mouth, flow parity dial, voice, hook job, a kill list, AI failure modes, three briefing questions, and a hybrid note. Non-English families refuse to invent lines in a language the brief did not supply with a competent speaker.
 
 Hybrids pick a **primary** pocket. The secondary file donates its kill list, not a second personality.
 
-If they name a niche those files cannot cover (angelcore, phonk, corridos tumbados, a regional split), the agent maps the nearest family, then does a **bounded** lyric-only lookup. The web does not replace the folder. No network: it says so and approximates. Vague "sad song" still gets questions, not a search.
+If they name a niche those files cannot cover (angelcore, phonk, hyperpop, a city scene), the agent maps the nearest family, then does a **bounded** lyric-only lookup. The web does not replace the folder. No network: it says so and approximates. Vague "sad song" still gets questions, not a search.
 
 ## Layout
 
@@ -93,10 +107,11 @@ lyricomatics/
 ├── references/           # on-demand craft, never a bulk read
 │   ├── briefing.md
 │   ├── economy.md        # section budgets, phrase density, hooks, recurrence
+│   ├── flow.md           # syllable, stress, and vowel parity between paired lines
 │   ├── room-work.md
 │   ├── anti-slop.md
 │   ├── research-basis.md # maintainer evidence + limits
-│   └── genres/           # one file per family
+│   └── genres/           # thirty family files plus the router
 ├── assets/               # blank brief + lyric sheet
 └── EVALS.md              # maintainer regression suite
 ```

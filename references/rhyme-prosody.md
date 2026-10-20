@@ -77,7 +77,7 @@ Intentional displacement is legal — behind the beat, ahead, jazz lag, trap lea
 
 Speak the line as the character. Where a fist would fall is a candidate for the hit. If the meaning-word is off the hit and the pocket is not syncopated, move the words, not the person’s accent.
 
-Chorus syllable count should be stabler than verse. Verses can limp and recover. Hooks need to be recognizable on pass one. Mantra pockets may loop.
+Chorus returns keep one syllable count and one stress skeleton; that is the strict dial, and no pocket turns it off. Verse pairs match too, with one syllable of play at a pickup or tail unless the genre file loosens it. A verse that limps on its own is a mouth problem. A verse that limps against its twin is a parity problem, and the singer will pay for it as a tempo lurch. Pairing, counting, and the fix list: [flow.md](flow.md).
 
 Cut 20% of the syllables on a hook that cannot be caught. Clever is not catchable.
 
@@ -92,7 +92,7 @@ SING prefers out loud, under your breath, tired. On the page:
 1. Mark stressed syllables of meaning words.
 2. Split breath groups with `/`.
 3. Mark intentional pickup words in parentheses if a melody was supplied.
-4. Check that repeated sections keep comparable phrase and stress shapes.
+4. Check that repeated sections keep the same phrase and stress skeleton, line for line, to the lane's dial ([flow.md](flow.md)).
 5. Flag clustered consonants on a word intended for a hold or shout.
 6. Check that the grammatical roadmap agrees with the phrase roadmap; do not strand a weak function word at the climax.
 
@@ -145,5 +145,6 @@ Unknown pocket: do not invent a density. LISTEN first.
 - Would a tired person catch the hook?
 - Did you invert syntax to buy a perfect?
 - Did you write rap density into a sung bedroom, or essay rhyme into a shout?
+- Can V2 sing V1's tune without cramming or holding a note nobody wrote?
 
 Form after the mouth works: [form.md](form.md). Caption residue after it sings: [anti-slop.md](anti-slop.md).

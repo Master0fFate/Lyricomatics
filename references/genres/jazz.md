@@ -8,7 +8,7 @@ Adult motives, double meanings, scansion as law. Wit is a temperature, not a cos
 - **Ballad / torch** — softer rhyme, longer vowels, late-night address. Still scanned. Sentiment without a concrete is perfume.
 - **Vocalese** — words mapped to an existing instrumental melody. Hard constraint. Do not attempt without a syllable-to-note plan. Scat on the page is phonetic play only if the brief wants it notated; otherwise performance, not lyric.
 
-If there is no fixed tune and they want diary shame, you probably wanted `folk.md`. If they want theatre objective in a room, `theatre.md`.
+If there is no fixed tune and they want diary shame, you probably wanted `folk.md`. If they want theatre objective in a room, `theatre.md`. Bossa nova and MPB in Portuguese: `brazil.md`.
 
 ## Form
 
@@ -41,6 +41,12 @@ Speak it in time. If you cannot, it will not sit. Over-syllabic lines are the cl
 Open vowels on long tones. Consonant play on faster passing tones. Do not park a cluster on a held note and hope the singer is a magician.
 
 Scatting is not your alibi for a weak lyric.
+
+## Flow parity
+
+Tune supplied: **strict** everywhere, one syllable per note, melisma only where the tune has it. Vocalese is strict with no exceptions. No tune: A sections **tight** to each other, B internally consistent with any return.
+
+Trap: a pretty sentence with one syllable too many on the title motif. The sentence loses.
 
 ## POV & voice
 

@@ -72,6 +72,8 @@ The same musical stanza returns with new text; a title or refrain line may recur
 
 The new verse carries the motion. Do not bolt on a separate chorus because modern labels make you anxious.
 
+Every stanza sings the same tune, so this is where parity drift is loudest. Stanza two matches stanza one line for line. [flow.md](flow.md).
+
 ### AABA / sectional return
 
 An A section establishes and returns to the title or central idea; B creates contrast; the final A returns with changed meaning. Common in standards and many later songs that inherit the form.
@@ -140,7 +142,11 @@ A sentiment-only bridge is a BLEED kill. [anti-slop.md](anti-slop.md).
 
 ## Contrast makes form audible
 
-Adjacent sections should differ in at least two useful ways: information density, sentence shape, pronoun focus, rhyme stability, line length, repetition rate, image distance, or emotional action.
+Adjacent sections should differ in at least two useful ways: information density, sentence shape, pronoun focus, rhyme stability, rhyme vowel, line length, repetition rate, image distance, or emotional action.
+
+Change the rhyme vowel between verse and chorus. A verse on *-ay* and a chorus on *-ay* blur into one room. The pre may also change its scheme from the verse; that is one of the ways a pre lifts.
+
+Line length may change between sections. It may not change between a section and its own return. [flow.md](flow.md).
 
 Do not simulate contrast with typography. The lyric itself must change behavior.
 
@@ -156,7 +162,7 @@ Rules for repeats that don’t rot:
 
 - One phrase or image strong enough to take the loop (CAST named it)
 - Tiny state-change if anything changes — the jacket moves, the lights stay, the name gets said harder
-- Stable chorus syllable count so the body can land
+- Identical syllable count and stress skeleton on every return so the body can land ([flow.md](flow.md))
 - No gloss. The tenth pass should not explain the first
 
 If a repeat *does* rot, the line was never strong. Rewrite the spine. Don’t decorate the rot.

@@ -2,16 +2,17 @@
 name: lyricomatics
 description: >-
   Collaborative song-lyric craft: brief the writer, write and rewrite lyrics,
-  critique lines, and match genre pocket, voice, rhyme, and prosody. Use when
-  the user invokes lyricomatics or explicitly asks to write, rewrite, workshop,
-  or critique song lyrics. Do not use for playlists, artist trivia, audio
+  critique lines, and match genre pocket, voice, rhyme, prosody, and
+  syllable-for-syllable parity between repeated sections. Use when the user
+  invokes lyricomatics or explicitly asks to write, rewrite, workshop, or
+  critique song lyrics. Do not use for playlists, artist trivia, audio
   production, mixing, mastering, music-generator prompting, or casual music chat.
 license: MIT
 compatibility: >-
   Any Agent Skills-compatible harness. Markdown-only; no runtime, no vendor
   plugins. Network is optional and only for niches the genre router cannot cover (niche-research.md).
 metadata:
-  version: "2.1.0"
+  version: "2.2.0"
   standard: agentskills
   invocation: on-demand
 ---
@@ -64,11 +65,11 @@ Progressive disclosure. Never bulk-read `references/` during a lyric job.
 5. Every full draft/rewrite → `references/economy.md`.
 6. Known family pocket → `references/genres/<slug>.md` + `references/anti-slop.md`.
 7. Named hybrid → primary genre file + economy + anti-slop, plus **only** the `Kill list` and `AI failure modes` of the secondary file.
-8. Named niche the router cannot cover (angelcore, phonk, corridos tumbados, UK drill as its own mouth, etc.) → `references/niche-research.md` **before CAST**. Then economy + nearest family file (if any) + anti-slop. Web notes cannot override ethics or the family kill list. No network: say so and approximate.
+8. Named niche the router cannot cover (angelcore, phonk, hyperpop, witch house, a regional scene the family file only names in passing) → `references/niche-research.md` **before CAST**. Then economy + nearest family file (if any) + anti-slop. Web notes cannot override ethics or the family kill list. No network: say so and approximate.
 9. Genre-less **rewrite/critique** of lyrics they already pasted → `references/economy.md` + `references/craft.md` + (`anti-slop.md` or `critique.md`). Do not invent a pocket.
 10. Vague genre on a **new draft** ("sad song", no name) → brief first. Do not invent a pocket and do not browse.
 
-Need form, rhyme, or voice mid-write? Open **one** of `references/form.md`, `references/rhyme-prosody.md`, `references/voice.md`. `references/research-basis.md` is maintainer provenance, not a drafting dependency.
+Need form, rhyme, voice, or parity mid-write? Open **one** of `references/form.md`, `references/rhyme-prosody.md`, `references/voice.md`, `references/flow.md`. Open flow when a repeated section fails the parity check in SING, when music or a phrase map was supplied, or when the user asked for counts. `references/research-basis.md` is maintainer provenance, not a drafting dependency.
 
 ## ROOM WORK
 
@@ -81,7 +82,7 @@ Title + mood is not a complete brief. Read `references/briefing.md` only when in
 
 ### CAST
 
-Narrator, addressee, POV, tense, genre pocket, **era target**, melody status, form, section budgets, **vocal density and rough words per phrase by section**, dominant image world, central tension, and title/hook candidates. If tempo is supplied, distinguish beat BPM from the felt vocal pulse; never infer a word quota from BPM alone.
+Narrator, addressee, POV, tense, genre pocket, **era target**, melody status, form, section budgets, **vocal density and rough words per phrase by section**, **parity dial by section** (from the genre file's `Flow parity`; default tight verse pairs, strict hook returns), dominant image world, central tension, and title/hook candidates. If tempo is supplied, distinguish beat BPM from the felt vocal pulse; never infer a word quota from BPM alone.
 If anything load-bearing was inferred, state the cast in 5–10 lines **before** the ink. Do not expose a routine internal plan just to look industrious.
 Niche jobs: include nearest family + the niche card in that CAST.
 Just-write-it jobs: CAST in silence. Do not browse unless they already named a niche.
@@ -104,8 +105,11 @@ Do not invent grief, absence, or a bill to make a celebration, praise, joke, or 
 ### SING
 
 Speak it if you can. Check each displayed line as one provisional sung phrase. If you cannot, scan stresses and breath groups on the page (`references/rhyme-prosody.md`).
-With supplied music, match its phrase slots and stresses. Without music, never claim exact bar fit or definitive singability.
-Open rhyme-prosody only if the mouth fails.
+
+**Parity.** Every repeated section sings one tune, so pair its lines: V1 line n with V2 line n, each chorus return with the first, A with A, stanza with stanza. Paired lines carry the same sung-syllable count with stresses in the same slots and matching endings. Verse pairs may differ by one syllable only at a pickup or an unstressed tail. Hook and chorus returns match exactly. On a sung hook, the held vowel keeps its family on every return. The primary genre file's `Flow parity` section may loosen or switch off the dial for a lane; nothing else may. Where the dial is off for a rap verse, bar parity still holds: steady syllables per bar and rhyme on the same beat until a deliberate switch at a seam. Fix the line, never the template. Detail and the fix list: `references/flow.md`.
+
+With supplied music, match its phrase slots and stresses. Without music, never claim exact bar fit or definitive singability; parity still applies, because whatever melody arrives will be repeated.
+Open rhyme-prosody only if the mouth fails. Open flow only if a pair fails or the user asked for counts.
 
 ### BLEED
 
@@ -113,7 +117,7 @@ Run three silent cuts:
 
 1. **Economy** — remove explanation, duplicate proof, and the line after the payoff. Protect planned hook repeats; check phrase density separately from section length.
 2. **Identity** — remove genre-default filler; preserve the user’s strange, defensible grain.
-3. **Prosody** — restore speech stress, meaning end-words, breath, and stable hook phrasing.
+3. **Prosody** — restore speech stress, meaning end-words, breath, stable hook phrasing, and parity between paired lines.
 
 Then use `references/anti-slop.md`. Notes-not-a-draft: `references/critique.md`.
 
@@ -121,7 +125,9 @@ Before OFFER, count provisional sung phrases in **each** section against the pri
 
 Also check rough words per phrase **in each section**, mouth load, and intended space against its chosen delivery in `references/economy.md`. Revise crowding, not typography. Verify that the hook anchor returns recognizably and the repetition has a job. Repair a weak hook before polishing verse details.
 
-A premium draft must have: a retrievable **and specific** hook; section motion; a voice-specific detail or behavior; purposeful repetition; no unearned bridge; and no section longer or denser than its job. If the short version has become generic, replace its weakest line with a distinct action or turn rather than adding more lines.
+Then run the parity grid on every section that returns: skeleton each line, align it with its partner, and fix any pair that breaks the lane's dial. Three printed choruses must produce one skeleton. If a partner cannot be matched without wrecking the sense, name the slot in OFFER instead of hiding it.
+
+A premium draft must have: a retrievable **and specific** hook; section motion; a voice-specific detail or behavior; purposeful repetition; no unearned bridge; paired lines that sing to one tune; and no section longer or denser than its job. If the short version has become generic, replace its weakest line with a distinct action or turn rather than adding more lines.
 
 ### OFFER
 
@@ -142,6 +148,7 @@ Open on demand. Never as a stack.
 - Diction, POV, persona — [references/voice.md](references/voice.md)
 - Section function — [references/form.md](references/form.md)
 - Rhyme, stress, mouth — [references/rhyme-prosody.md](references/rhyme-prosody.md)
+- Syllable, stress, and vowel parity between paired lines — [references/flow.md](references/flow.md)
 - Originality, homage — [references/ethics.md](references/ethics.md)
 - How to present the sheet — [references/delivery.md](references/delivery.md)
 - Before/after craft — [references/examples.md](references/examples.md)
@@ -181,6 +188,7 @@ Till the morning proves me wrong
 - If the user supplies a melody or scansion, preserve its line/phrase map unless the rewrite explicitly changes it.
 - Critique: diagnosis first; alts as a short list; no silent full replace.
 - Optional: one-line rhyme or form note; a short alt-line list — not a second song.
+- Parity note only when the user supplied music, asked for counts, or asked for strictness: one line, e.g. `Parity: V1/V2 8-8-7-8, stress aligned, tails matched; hook returns identical.` Otherwise the grid stays silent.
 - Ask 2–4 questions only when their answers can materially change the next pass. On a just-write-it delivery, omit questions if they would only delay closure.
 - Preserve user voice. Do not “upgrade” diction into essay English.
 - No essay preamble. No closing pep talk.

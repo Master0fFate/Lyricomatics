@@ -42,6 +42,12 @@ Open vowels on sung hooks; clipped consonants on toast. Do not hang sleepy melod
 
 Speak it. If you need a glossary you invented, delete the glossary and the words.
 
+## Flow parity
+
+Sung reggae and lover's rock: verses **tight**, hook **strict** with the held vowel matched. Dancehall toast: syllables **off**, bar parity on. The end-hit lands on the same beat with the same clipped family bar after bar; catch phrases **strict**.
+
+Trap: a sung verse written at toast density on the second pass. Air is part of the count.
+
 ## POV & voice
 
 Reasoning voice, lover’s address, dancehall boast/battle/party, or social critique — as the brief’s ethics allow. First person default. Second person for love, challenge, or instruction. “We” when the community is real, not a tourism we.

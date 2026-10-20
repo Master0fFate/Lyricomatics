@@ -11,7 +11,7 @@ Therefore:
 - Use chart research to find recurring tendencies, not a recipe for guaranteed hits.
 - Do not treat correlation as causation.
 - Do not apply modern chart tendencies to blues, standards, folk ballads, theatre, or other forms that have different jobs.
-- Do not call a preference “universal” when the data covers only English-language Western popular music.
+- Do not call a preference “universal” when the data covers only English-language Western popular music. The thirteen genre files added in v2.2 for scenes and non-English regions were built from practitioner and musicological sources plus craft consensus, not from chart corpora, and the non-English lanes have not been reviewed by native speakers.
 - Do not optimize lexical simplicity into blandness. Fluency and differentiation must coexist.
 
 ## Findings that inform the skill
@@ -79,6 +79,58 @@ Choi and Downie found a historical increase in lyric concreteness in their corpu
 
 Source: K. Choi and J. S. Downie, “A Trend Analysis on Concreteness of Popular Song Lyrics,” DLfM 2019. https://doi.org/10.1145/3358664.3358673
 
+### Words sit on a reused tune by positional parallelism
+
+Textsetting research treats fitting words to a melody as a conflict between a few goals. Hayes ranks them: stressed syllables on strong beats, no gaps where the tune has a note, no extreme compression of syllables into a slot, and line boundaries that match phrase boundaries. Dell and Halle, comparing French and English song, find that a tune reused for a new stanza keeps its per-line syllable count ("positional parallelism") almost without exception in French and often in English, where unstressed syllables are allowed to crowd or thin between beats. Hayes and MacEachern show that English folk quatrains draw on a small inventory of line shapes and keep them across stanzas. Palmer and Kelly show that syllables carrying linguistic or musical accent are sung longer, so a stress landing on a weak note gets stretched.
+
+**Skill implication:** the flow-parity rule in `flow.md`. Paired lines (V1/V2, chorus returns, A/A, stanza/stanza) keep the same sung-syllable count and stress skeleton; the English **loose** dial exists because English textsetting tolerates unstressed float that French and Spanish do not; hooks never get that tolerance because the chorus is the part the ear learns as one object. The ±1 pickup/tail allowance is a craft default derived from the constraint ranking, not a measured threshold; no source gives a numeric tolerance.
+
+Sources:
+
+- Bruce Hayes, "Textsetting as constraint conflict," in *Towards a Typology of Poetic Forms* (John Benjamins, 2009). https://doi.org/10.1075/lfab.2.02hay. Summary: https://brucehayes.org/Textsetting
+- François Dell and John Halle, "Comparing musical textsetting in French and in English songs," same volume. https://doi.org/10.1075/lfab.2.03del
+- Bruce Hayes and Margaret MacEachern, "Quatrain form in English folk verse," *Language* 74 (1998), 473–507. https://www.brucehayes.org/papers/HayesAndMacEachernQuatrainForm1998.pdf
+- Bruce Hayes and Abigail Kaun, "The role of phonological phrasing in sung and chanted verse," *The Linguistic Review* 13 (1996), 243–303.
+- John Halle and Fred Lerdahl, "A generative textsetting model," *Current Musicology* 55 (1993), 3–23.
+- Paul Kiparsky, "A modular metrics for folk verse," in *Formal Approaches to Poetry* (Mouton de Gruyter, 2006).
+- Caroline Palmer and Michael H. Kelly, "Linguistic prosody and musical meter in song," *Journal of Memory and Language* 31 (1992), 525–542.
+
+### Singers want open vowels on long notes, and the same vowel every return
+
+Vocal pedagogy consistently advises open vowels (*ah, oh, aw*) on sustained and high pitches and warns that close vowels (*ee, oo*) and diphthongs are hard to hold up high; vowel modification exists because singers shade vowels toward what the pitch allows. Singable-translation scholarship (Low's pentathlon: singability, sense, naturalness, rhythm, rhyme; Franzon's hierarchy) ranks syllable count, prominence, phrasing, and the vowels on melismatic notes above poetic and semantic fidelity when words must fit an existing melody.
+
+**Skill implication:** the held-vowel rule and the vowel families in `flow.md`. Keeping the same vowel family on a hook's held slot across returns is an inference from pedagogy and from how harmony stacks on a vowel; it is not a measured listener effect. Full vowel parity on every stressed slot is reserved for lanes where the vowel is the instrument (children's, chant, dream pop, worship).
+
+Sources:
+
+- Peter Low, "The Pentathlon Approach to Translating Songs," in *Song and Significance* (Rodopi, 2005).
+- Johan Franzon, "Choices in Song Translation," *The Translator* 14 (2008), 373–399. https://doi.org/10.1080/13556509.2008.10799263
+- John Nix, "Vowel modification revisited," *Journal of Singing* 61 (2004), 173–176.
+- Anthony Mitrano, "Writing for the Legitimate Voice," *New Music Connoisseur*. https://www.newmusicon.org/v10n2/v102mitrano.html
+
+### Rap flow is a grid even when syllables are not counted
+
+Condit-Schultz's MCFlow corpus (124 songs, 374 verses, 5,803 measures, 62,466 syllables) finds flow varies more between songs than between performers, about 4.5 syllables per second on average, roughly 85% of durations inside a verse in a 2:1 ratio (eighths and sixteenths), and the sixteen-bar verse dominant from the mid-1990s. Dividing its totals gives about 10.8 syllables per measure, a corpus average and not a target. Adams names rhyme placement, accent placement, and syntax-to-measure fit as the metrical techniques of flow and treats a deliberate break of the duple grid as a stylistic act. Ohriner's book-length study treats periodicity and patterning as what listeners hear as flow.
+
+**Skill implication:** the bar-parity rule. A rap verse turns the syllable dial off but keeps syllables per bar in a band inside one pattern and lands rhyme on the same beat until a switch at a seam. No source sets a consistency threshold; the rule is a craft reading of what "pattern" means in these analyses.
+
+Sources:
+
+- Nathaniel Condit-Schultz, "MCFlow: A Digital Corpus of Rap Transcriptions," *Empirical Musicology Review* 11 (2016), 124–147. https://doi.org/10.18061/emr.v11i2.4961
+- Kyle Adams, "On the Metrical Techniques of Flow in Rap Music," *Music Theory Online* 15.5 (2009). https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.adams.php
+- Mitchell Ohriner, *Flow: The Rhythmic Voice in Rap Music* (Oxford University Press, 2019).
+
+### Professional lyric pedagogy on syllables and speed bumps
+
+Pattison's prosody teaching tells a second verse to line up its stressed syllables with the first verse's exactly, and calls a stress placed on a weak note "greedy." Ralph Murphy's working rules include never putting a three-syllable word in a two-syllable slot, no "speed bumps" the singer trips on, bringing the addressee in early, and writing verse two before verse one. Accounts of the Stockholm topline method describe melody written before words and each line mirroring the syllable count of the line it answers. Jason Blume advises changing the rhyming vowel between verse and chorus so the sections sound like different rooms. These are practitioner rules, reported partly through secondary sources, not experimental findings.
+
+Sources:
+
+- Pat Pattison, "Perfect Match." https://www.patpattison.com/perfect-match
+- Ralph Murphy, *Murphy's Laws of Songwriting* (Murphy Music Consulting, 2011).
+- Jason Blume, "5 Song Rhyming Pitfalls and How to Avoid Them," BMI. https://www.bmi.com/advice/5-song-rhyming-pitfalls-and-how-to-avoid-them
+- John Seabrook, *The Song Machine* (W. W. Norton, 2015), on melodic math as practised in Stockholm writing rooms.
+
 ## Historical form sources
 
 These sources support the form router rather than exact hit formulas:
@@ -97,6 +149,9 @@ The following are professional defaults because they reliably diagnose drafts. T
 - The bridge should turn the song or stay absent.
 - A title should occupy a memorable structural position.
 - End words should carry meaning.
+- Paired lines keep the same sung-syllable count, stress skeleton, and ending; hook returns are identical.
+- A three-syllable word never goes in a two-syllable slot.
+- The rhyme vowel changes between verse and chorus.
 - One dominant image world usually creates coherence, but a deliberate counter-image can create the turn.
 - The strongest emotional line often describes behavior under pressure instead of naming the emotion.
 - Lean first drafts are easier to deepen than bloated drafts are to sing.

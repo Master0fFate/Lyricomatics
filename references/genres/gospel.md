@@ -8,7 +8,7 @@ Testimony, praise, lament, or an altar call. The core must survive eight minutes
 - **Praise** — names, thanks, declaration. Plain speech that can be shouted. Not a doctrine lecture.
 - **Lament / altar-call** — plea with a body in it; invitation that a room can answer. Bridge as declaration that can modulate in performance without needing new paragraphs on the page.
 
-Christian radio love-song with Jesus swapped for baby is pop ethics failure, not this pocket.
+Christian radio love-song with Jesus swapped for baby is pop ethics failure, not this pocket. Congregational worship, CCM radio, and modern hymn: `worship.md`.
 
 ## Form
 
@@ -41,6 +41,12 @@ Vamp lines short enough to stack. Open vowels on the held names and titles. Clus
 Call, then air. If the page is a paragraph, the choir has nowhere to stand.
 
 Read it as if a room will repeat the last line until it breaks. If you would be embarrassed by that repetition, the line is too clever or too empty.
+
+## Flow parity
+
+Vamp **strict**: a line the choir will stack must be the same line every time, held vowel included. Refrain **strict**. Testimony verses **loose**: speech stress and endings match, unstressed syllables may float with the telling.
+
+Trap: a vamp that adds a word of theology on the fourth pass. The choir cannot follow it. Put the word in the verse.
 
 ## POV & voice
 

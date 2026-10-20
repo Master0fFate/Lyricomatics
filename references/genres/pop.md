@@ -43,6 +43,14 @@ Speak it without the imaginary track. If you cannot, it is poetry cosplay.
 
 Dance-pop: leave a little air for the body. Do not carpet-bomb the chorus with clauses.
 
+## Flow parity
+
+Verses **tight**, pre **tight**, chorus and post **strict**. V2 line n sings V1 line n: same syllables, same stress slots, same ending, one syllable of play only at a pickup or tail. Every chorus return produces one skeleton; the title's held vowel keeps its family every time.
+
+The pre may change its line length from the verse on purpose. It may not change it between pre 1 and pre 2.
+
+Trap: a second verse that grows because the story got interesting. Keep the facts, lose the syllables.
+
 ## POV & voice
 
 I/you for romance, taunt, or self-address. Collective “we” only for an anthem that earned a crowd — unearned we is a campaign ad.

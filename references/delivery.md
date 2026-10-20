@@ -107,7 +107,11 @@ or
 
 `Rhyme: verse loose slant / chorus ABAB`
 
-Skip the note if it adds no practical value.
+or, only when the user supplied music, asked for counts, or asked for strictness:
+
+`Parity: V1/V2 8-8-7-8, stress aligned, tails matched; hook returns identical`
+
+Skip the note if it adds no practical value. Never print the full grid unasked.
 
 ## Alts
 

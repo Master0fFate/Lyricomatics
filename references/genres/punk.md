@@ -7,7 +7,7 @@ A slogan you could paint on a wall. Indictment with a named target. One-breath f
 - **Punk** — short, repeatable, slant-rhyme shout, chorus as slogan, verses as charges. Bridges optional and often unnecessary.
 - **Hardcore** — still shorter patience. Breath-group equals one fist. No melisma, no tongue-twisters, no soft-pop vowels hanging around. Target of indictment must be sayable at full throat.
 
-Rock with a leather jacket is `rock.md`. Diary shame with a sneer but no enemy is `folk.md` in a bad mood.
+Rock with a leather jacket is `rock.md`. Diary shame with a sneer but no enemy is `folk.md` in a bad mood. Confession over distortion with a chorus the room sings back is `emo.md`.
 
 ## Form
 
@@ -40,6 +40,12 @@ Open vowels only when they help the shout (*no, go, you, out, down*). Perfume vo
 Melismatic soft-pop lines are banned. If you wrote a hold that wants a run, you wandered into `rnb.md` or `pop.md` without permission.
 
 Read it as if you have no air left. Then cut 20%.
+
+## Flow parity
+
+Slogan **strict**: same hits, same hard ends, same breath. Verses **tight**; hardcore verses match blow for blow. The shout vowel on the hit stays in its family on every return.
+
+Trap: a charge that adds a name and a syllable in verse two. Cut a word the pit does not need.
 
 ## POV & voice
 

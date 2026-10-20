@@ -41,6 +41,12 @@ Avoid dense consonant clusters on hook holds. Prefer vowels that can be chopped,
 
 Speak it at a sway, not a cipher speed, unless CAST named a rap verse.
 
+## Flow parity
+
+Hook **strict**, and the chopped vowel is the same vowel every time so the chop can echo it. Verses **tight**. Amapiano hooks are often one skeleton repeated; do not vary it to prove range.
+
+Trap: a dance cue that gains a syllable so it reads as a sentence. Cues are not sentences.
+
 ## POV & voice
 
 Romance flex, softlife, party invitation, subtle status. First and second person. Cool, not desperate — unless the brief wants ache, and even then the ache should still dance.

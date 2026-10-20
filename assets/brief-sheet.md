@@ -24,6 +24,8 @@ Section card / budgets:
 
 Vocal density by section (sparse / balanced / dense; rough words per phrase):
 
+Parity dial by section (strict / tight / loose / off; default tight verses, strict hook returns):
+
 Tempo / felt vocal pulse (if known; BPM is not a word quota):
 
 Space for holds, breath, and instrumental gaps:

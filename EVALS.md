@@ -16,6 +16,7 @@ Any one fails the case:
 - Omits a usable memory spine when the form requires one.
 - Adds an unearned bridge or over-budget section whose extra lines serve no necessary beat, purposeful recurrence, or explicit user/music constraint.
 - Uses a fake dialect or invented non-English garnish.
+- Breaks flow parity in a strict-dial section: a chorus return or hook anchor whose syllable count, stress skeleton, or line ending differs from its first statement with no stated reason; or a verse pair that drifts beyond the lane's dial in a lane that did not turn the dial off.
 
 ## Scoring
 
@@ -27,6 +28,7 @@ Also record:
 - unique lyric-line count for the whole song
 - chosen vocal density and rough word-count range per section; reasons for retained outliers
 - syllable/stress or breath concerns that word counts miss
+- parity grid for every returning section: sung-syllable count and stress skeleton per paired line, the dial applied, and each pair that breaks it
 - supplied BPM versus felt vocal pulse, if relevant; no invented tempo
 - exact V2 move
 - hook/title position, stable anchor, and repeat placement
@@ -170,6 +172,48 @@ You call, I leave the plate
 
 **Pass:** Keeps eight phrases despite the normal 2–6-line pop chorus budget; four exact anchor returns survive. Does not demand a new plot fact from every recurrence. Response lengths follow the user map. No claim of exact melody fit from phrase lengths alone.
 
+### 21. Verse parity under a shared tune
+
+**Prompt:** Write a current pop song with two verses, a pre, and a chorus about moving a parent into care and keeping their house keys. No melody supplied. Verse 2 is a month later. Just write it.
+
+**Pass:** Verse 2 line n matches verse 1 line n in sung-syllable count (one syllable of play only at a pickup or tail), stress skeleton, and ending. Pre 2 matches pre 1. All chorus returns share one skeleton. The evaluator counts; a draft that passes density and fails parity fails the case. No claim of exact fit without music.
+
+### 22. Held vowel on the hook return
+
+**Prompt:** Write a three-chorus R&B hook around the phrase "I'm not done waiting." Long held note on the last word of the first line. Change one word in the final chorus to pay the song off. Just write it.
+
+**Pass:** The anchor returns identical in choruses 1 and 2. The final-chorus change happens inside the same skeleton and keeps the held slot's vowel family open. Does not vary every chorus to prove range. Does not add a line to carry the change.
+
+### 23. Bar parity with a deliberate switch
+
+**Prompt:** Write a 16-bar UK drill verse and a 4-bar chant hook about a cousin who keeps borrowing the car. Switch flow once, at bar 9, and say so. No Chicago slang. If you do not have the London register, write plain and flag it.
+
+**Pass:** Bars 1–8 keep one pattern: syllables per bar in a narrow band, end-hit on the same beat. Bars 9–16 keep a second pattern as consistently. The switch is named, not accidental. The hook returns identical. No slang salad; register either owned or flagged.
+
+### 24. Dial off where the form has no partner
+
+**Prompt:** Write a through-composed musical-theatre scene for a dispatcher talking a stranded driver through a storm. No chorus. One phrase the dispatcher says twice, once early, once at the end. 1990s setting. No melody supplied.
+
+**Pass:** The agent does not force syllable parity between passages that never share music, and does not flag the lack of it. The repeated phrase returns with the same skeleton. Stress correctness still holds throughout. Does not invent a chorus to have something to pair.
+
+### 25. Strict dial, full vowel parity
+
+**Prompt:** Write a preschool counting song to five, each verse adding one animal at the market. Four-beat lines, one verse per number, a refrain the kids shout. Just write it.
+
+**Pass:** Every verse is verse 1's exact skeleton with the new number and animal in the same slots; pickups only if every line has one; the stressed vowels keep their family across verses; the refrain never changes. No baby-talk spellings, no moral. Does not borrow a traditional rhyme's skeleton.
+
+### 26. Counted meter in another tradition
+
+**Prompt:** Write a four-stanza English-language corrido about a bus driver who refused to leave a flooded route. Classic corrido shape: an opening that gives place and date, a farewell stanza, eight-syllable lines. No Spanish garnish. Just write it.
+
+**Pass:** Every line counts eight sung syllables in English with the stress skeleton shared stanza to stanza; the opening and despedida are present; no invented Spanish; no crime glamour. The agent names the count as English counting, not Spanish rules, and does not claim the result is a Spanish-language corrido.
+
+### 27. Critique catches drift the user cannot hear
+
+**Prompt:** Critique only, no rewrite. [Supply an original lyric where V1 lines run 8-8-8-8 syllables and V2 lines run 8-11-8-10, with one chorus return that adds the word "still".] Why does my singer say verse 2 feels rushed?
+
+**Pass:** Names the parity failure with counts per line, identifies the added word in the chorus return, and explains the cram in plain words. Does not rewrite. Does not blame tempo or the singer. Offers at most 3–5 alt lines that fix the count without inverting syntax.
+
 ## Observed regression (live two-brief check)
 
 A before/after run on the same alternative-rock and sparse-house briefs found leaner verses in the new version. It also exposed a miss: the new rock chorus had 8 displayed phrases against a 2–6 default, and the sparse-house hook was short without a clearly stronger emotional turn. The skill now requires a section-by-section count and a distinct-hook check before delivery. A retest on the same briefs produced a 4-line rock V1 and 6-line chorus, with a 4-line house hook. The rock chorus now meets its range; the house lyric remains sparse. This is a structural regression check, **not** proof of stronger emotional writing or melody fit. Judge the hooks blind with human listeners before making a general quality claim.
@@ -191,6 +235,8 @@ This was **not the full regression suite**, a before/after quality comparison, a
 
 ## Regression targets
 
-After any change to SKILL.md, economy, form, delivery, anti-slop, rhyme-prosody, or a genre file, rerun at least cases 1, 2, 3, 4, 8, 9, and 10. For phrase-density, hook, or repetition changes, also run cases 13–20 (both versions of 14). Record which checks actually ran; a source review is not a fresh-session generation run, and structural compliance is not listener-tested catchiness.
+After any change to SKILL.md, economy, form, delivery, anti-slop, rhyme-prosody, flow, or a genre file, rerun at least cases 1, 2, 3, 4, 8, 9, and 10. For phrase-density, hook, or repetition changes, also run cases 13–20 (both versions of 14). For parity or dial changes, also run cases 21–27. Record which checks actually ran; a source review is not a fresh-session generation run, and structural compliance is not listener-tested catchiness.
+
+The v2.2 parity and genre expansion was source-reviewed only. Cases 21–27 were written with the change and have not been generated in a fresh session. The thirteen new genre files were checked for structure, slug references, and absence of quoted lyrics, not by native speakers of the non-English lanes.
 
 The suite passes only if sparse forms stay sparse **and** long forms remain possible. A system that solves over-writing by making every song four lines has merely discovered a cheaper failure.

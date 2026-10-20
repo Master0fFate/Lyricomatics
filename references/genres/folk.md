@@ -7,7 +7,7 @@ A kitchen, a voicemail, a receipt, a name. The refrain is the thing they keep al
 - **Folk** — strophic or verse-heavy story; place and work may appear, but the camera is closer than country-ledger. Moral ambivalence. Last lines that open.
 - **Singer-songwriter** — diaristic I, letter to you, occasional character study. Time elastic. Line break honesty over scheme. Title often understated.
 
-If the town’s economy and a bar-top proverb are the engine, `country.md` is the better primary. If a band throat and a shirt-print chorus dominate, `rock.md`.
+If the town’s economy and a bar-top proverb are the engine, `country.md` is the better primary. If a band throat and a shirt-print chorus dominate, `rock.md`. Lullaby or a song for a classroom: `childrens.md`.
 
 ## Form
 
@@ -42,6 +42,14 @@ Breath groups follow thought, not bar fetish. Still: if you cannot say it to one
 Leave space. Overwritten folk is pop with a chair.
 
 Do not costume-dialect a region you were not given. Plain correct speech beats fake rural phonetics.
+
+## Flow parity
+
+Strophic form sings one tune for every stanza, so this is the loudest place for drift. Stanzas **tight** to stanza one, line for line. Singer-songwriter talk-verse may go **loose** with the stress count held. Refrain **strict**.
+
+The old quatrain forms allow only a few line shapes and keep them across every stanza. That is parity by tradition, not by accident.
+
+Trap: a conversational stanza that is honest and eleven syllables against its twin's eight. Keep the honesty, match the count.
 
 ## POV & voice
 

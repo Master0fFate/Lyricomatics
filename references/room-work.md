@@ -24,6 +24,7 @@ Name, in 5–10 lines if anything load-bearing was inferred:
 - POV and tense
 - genre pocket, era target, and melody status
 - form plus the section card from [economy.md](economy.md), including vocal density and rough words per phrase by section
+- parity dial by section, taken from the genre file's `Flow parity`; default tight verse pairs, strict hook returns
 - supplied tempo versus felt vocal pulse, if known; planned space for breath, holds, and instrumental gaps
 - central tension: two truths that cannot both stay comfortable
 - dominant image world, with a deliberate counter-image only if it creates the turn
@@ -84,9 +85,11 @@ Mouth-feel. Hook a tired human can catch on pass one. Each displayed line is one
 
 When music is supplied, match phrase slots, natural word stress, pickups, holds, and rests. Check phrase word counts as a rough warning, then syllable load and breath. BPM is not a word quota: half-time can leave space on a fast beat, and slow beats can carry dense delivery. Open rhyme-prosody only if the mouth fails.
 
-**Good:** Chorus syllables stable enough to recognize (mantra pockets may loop). Speech order, then rhyme — not rhyme, then Yoda. Hook is shoutable or croonable in the actual pocket.
+Then pair the lines. V1 line n against V2 line n, each chorus return against the first, A against A. Same sung-syllable count, same stress slots, same ending, to the lane's dial. Hook returns identical. Held vowel keeps its family. Read both verses to one made-up tune; if you rushed or stretched anywhere, the page is wrong, not the singer. Open [flow.md](flow.md) only if a pair fails or the user asked for counts.
 
-**Fail:** Page-only cleverness as the only test. Consonant clusters on a belted title. Inverted syntax for a perfect end-rhyme. Treating intentional syncopation as an error.
+**Good:** Chorus syllables stable enough to recognize (mantra pockets may loop). V2 sings V1's tune without cramming. Speech order, then rhyme — not rhyme, then Yoda. Hook is shoutable or croonable in the actual pocket.
+
+**Fail:** Page-only cleverness as the only test. Consonant clusters on a belted title. Inverted syntax for a perfect end-rhyme. Treating intentional syncopation as an error. A V2 line two syllables longer than its twin because the sentence was nicer. Loosening the dial mid-draft to save a line.
 
 ## BLEED
 
@@ -96,9 +99,9 @@ Knife: [anti-slop.md](anti-slop.md). If they asked for notes, not a rewrite: [cr
 
 First compress: cut explanation, duplicate evidence, throat-clearing, and the line after the payoff. Check density in each section independently of line count. Protect intentional hook recurrence; do not treat recognition as duplicate evidence. Then kill abstract-noun piles, motivational-poster diction, symmetrical healing arcs, missing idiosyncrasy, inverted syntax, purposeless title-stuffing, and sermon endings.
 
-**Good:** A retrievable hook. Fewer unique lines where repetition does the job. Section contrast. One unresolved speck left on purpose. User’s diction intact — you did not “upgrade” them into essay English.
+**Good:** A retrievable hook. Fewer unique lines where repetition does the job. Section contrast. One unresolved speck left on purpose. Paired lines that still match after the cuts. User’s diction intact — you did not “upgrade” them into essay English.
 
-**Fail:** Polish that adds Latinate. Killing the weird line because it was uneven. Moral sticker on the last bar. An over-budget verse where no one can name the new beat. A second rewrite that sanded off the voice you were hired to keep.
+**Fail:** Polish that adds Latinate. Killing the weird line because it was uneven. Moral sticker on the last bar. An over-budget verse where no one can name the new beat. A cut that fixed economy and broke parity, so V2 now sings short. A second rewrite that sanded off the voice you were hired to keep.
 
 ## OFFER
 
@@ -112,4 +115,4 @@ Conventions: [delivery.md](delivery.md). The sheet lives in a ` ```text ` block 
 
 ## Passing through
 
-LISTEN may be zero questions only on a complete brief or an explicit just-write-it. CAST may be silent on just-write-it. Critique skips HOOK/CUT. On a hot draft, SING/BLEED still happen in the same pass — but they happen. If you cannot point to the memory spine, the section budget, the V2 move, and a real cut you made, you did not finish the room.
+LISTEN may be zero questions only on a complete brief or an explicit just-write-it. CAST may be silent on just-write-it. Critique skips HOOK/CUT. On a hot draft, SING/BLEED still happen in the same pass — but they happen. If you cannot point to the memory spine, the section budget, the V2 move, the parity grid for every returning section, and a real cut you made, you did not finish the room.

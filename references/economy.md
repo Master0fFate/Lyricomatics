@@ -44,11 +44,15 @@ These lanes are not genre laws. R&B may use very few words across long held note
 
 Use a lighter hook than verse when that contrast serves recall. Short words can still make a crowded line, and long words can hide many syllables. Check the mouth as well as the count.
 
+Words per phrase is a density check. It is not the parity check. Two lines with the same word count can carry eight and twelve syllables; two lines with different word counts can pair perfectly. Density decides how full a section is. Parity decides whether V2 can sing V1's tune. See [flow.md](flow.md).
+
 ### Density pass
 
 Check **each section**, not just a song-wide average. Flag phrases outside its chosen range, then cut needless clauses, replace tongue-heavy wording, or retain a phrase for a clear delivery reason. Preserve complete musical thoughts. Never split or glue lines merely to pass the count.
 
 With music, test whether rests and held notes still fit after the words. Without music, leave verbal space and call the fit provisional. Do not fill every gap with ad-libs. A sparse verse and a dense verse should not have the same verbal load wearing different labels.
+
+After the density pass, run the parity grid on every section that returns. Density can pass while parity fails: V2 may sit in the same range as V1 and still hand the singer two extra syllables on line three. Pair the lines. Match them to the lane's dial. [flow.md](flow.md).
 
 ## Start lean
 
@@ -93,6 +97,7 @@ V1 job / budget:
 Pre job / budget:
 Hook job / budget:
 Vocal density / rough words per phrase, by section:
+Parity dial, by section (genre file; default tight verses, strict hook returns):
 Tempo / felt pulse / phrase map, if supplied:
 Space for holds, breath, and instrumental gaps:
 Hook anchor / repeat placement / optional response:
@@ -123,7 +128,7 @@ Repetition is a primary tool for recall and participation, not something to remo
 
 Plan the recurrence before filling the verses:
 
-- Pick one **anchor phrase** that carries the hook's main action. Keep its words, stress shape, and displayed lineation stable on return.
+- Pick one **anchor phrase** that carries the hook's main action. Keep its words, stress shape, syllable count, held vowel, and displayed lineation stable on return.
 - For a short mainstream or trap hook, try the anchor at the opening and return/payoff, with a short answer or consequence between them. This is one useful pattern, not a mandatory repeat count. Chant, AAB, AABA, narrative, and through-composed forms keep their own logic.
 - Repeat the chorus or refrain substantially unchanged so the listener can learn it. Do not paraphrase each return to prove you own a thesaurus.
 - Use call-and-response, a short echoed word, or rhythmic parallelism when the pocket wants it. Choose the useful device; do not stack all three by habit.

@@ -23,6 +23,7 @@ Do not bulk-read this folder during lyric work. SKILL.md is the load map. Intake
 | [voice.md](voice.md) | Diction, POV, persona drift. |
 | [form.md](form.md) | Section function, title placement, why a bridge exists. |
 | [rhyme-prosody.md](rhyme-prosody.md) | Mouth failed. Stress, pocket, scheme. |
+| [flow.md](flow.md) | A repeated section does not sing the same twice. Syllable, stress, and vowel parity; the fix list; per-lane dials. |
 | [examples.md](examples.md) | Need an original before/after, not a lecture. |
 
 ## Genre

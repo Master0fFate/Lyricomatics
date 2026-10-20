@@ -39,6 +39,14 @@ Leave air for a steel line, a pause, a swallow. Not every bar is a paragraph.
 
 No fake twang spellings as costume. *Gonna* is speech. *Gonnaaa* and *ol’* wallpaper is minstrel-adjacent laziness. Write words; let the singer lean.
 
+## Flow parity
+
+Radio verses **tight**; story and americana verses may go **loose** when the lane talks, but the stress count and the line ending still match. Chorus **strict**: the proverb sings the same every time, held vowel included.
+
+Count the dialect's stress, not the dictionary's. If the county says it in two beats, it is two beats on every return.
+
+Trap: V2 needs one more fact and takes one more syllable per line to carry it. Trade a word, not the tune.
+
 ## POV & voice
 
 First-person witness. Second-person letter. Third-person small-town camera. Place acts. Jobs exist. Kinship has obligations.

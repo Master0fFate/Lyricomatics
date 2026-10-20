@@ -20,7 +20,7 @@ One consequence or turn
 Change time, place, evidence, knowledge, power, or consequence
 Do not re-prove Verse 1
 Keep only what changes the hook’s meaning
-Stop when the hook is earned again
+Match Verse 1 line for line in syllables, stress, and endings
 
 [Bridge]
 Only the turn the other sections cannot do
@@ -31,6 +31,9 @@ Repeat substantially unchanged
 Vary one line only if it pays off
 
 Alts
+-
+
+Parity (only if music, counts, or strictness were requested)
 -
 
 Questions

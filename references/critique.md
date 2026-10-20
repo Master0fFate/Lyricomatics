@@ -16,6 +16,7 @@ Read it cold. Speak it. Then say what is broken in one sentence a skeptical A&R 
 - Mouth that is not this person
 - Image logic cheating on itself
 - Stress and rhyme fighting the beat
+- V2 that cannot sing V1's tune; chorus returns that drift in count
 - Caption residue
 - Wrong pocket or era
 
@@ -53,6 +54,7 @@ Do not bulk-read `references/`. Name the loudest break. Open **one** file. Mark 
 | Diction, POV, persona, fake slang | [voice.md](voice.md) |
 | Section job, fake bridge, mantra vs story | [form.md](form.md) |
 | Mouth, stress, scheme | [rhyme-prosody.md](rhyme-prosody.md) |
+| Paired lines differ in syllables, stress, or ending; singer would cram or stretch | [flow.md](flow.md) |
 | Caption residue, therapy arc, graveyard words | [anti-slop.md](anti-slop.md) |
 | Pocket never-do, density, hook job | `genres/<slug>.md` |
 
@@ -89,6 +91,8 @@ Sharpen the vehicle. Do not add a second metaphor to “clarify.” [craft.md](c
 ### 5. Rhyme / prosody
 
 Speak it. Stress on the beat? End-word carrying meaning? Inverted syntax for a perfect rhyme? Clusters on a held title?
+
+Then pair the sections. Count sung syllables and mark stresses on V1 and V2 line for line, and on every chorus return. Mark each pair that breaks the lane's dial, with the count: `[Verse 2, L3] 11 against V1's 8; singer crams the middle.` Do not mark a rap verse for syllable drift when the genre file sets the dial off; mark its bar parity instead. [flow.md](flow.md).
 
 If it only works on the page, it does not work. [rhyme-prosody.md](rhyme-prosody.md).
 

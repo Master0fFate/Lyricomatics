@@ -8,7 +8,7 @@ Lyric real estate is scarce. House wants a sentence that can loop without rottin
 - **Afterhours** — still mantra, cooler blood, less festival grammar. Same scarcity of unique lines.
 - **Trip-hop / downtempo** — denser poetic fragments allowed, lower voice, incomplete sentences, noir that is mundane not costume. No tidy resolution.
 
-If they want a full radio pop novel on a four-on-the-floor, that is `pop.md` — and you should still steal this kill list so the verse does not eat the loop.
+If they want a full radio pop novel on a four-on-the-floor, that is `pop.md` — and you should still steal this kill list so the verse does not eat the loop. Disco and boogie with a live chant: `funk-disco.md`. Darkwave, synthwave, and industrial with a declaimed vocal: `post-punk-goth.md`.
 
 ## Form
 
@@ -39,6 +39,12 @@ Trip-hop: behind the beat, incomplete sentences okay. Leave negative space. Do n
 If you cannot imagine the same line lasting forty cycles without rotting, rewrite the line, do not write forty variations.
 
 Speak-test: house should be easy at volume; trip-hop should be easy at 2 a.m. in a small room.
+
+## Flow parity
+
+Mantra **strict** by definition: forty cycles of one skeleton. Any verse **tight**. Trip-hop fragments that never return are **off**; a crooked image that does return is **strict** to its first statement.
+
+Trap: developing the mantra by one syllable on the drop. That is not development. That is a stumble at peak volume.
 
 ## POV & voice
 

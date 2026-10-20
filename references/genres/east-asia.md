@@ -41,6 +41,12 @@ Idioms that require cultural double-take usually fail on first listen and fail i
 
 If a line is for a dance break, it must survive being chopped. Paragraphs will not.
 
+## Flow parity
+
+**Strict** in every English section, verses included. The topline usually exists before the words, the singers are often non-native, and the choreography hits on counts. One syllable per note, same skeleton every return, held vowel matched on the gesture hold.
+
+Trap: an English verse that reads as better grammar with one extra syllable. The grammar loses.
+
 ## POV & voice
 
 Idol address to fan (“you”), self-empowerment, crush, or cinematic concept persona. Multiple members can mean multiple colors — only with a brief.

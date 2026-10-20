@@ -5,7 +5,7 @@ Name the lane. Name the language of record. Club heat, romantic ache, or narrati
 ## Sub-lanes
 
 - **Reggaeton / urbano** — dembow-aware verse, earworm coro/pre, perreo energy or romantic urbano. Rhythmic syllable play, stutter hooks. Direct you.
-- **Regional Mexican (corrido and kin)** — storytelling, pride, romance, chronicle. Names, places, events. Form seriousness. Not a party template wearing a hat.
+- **Regional Mexican** — corrido, banda, norteño, sierreño, tumbados: own file, `regional-mexican.md`. Stay here only when a reggaeton or salsa brief borrows a Mexican image. Brazilian Portuguese lanes: `brazil.md`.
 - **Salsa / bachata** — dance-floor romance, ache, swagger. Coro/montuno thinking: repeats that intensify, not new paragraphs. Bachata leans long vowels; salsa coro wants shoutable turns.
 
 Do not flatten these into one “latino heat” voice. If the brief cannot pick a lane, ask and stop.
@@ -41,6 +41,12 @@ Bachata: smoother long vowels, ache that can be held. Do not cluster-chew the ti
 Corridos: narrative clarity over ornamental mouth-feel. Names must be sayable and earned with predicates.
 
 Leave coro air. A paragraph coro is an English-pop mistake.
+
+## Flow parity
+
+Coro **strict** in every lane; a plaza cannot shout a line that changes shape. Reggaeton and bachata verses **tight**. Salsa verses **tight**, montuno **strict**. Spanish counts to the last stressed syllable and merges adjacent vowels across words; do not count it with English rules.
+
+Trap: a stutter hook whose stutter count changes on return. The stutter is a skeleton too.
 
 ## POV & voice
 

@@ -166,6 +166,18 @@ For the crown I fight tonight
 → I’m fighting for the shift.
 ```
 
+### Parity drift
+
+**Signal:** V2 line 3 carries eleven syllables where V1 line 3 carried eight. A chorus return gains a word. One verse ends every line on a stressed syllable, its twin ends on tails. The singer must cram, stretch, or swallow, and the vocal rhythm lurches on every return.
+
+**Move:** Pair every line with its partner and match the template to the lane's dial. Contract, drop a function word, swap a synonym by count. Fix the partner, never the template. Hook returns identical. [flow.md](flow.md).
+
+```
+V1  I turn the chipped side to the wall
+V2  I told my sister you were only travelling for work
+→   I tell my sister you're at work
+```
+
 ### Fake dialect
 
 **Signal:** Random AAVE, Patois, “country” phonetic spellings, slang salad from three neighborhoods and a TV show. The writer does not live in that mouth.
@@ -286,7 +298,7 @@ Score each 0–2:
 3. **Economy** — every section earns its length and phrase density; space fits the intended delivery; no duplicate proof or fake bridge. Purposeful hook repeats are not duplicate proof.
 4. **Motion** — sections change pressure, knowledge, power, participation, or meaning.
 5. **Voice** — diction, behavior, humor, and omission belong to this narrator.
-6. **Prosody** — natural speech stress, useful end-words, breathable phrases; exact musical fit only when music exists.
+6. **Prosody** — natural speech stress, useful end-words, breathable phrases; paired lines match to the lane's dial; exact musical fit only when music exists.
 7. **Originality** — no lifted skeleton, default premise, mixed-image accident, or prop cosplay.
 8. **Aftereffect** — at least one line, turn, or recurrence leaves emotional residue appropriate to the brief. Clean joy may leave lift; comedy may leave the laugh; not every song needs a wound.
 
@@ -302,6 +314,7 @@ If a verse that needs proof has no charged behavior, object, place, or relation 
 If a verse exceeds budget and you cannot justify each extra line by a necessary beat, deliberate refrain, or explicit user/music constraint — cut.
 If V2 does not change time, place, evidence, knowledge, power, or consequence — you did not write V2.
 If a tired person cannot catch the hook, it is not a hook.
+If V2 cannot sing V1's tune without rushing a line, you wrote two songs and labelled them verses.
 If the hook could be moved intact to ten songs in the lane, it has fluency but no owner.
 If the last line is a lesson they did not ask for, throw the lesson, keep the image.
 If you would be embarrassed to defend this against the pocket’s never-do list, you already know.

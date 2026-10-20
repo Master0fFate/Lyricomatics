@@ -40,6 +40,12 @@ Humor is traditional, not mandatory. If the brief is a funeral, do not inject a 
 
 No minstrel phonetics. No “authentic dialect” invented from vibes. If the brief does not give a register, write plain trouble in clean speech the singer can lean.
 
+## Flow parity
+
+A and its repeat **strict** to each other; a lean variation may add or drop one pickup syllable and nothing else. B **loose** inside the stanza, **tight** to the other stanzas' B lines. Stretch vowels open and keep them open on the same beat in every stanza.
+
+Trap: a B that pays off with a longer joke each stanza. The joke lands harder when it fits.
+
 ## POV & voice
 
 First-person trouble. Address: lover, landlord, devil, self. Second person can tease or accuse. Third person is rarer and should still feel like talk, not reportage from a folklore class.

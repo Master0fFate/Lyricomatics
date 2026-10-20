@@ -8,7 +8,7 @@ A person wants something in this room, now. The song is an action, not a mood ba
 - **Charm / comic list** — zipper lists that escalate; each item turns; wit matches the character’s class and era, not the lyricist’s.
 - **Eleven-o’clock / reprise** — the same title with a new meaning; reprise is an argument, not a copy.
 
-Pop ballad feelings with a “musical” label still fail here. If there is no objective, it is not this pocket.
+Pop ballad feelings with a “musical” label still fail here. If there is no objective, it is not this pocket. Parody, novelty, and stand-up with a guitar: `comedy.md`.
 
 ## Form
 
@@ -39,6 +39,14 @@ Character must be able to say it in their intelligence, class, period, and breat
 No melisma greed on the page. Write the spine; the singer may bloom.
 
 List songs need escalating stress, not a catalog dump. The last item should recast the list.
+
+## Flow parity
+
+Through-composed passages are **off**: new text, new music, no partner. Every reprise and every return of a refrain is **strict** to its first statement, so the changed meaning rides an unchanged skeleton. List songs **strict** item to item; the last item may run long once, for the joke, and only there.
+
+Stress correctness is law whatever the dial says.
+
+Trap: a reprise that drifts a syllable to fit the new meaning. Change the word inside the slot.
 
 ## POV & voice
 

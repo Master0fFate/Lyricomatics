@@ -2,7 +2,7 @@
 
 Family files in `genres/` are the law. The open web is not a genre bible.
 
-Use this file when the user names a lane the router cannot cover: a microgenre, a scene, an aesthetic, a regional split the family file only mentions in passing. Example: they say angelcore, corridos tumbados, hyperpop, phonk, UK drill as a distinct mouth from the hip-hop file's drill paragraph.
+Use this file when the user names a lane the router cannot cover: a microgenre, a scene, an aesthetic, a regional split the family file only mentions in passing. Example: they say angelcore, hyperpop, phonk, witch house, Jersey club rap, a city scene the family file never names.
 
 Do not use this file for "rap", "pop", "country", or any other row in [genres/index.md](genres/index.md). Those already have a mouth contract. Do not search to decorate a known pocket.
 
@@ -22,10 +22,10 @@ Do not fire because you are curious. Do not fire on just-write-it plus "sad song
 
 Name the nearest family slug, or none.
 
-- UK drill, Jersey club rap, grime -> `hip-hop.md` still owns the kill list.
+- Jersey club rap, phonk -> `hip-hop.md` still owns the kill list. UK drill and grime have their own file now: `uk-rap.md`, no search needed.
 - Hyperpop, PC Music vocal -> `pop.md` or `electronic.md` as primary by whether the hook is a text or a loop.
-- Angelcore, witch house adjacent, holy-sad bedroom -> often `folk.md` or `electronic.md` by throat; the niche notes carry the image system.
-- Corridos tumbados -> `latin.md` kill list and language ethics still win.
+- Angelcore, witch house adjacent, holy-sad bedroom -> often `dream-pop.md`, `folk.md`, or `electronic.md` by throat; the niche notes carry the image system.
+- Corridos tumbados -> `regional-mexican.md` is a family file now. Only a sub-scene inside it needs this file.
 
 The family kill list and AI failure modes still apply. Web notes cannot override them. Web notes cannot authorize fake dialect or lifted lines. [ethics.md](ethics.md).
 

@@ -9,7 +9,7 @@ Speech under a grid. Reputation in the mouth. If it cannot be said by this narra
 - **Drill** — chant hook, short lethal couplets, clipped consonants, threat as climate not costume.
 - **Conscious / abstract** — monologue that earns extra length. Thesis in plain speech. Image chains allowed; seminar diction is not.
 
-Name the sub-lane in CAST. Do not blend all four into a tour of “rap.”
+Name the sub-lane in CAST. Do not blend all four into a tour of “rap.” UK drill, grime, and garage MC work have their own mouth: `uk-rap.md`.
 
 ## Form
 
@@ -46,6 +46,14 @@ Do not shorten solely because the beat has a high BPM label. Trap often uses a h
 A line that needs a gloss after the bar already failed.
 
 Read it at performance speed. If you gasp mid-thought in trap, you overwrote. If boom-bap feels like a caption, you underwrote.
+
+## Flow parity
+
+Verse syllable dial **off**: flow is the design. Bar parity is not optional. Inside one flow pattern, syllables per bar stay in a band and the rhyme lands on the same beat; change pattern only at a seam (every four bars, the hook, a new camera) and name the switch in CAST. Drill couplets: the end-hit sits on the same beat with the same clipped consonant family.
+
+Hook **strict**. A chant that gains a syllable on return is not a chant. Melodic rap hooks match the held vowel on every return.
+
+Trap: a bar that doubles its load because the punchline needed room. Cut the setup instead.
 
 ## POV & voice
 

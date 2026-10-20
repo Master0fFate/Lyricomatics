@@ -17,7 +17,7 @@ Missing blood → event and chorus job.
 Missing mouth → who sings, who hears, banned words.
 Missing texture → one behavior, object, verbal habit, or unfair image. A proper noun is optional.
 Named historical lane → ask era or reference period if it is unclear.
-Lyrics-to-existing-music → ask for melody/demo, bar map, scansion, or phrase slots.
+Lyrics-to-existing-music → ask for melody/demo, bar map, scansion, or phrase slots. Notes per phrase becomes the syllable budget; parity goes strict.
 Vague on everything → start with the five bite questions, then at most one more.
 
 Never paste the banks below into chat. Never paste or number the full bank at a human.
@@ -44,7 +44,7 @@ Steal only what the user did not already answer.
 5. Form: radio pop, story song, mantra, AABA, strophic, verses-and-hook, want-song, other.
 6. Era target: period-authentic, contemporary, or a named blend.
 7. Melody status: free lyric, topline to existing music, or revision against a demo/scansion.
-8. Rhyme appetite: dense, moderate, sparse.
+8. Rhyme appetite: dense, moderate, sparse. Parity: verses matched syllable for syllable (default), or free talk-sung phrasing on purpose.
 9. True names, jobs, places, verbal habits, or behaviors worth locking.
 10. One unfair-advantage detail — what only this narrator would notice or admit.
 11. Ending neatness: scab (0) to sermon (5). Default scab-ward if they shrug.
